@@ -30,6 +30,11 @@ def searchAndReplaceInFile(filename, regExp):
         if not re.search(regExp, line):
             print line
 
+def returnRegexMatchesFromText(text, regExp):
+    pattern = re.compile(regExp)
+    matches = pattern.findall(text)
+    return matches
+
 def getProduct(url, productfilename):
     req = urllib2.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     page = urllib2.urlopen(req).read()
@@ -37,14 +42,27 @@ def getProduct(url, productfilename):
     name_box = soup.find_all('li')
     createFileDelim('list.txt', name_box, True, '>>')
     text = openFile('list.txt')
-    pattern = re.compile(r'>>(.*)')
-    matches = pattern.findall(text)
-    createFileDelim(productfilename, matches, False, '\n')
+    matchesForProducts = returnRegexMatchesFromText(text, r'>>(.*)')
+    createFileDelim(productfilename, matchesForProducts, False, '\n')
     searchAndReplaceInFile(productfilename, r'>>')
     deleteFile('list.txt')
+
+def getCountry(url, countryfilename):
+    req = urllib2.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    page = urllib2.urlopen(req).read()
+    soup = BeautifulSoup(page, 'html.parser')
+    name_box = soup.find_all('li')
+    createFileDelim('list2.txt', name_box, True, '>>')
+    text = openFile('list2.txt')
+    matchesForCountries = returnRegexMatchesFromText(text, r'(.*)>>')
+    createFileDelim(countryfilename, matchesForCountries, False, '\n')
+    searchAndReplaceInFile(countryfilename, r'>>')
+    #deleteFile('list2.txt')
+
+    
 
 getProduct('https://www.drugs.com/international/paracetamol.html', 'paracetamol.txt')
 getProduct('https://www.drugs.com/international/cyclizine.html', 'cyclizine.txt')
 getProduct('https://www.drugs.com/international/amitriptyline.html', 'amitriptyline.txt')
-
+getCountry('https://www.drugs.com/international/paracetamol.html', 'countries.txt')
 

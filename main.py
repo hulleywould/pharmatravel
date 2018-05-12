@@ -4,6 +4,11 @@ import fileinput
 import os
 from bs4 import BeautifulSoup
 
+def soupInit(url):
+    req = urllib2.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    page = urllib2.urlopen(req).read()
+    return BeautifulSoup(page, 'html.parser')
+
 def createFileDelim(filename, iterable, isText, delimeter):
     file = open(filename, 'w')
     for i in iterable:
@@ -35,16 +40,14 @@ def returnRegexMatchesFromText(text, regExp):
     matches = pattern.findall(text)
     return matches
 
-def getProduct(url, productfilename):
-    req = urllib2.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    page = urllib2.urlopen(req).read()
-    soup = BeautifulSoup(page, 'html.parser')
+def getProduct(url, productname):
+    soup = soupInit(url)
     name_box = soup.find_all('li')
     createFileDelim('list.txt', name_box, True, '>>')
     text = openFile('list.txt')
     matchesForProducts = returnRegexMatchesFromText(text, r'>>(.*)')
-    createFileDelim(productfilename, matchesForProducts, False, '\n')
-    searchAndReplaceInFile(productfilename, r'>>')
+    createFileDelim(productname, matchesForProducts, False, '\n')
+    searchAndReplaceInFile(productname, r'>>')
     deleteFile('list.txt')
 
 def getCountry(url, countryfilename):
@@ -62,7 +65,7 @@ def getCountry(url, countryfilename):
     
 
 getProduct('https://www.drugs.com/international/paracetamol.html', 'paracetamol.txt')
-getProduct('https://www.drugs.com/international/cyclizine.html', 'cyclizine.txt')
-getProduct('https://www.drugs.com/international/amitriptyline.html', 'amitriptyline.txt')
-getCountry('https://www.drugs.com/international/paracetamol.html', 'countries.txt')
+# getProduct('https://www.drugs.com/international/cyclizine.html', 'cyclizine.txt')
+# getProduct('https://www.drugs.com/international/amitriptyline.html', 'amitriptyline.txt')
+# getCountry('https://www.drugs.com/international/paracetamol.html', 'countries.txt')
 

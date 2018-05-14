@@ -13928,4 +13928,7280 @@ exports.data = [{
 	name: "Zydone (Paracetamol and Hydrocodone)",
 	country: "Taiwan",
 	ingredient: "paracetamol"
+}, {
+	name: "Acugesic",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Acuvin (Tramadol and Paracetamol)",
+	country: "Pakistan",
+	ingredient: "tramadol"
+}, {
+	name: "Adamon",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Alkafen (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Amadol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Amadol SR",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Amanda",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Analgan Tram (Tramadol and Paracetamol)",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Analtram (Tramadol and Paracetamol)",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Apolus (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Apo-Tramadol/Acet (Tramadol and Paracetamol)",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Aproxol Plus (Tramadol and Paracetamol)",
+	country: "Hong Kong",
+	ingredient: "tramadol"
+}, {
+	name: "Astradol",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Astradol LP",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Bestodol",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Calmic (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Cetradol (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Clocinol (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal SR",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Didol-P (Tramadol and Paracetamol)",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Dolantag (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Doliprane Pro (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Dolmeri-P (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Dolnix forte (Tramadol and Ketorolac)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Dolocet (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Dolocet Extra (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Dologesic (Tramadol and Paracetamol)",
+	country: "Lebanon",
+	ingredient: "tramadol"
+}, {
+	name: "Dolsic",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Doreta (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Duodol (Tramadol and Paracetamol)",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Esgipyrin-T (Tramadol and Paracetamol)",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Fada Tramadol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Fortadol (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Freze (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Glimadol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Lodam",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Mabron retard",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Madol",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Madol-P (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Madol-SR",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Murtrum",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Napadol (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Nomal",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Nonalges",
+	country: "Oman",
+	ingredient: "tramadol"
+}, {
+	name: "Novodol (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Omodol (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Opatram",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Opatram Duo (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Opdol",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Opdol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Painadol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Painadol-P (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Paratramol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Patral (Tramadol and Paracetamol)",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Paxmax (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Ptr (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Pyredol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Racetram (Tramadol and Paracetamol)",
+	country: "Vietnam",
+	ingredient: "tramadol"
+}, {
+	name: "Resadol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Sensitram",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Sinergix (Tramadol and Paracetamol)",
+	country: "Brazil",
+	ingredient: "tramadol"
+}, {
+	name: "Souladol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Supracalm Duo (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Supradol (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tamol",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Taramol-DT (Tramadol and Paracetamol)",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Taxidol (Tramadol and Aceclofenac)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tolydol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tomin (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Toram",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tracet (Tramadol and Paracetamol)",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Traceta (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Tralex (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tralgit SR",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Trama SR",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramabene",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacat",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacet (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacontin",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadis",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Alkaloid",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol amriya",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Farmal",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Farmal retard",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Farmindustria",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Genfar",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Indo Farma",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Jaka",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Lek",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Memphis",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol MK",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Normon",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol october",
+	country: "Lebanon",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Actavis",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Slovakofarma",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Synteza",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Vitalis",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Winthrop",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol PharmaSwiss (Tramadol and Paracetamol)",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolio EP",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-M",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo ABC",
+	country: "Georgia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor Plus (Tramadol and Paracetamol)",
+	country: "Serbia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Zdorovie",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadox (Tramadol and Paracetamol)",
+	country: "Georgia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramaflash",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramafort",
+	country: "Serbia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramagit",
+	country: "Serbia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal Rapide",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal Retard",
+	country: "Lebanon",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal retard",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramalex-P (Tramadol and Paracetamol)",
+	country: "Tunisia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramalex-SR",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramax",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramazac",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Tramcet (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Traminofenol (Tramadol and Paracetamol)",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Trampar (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tram-Proxyvon",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundin retard",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramylpa (Tramadol and Paracetamol)",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Transic",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Transic-P (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Trany",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Trapalin (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Trapar (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Traumasik",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Traumobol (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Trilat (Tramadol and Paracetamol)",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Trodon",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Trofel Plus (Tramadol and Paracetamol)",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Typhon",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Ultracet (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Ultradol",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Ultram",
+	country: "Egypt",
+	ingredient: "tramadol"
+}, {
+	name: "Ultram (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Urgendol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Urgendol-XL",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Vardol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Xcel (Tramadol and Paracetamo)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Xelita (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Zafin (Tramadol and Paracetamol)",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Zaldiar (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Zaracet (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Zodol",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Zotramid (Tramadol and Paracetamol)",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Acetram (Tramadol and Paracetamol)",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Acugesic",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Acutral (Tramadol and Paracetamol)",
+	country: "Malaysia",
+	ingredient: "tramadol"
+}, {
+	name: "Acutral Effervescent (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Adamon",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Adamon long retard",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Adamon SR",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Admadol",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Adolan",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Adolonta",
+	country: "Pakistan",
+	ingredient: "tramadol"
+}, {
+	name: "Adolonta Retard",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Adorlan (Tramadol and Diclofenac)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Akedolox",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Algesia (Tramadol and Paracetamol)",
+	country: "Bulgaria",
+	ingredient: "tramadol"
+}, {
+	name: "Algotra (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Altadol (veterinary use)",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Amacet (Tramadol and Paracetamol)",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Amadol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Amadol SR",
+	country: "Trinidad & Tobago",
+	ingredient: "tramadol"
+}, {
+	name: "Amaryll",
+	country: "Kenya",
+	ingredient: "tramadol"
+}, {
+	name: "An Tian",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Anadol",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Anadol-SR",
+	country: "Malaysia",
+	ingredient: "tramadol"
+}, {
+	name: "Analab",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Analgex",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Analgex SAP (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Anangor",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Ana-Q",
+	country: "Brazil",
+	ingredient: "tramadol"
+}, {
+	name: "Anatra (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "ApoPatram (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Apo-Tramadol/Acet (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Arrow Tramadol",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Austell-Tramadol",
+	country: "New Zealand",
+	ingredient: "tramadol"
+}, {
+	name: "Bei Pin",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Betram",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Bing Ning",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Biodalgic",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Boldol",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Calmador",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Calmador Plus (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Calmador-calmardor",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Camadol",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Camigesik",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Centrasic",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Ceparidin",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Cetadol (Tramadol and Paracetamol (pediatric))",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Cetamadol (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Cetodol (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Cetra (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Chemmart Tramadol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Clocinol (Tramadol and Paracetamol)",
+	country: "Australia",
+	ingredient: "tramadol"
+}, {
+	name: "Clomadol",
+	country: "Latvia",
+	ingredient: "tramadol"
+}, {
+	name: "Cloq",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Cloq plus (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Contram",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal LP",
+	country: "Hungary",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal retard",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Contramal Uno",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "ConZip",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Corsadol",
+	country: "United States",
+	ingredient: "tramadol"
+}, {
+	name: "Cronus (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Curidol (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Da Ma Err",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Dalmatrol Plus (Tramadol and Paracetamol)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Delparan (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Diliban (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Dolan",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Dolana",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Dolcet (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Doletam (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolgesik",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Dolinof (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Dolmal",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Dolocap",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolodol",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Dolol",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Dolonat (Tramadol and Paracetamol)",
+	country: "Denmark",
+	ingredient: "tramadol"
+}, {
+	name: "Dolonil",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Dolonil-SR",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Doloran",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Dolorex",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Doloten (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Dolotral",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Dolotram",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolozide",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Dolpar",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolpaz",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Doltrahex",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolzam",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Dolzam Retard",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Dolzam Uno",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Domadol",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Domatra Plus (Tramadol and Paracetamol)",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Doreta (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Dorless",
+	country: "Slovenia",
+	ingredient: "tramadol"
+}, {
+	name: "Dotramol (Tramadol and Paracetamol)",
+	country: "Brazil",
+	ingredient: "tramadol"
+}, {
+	name: "Duocetz (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Durela",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Exbol (Tramadol and Paracetamol)",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Fastdol (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Fastfen (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Feng Tong Ding",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Flamotram-P (Tramadol and Paracetamol)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Forcedol (Tramadol and Ketorolac)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Forgesic",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Fortradol",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Foxis (Tramadol and Paracetamol)",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Gelotradol",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Gelotralib",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Gemadol",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Gemadol Retard",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Gesidol",
+	country: "Denmark",
+	ingredient: "tramadol"
+}, {
+	name: "Gesitram",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Hantracet (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Hua Jie Wei",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Hua Qu",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Hycephen (Tramadol and Paracetamol)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Ibudol (Tramadol and Ibuprofen)",
+	country: "Hong Kong",
+	ingredient: "tramadol"
+}, {
+	name: "Ibudol+ (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Ibudol-MR (Tramadol and Chlorzoxazone)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Imadol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Indol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Ixprim (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "K-Alma",
+	country: "Ireland",
+	ingredient: "tramadol"
+}, {
+	name: "Kamadol",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Katrasic",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Kolibri (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Koridol",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Le Shi Pu Kang",
+	country: "Hong Kong",
+	ingredient: "tramadol"
+}, {
+	name: "Limadol",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Linerol (Tramadol and Paracetamol)",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Lucidol",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Lumidol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Lumidol retard",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Lupratac (Tramadol and Paracetamol)",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Mabron",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Mabron MR",
+	country: "Singapore",
+	ingredient: "tramadol"
+}, {
+	name: "Mabron retard",
+	country: "Bulgaria",
+	ingredient: "tramadol"
+}, {
+	name: "Mandolgin",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Manol",
+	country: "Denmark",
+	ingredient: "tramadol"
+}, {
+	name: "Manol Plus (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Matradol",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Maxitram SR",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Megacet (Tramadol and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Metagesic (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Milador",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Minidol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Minidol Plus (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "MNS",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Monoalgic LP",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Monocrixo LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Monotramal LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Morphine Hydrochloride NBCD",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Muaction",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Muzox (Tramadol and Chlorzoxazone)",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Nao Tai",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Naxodol",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Naxodol Plus (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Neutram",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Neutram-P (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Nidesef (Tramadol and Gabapentin)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Noax",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Noax uno",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Nobligan",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Nobligan retard",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Nor-dol (Tramadol and Paracetamol)",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Novadol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Nutram (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Opidol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Orasic",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Oratram",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Orozamudol",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Orphen (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Oxxalgan PR",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Padolten (Tramadol and Paracetamol)",
+	country: "Greece",
+	ingredient: "tramadol"
+}, {
+	name: "Painlax",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Palgotal (Tramadol and Paracetamol)",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Palotrem (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Paramacet (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Paramacet Semi (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Paratram (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Paratramol (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Parcotram (Tramadol and Paracetamol)",
+	country: "Bulgaria",
+	ingredient: "tramadol"
+}, {
+	name: "Patrol (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "PAT-tramadol/acet (Tramadol and Paracetamol)",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Paxilfar",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Paxmax",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Pazital (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "P-Dol (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Pengesic",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Pengesic SR",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Penimadol",
+	country: "Hong Kong",
+	ingredient: "tramadol"
+}, {
+	name: "Peptrad",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Phil Pharmawealth/Karnataka Tramadol Hydrochloride",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Pinorec",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "PMS-Tramadol-Acet (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Poltram",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Poltram Combo (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Poltram Retard",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Pontalsic (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Postadol",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Pradonal (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Prontalgin",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Prontofort",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Protradon",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Pyredol (Tramadol and Paracetamol)",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Qi Zhi",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Qimaite",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Qu Feng",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Qu Ming (pediatric)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Qu Teng",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Qu Tong Kang",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Qutong",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Racetram",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Racol (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Radol",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Ralgen",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Ralgen SR",
+	country: "Hungary",
+	ingredient: "tramadol"
+}, {
+	name: "Ralivia",
+	country: "Hungary",
+	ingredient: "tramadol"
+}, {
+	name: "Rampar (Tramadol and Paracetamol)",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "RAN-Tramadol/Acet (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Rapat (Tramadol and Paracetamol)",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Rapicet (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Rapidol",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Recalm",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Relidol",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Rui Li Ping",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Rybix ODT",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Ryzolt",
+	country: "United States",
+	ingredient: "tramadol"
+}, {
+	name: "Sedoloris (Tramadol and Paracetamol)",
+	country: "United States",
+	ingredient: "tramadol"
+}, {
+	name: "Sefmal",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Seminac",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Seminac Continus",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Simatral",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Sinergix (Tramadol and Ketorolac)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Siverol",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Staricet (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Stemadol",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Strenduo (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Sylador",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Symtram (Tramadol and Paracetamol)",
+	country: "Brazil",
+	ingredient: "tramadol"
+}, {
+	name: "Syndol",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Synerjet (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Synerjet ER (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Synerjet Semi (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Synerjet-ER (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tadol",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tai Mei Ding",
+	country: "Denmark",
+	ingredient: "tramadol"
+}, {
+	name: "Takadol",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Tamolan",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tandol",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "TDL",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tendia",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Terry White Chemists Tramadol",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Teva-Tramadol/Acetaminophen (Tramadol and Paracetamol)",
+	country: "Australia",
+	ingredient: "tramadol"
+}, {
+	name: "Theradol",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Ti Ma Er",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tilodol SR",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Timarol",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Timarol-Par (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Timasen",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tioner",
+	country: "Brazil",
+	ingredient: "tramadol"
+}, {
+	name: "Tioner Retard",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tiparol",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tlusic",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tol",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tomim (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tong Ting",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Topalgic",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Topalgic LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Trabar",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Trabilin",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Trabilín",
+	country: "Malaysia",
+	ingredient: "tramadol"
+}, {
+	name: "Tracaine",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Tracan (Tramadol and Paracetamol)",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tracemol (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tradef",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tradiol (Tramadol and Paracetamol)",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Tradocomp (Tramadol and Paracetamol)",
+	country: "Panama",
+	ingredient: "tramadol"
+}, {
+	name: "Tradol",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tradol Retard",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Tradolan",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Tradolan Retard",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tradolex",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tradolgesic",
+	country: "Turkey",
+	ingredient: "tramadol"
+}, {
+	name: "Tradomal",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Tradomed",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tradonal",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tradonal ONE",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tradonal Retard",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tradonal SR",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tradorec XL",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tradosik",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tradoxil",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tradyl",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Traflash",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tragesik",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tral",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tral P (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tralgit",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tralgit Orotab",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tralgit SR",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Tralic",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tralidar Genfar (Tramadol and Paracetamol)",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Tralino (Tramadol and Paracetamol)",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Tralodie",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Trama",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Trama Klosidol",
+	country: "Israel",
+	ingredient: "tramadol"
+}, {
+	name: "Tramabene",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramabeta",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramabeta long",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacalm",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacap",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacet (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Tramactil Uno",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramacur",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramada",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadex",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadil",
+	country: "Israel",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadin",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol - 1 A Pharma",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol - Salutas Pharma",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Abbott (Tramadol and Paracetamol)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Actavis France (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Arrow (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Biogaran (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Cristers (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracetamol EG (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol EG Labo (Tramadol and Paracetamol)",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Evolugen (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Krka (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracetamol Mylan (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Mylan Pharma (Tramadol and Paracetamol)",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Ranbaxy Pharmacie Generiques (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Sandoz (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracetamol Teva (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Teva (Tramadol and Paracetamol)",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Zentiva (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol / Paracétamol Zydus (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Acetaminofén MK (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Actavis (Tramadol and Paracetamol)",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Apotex (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Bene (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Bluepharma (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Bluescience (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Brown (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Ciclum (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Codramol (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Farmalider (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Generis (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Genoptim (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Krka (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Labesfal (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Litexil (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Mepha (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Mer (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Mylan (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Pharmakern (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Richter (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Sandoz (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Stada (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Substipharm (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Tad (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol toLife (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol + Paracetamol Zentiva (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol 1A Pharma",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol AbZ",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol acis",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Actavis",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol AL",
+	country: "Iceland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Alpharma",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Amdipharm",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Arena",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Arrow",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Arrow LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Asta Medica",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Aurobindo",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Azevedos",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Basi",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Beacon",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Bexal",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Biogaran",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Biogaran LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Biosano",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Blaskov",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Bristol",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Brown",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Cherubino",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Ciclum",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Cinfa",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Clorhidrato Genfar",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Clorhidrato Ryan",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Clorhidrato Sanderson",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Colmed",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Cristers LP",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Diasa",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Edigen",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol EEL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol EG",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol EG LP",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Evolugen",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Farmalider",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Farmasierra",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Generis",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Genfar",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Actavis",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Actavis Retard",
+	country: "Singapore",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Apotex",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Aurobindo",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl CF",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Duiven retard",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl GenRx",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Hanall",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Mylan",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl PCH",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl ratiopharm",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Retard A",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl retard CF",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Retard ICC",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Retard Meda",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Retard Mylan",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Retard Teva",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Sandoz",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl Sandoz retard",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol CF (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol Mylan (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol ratiopharm (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol Sandoz (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HCl/Paracetamol Teva (Tramadol and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Helvepharm",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HemoPharm",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol HEXAL",
+	country: "Bosnia & Herzegowina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hexpharm",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride + Paracetamol Bristol Laboratories (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride Accord",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride Actavis",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride AFT",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride hameln",
+	country: "New Zealand",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride Kent",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Hydrochloride Zentiva",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol hydrochloride/Paracetamol (Tramadol and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Kern Pharma",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Krka",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Labesfal",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Lanalget",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Lannacher",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Lavoisier",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Librapharm",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol LPH",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Mabo",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Meda",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Medley",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Metropolis",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Mintlab",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Mylan",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Mylan Generiques LP",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Normon",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Parke-Davis",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Plus Helvepharm (Tramadol and Paracetamol)",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol plus Spirig HC (Tramadol and Paracetamol)",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Ranbaxy",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Ranbaxy LP",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Raslafar",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Ratiopharm",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Actavis",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Combix",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard EG",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol retard Helvepharm",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Hexal",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Meda",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Medartuum",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Mylan",
+	country: "Sweden",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Normon",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Ratiopharm",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Stada Genericos",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Retard Teva",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Rotexmedica",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Sandoz",
+	country: "Israel",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Sandoz LP",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Sandoz retard",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Saneca",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Sanitas",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Stada",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol STADA",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Streuli",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Synteza",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Teva",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Teva LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Uno Sandoz",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Vir",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Vitabalans",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Vitalis",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Zentiva",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Zentiva LP",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Zydus",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol Zydus LP",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Acet (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Abamed (Tramadol and Paracetamol)",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Actavis (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Alter (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Apotex (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Cinfa (Tramadol and Paracetamol)",
+	country: "Malta",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Combix (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Davur (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Disphar (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Farmalider (Tramadol and Paracetamol)",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Kern Pharma (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Krka (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Mabo (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Mundogen (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Mylan (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Normon (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Pensa (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol PharmaS (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Qualigen (Tramadol and Paracetamol)",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Ratiopharm (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Sandoz (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Saneca (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Stada (Tramadol and Paracetamol)",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Stadagen (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Tarbis (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Tecnigen (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol/Paracetamol Teva (Tramadol and Paracetamol)",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-CT",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Dolgit",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolhydrochlorid Actavis",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolhydrochlorid/Paracetamol STADA (Tramadol and Paracetamol)",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolhydrochloride",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolis Sanitas",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Mepha",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Mepha retard",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo Angenerico",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo EG",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo Germed",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo HCL Sandoz",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo Hexal",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo Hexal AG",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolo Viatris",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor ID",
+	country: "Lithuania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor long",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolor retard",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Paracetamol Sandoz (Tramadol and Paracetamol)",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Paracetamol-Mepha (Tramadol and Paracetamol)",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Q",
+	country: "Switzerland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-ratiopharm",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadol-Rotexmedica",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolten",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadolten Plus (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramadura",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramag",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramagesic (Tramadol and Paracetamol)",
+	country: "Romania",
+	ingredient: "tramadol"
+}, {
+	name: "Tramagetic",
+	country: "Vietnam",
+	ingredient: "tramadol"
+}, {
+	name: "Tramagetic Retard",
+	country: "Norway",
+	ingredient: "tramadol"
+}, {
+	name: "Tramagit",
+	country: "Norway",
+	ingredient: "tramadol"
+}, {
+	name: "TramaHexal",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramajuna",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal Long",
+	country: "Greece",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal long",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal Rapid",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal Retard",
+	country: "Oman",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal retard",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramal SR",
+	country: "Netherlands",
+	ingredient: "tramadol"
+}, {
+	name: "Tramalgic",
+	country: "Greece",
+	ingredient: "tramadol"
+}, {
+	name: "Tramalgin",
+	country: "Hungary",
+	ingredient: "tramadol"
+}, {
+	name: "Tramalin",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramamed",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Tramanil",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Tramanovag",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Tramapar (Tramadol and Paracetamol)",
+	country: "Argentina",
+	ingredient: "tramadol"
+}, {
+	name: "Tramapran (Tramadol and Paracetamol)",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramarol ER (Tramadol and Paracetamol)",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramarol Semi ER (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tramasindol",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tramaspen",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramastad",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Tramateg Plus (Tramadol and Paracetamol)",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramazac",
+	country: "El Salvador",
+	ingredient: "tramadol"
+}, {
+	name: "Tramazac Co (Tramadol and Paracetamol)",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Tramazac XL",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Trambax",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tramcet (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tramcontin",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tramed",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Tramedif",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Tramedif Compuesto (Tramadol and Paracetamol)",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramgesic",
+	country: "Peru",
+	ingredient: "tramadol"
+}, {
+	name: "Tramid",
+	country: "South Africa",
+	ingredient: "tramadol"
+}, {
+	name: "Tramium",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tramkor",
+	country: "Belgium",
+	ingredient: "tramadol"
+}, {
+	name: "Tramo",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Tramofal",
+	country: "Hong Kong",
+	ingredient: "tramadol"
+}, {
+	name: "Tramol-L",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramox",
+	country: "Iceland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramp (Tramadol and Paracetamol)",
+	country: "Malaysia",
+	ingredient: "tramadol"
+}, {
+	name: "Trampalgin",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Tramquel",
+	country: "Norway",
+	ingredient: "tramadol"
+}, {
+	name: "Tramset (Tramadol and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramtor",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tramulief",
+	country: "Taiwan",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundal",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundal retard",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundin",
+	country: "Austria",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundin N",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Tramundin retard",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tram-u-ron OD",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Tramxl",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Tranal",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Traphen ER (Tramadol and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Traphen Semi ER (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Trapsure-P (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Trasik",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Traspen (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Traspen Semi (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Travex",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Travex Long",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "TRAVEX ONE",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Travex Rapid",
+	country: "Germany",
+	ingredient: "tramadol"
+}, {
+	name: "Trazodona Clorhidrato Genfar",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "TRD-Contin",
+	country: "Colombia",
+	ingredient: "tramadol"
+}, {
+	name: "TRD-MD",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "TRD-P (Tramadol and Paracetamol)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tremepen (Tramadol and Gabapentin)",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Trest",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Trexol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tridol",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Tridol SR",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Tridural",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Trodon",
+	country: "Canada",
+	ingredient: "tramadol"
+}, {
+	name: "Trofel",
+	country: "Serbia",
+	ingredient: "tramadol"
+}, {
+	name: "Trol",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Tropium",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Trosic",
+	country: "Greece",
+	ingredient: "tramadol"
+}, {
+	name: "Trumen",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Trunal DX",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Trunal-DX Retard",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tugesal",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Tutus (Tramadol and Paracetamol)",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Ultracet (Tramadol and Paracetamol)",
+	country: "Czech Republic",
+	ingredient: "tramadol"
+}, {
+	name: "Ultram",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Ultram ER",
+	country: "United States",
+	ingredient: "tramadol"
+}, {
+	name: "Ultra-Met (Tramadol and Paracetamol)",
+	country: "United States",
+	ingredient: "tramadol"
+}, {
+	name: "Ultra-Met Semi (Tramadol and Paracetamol)",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Ultramex",
+	country: "South Korea",
+	ingredient: "tramadol"
+}, {
+	name: "Ultrazac (Tramadol and Paracetamol)",
+	country: "Turkey",
+	ingredient: "tramadol"
+}, {
+	name: "Unitral",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Unitrama",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Urgendol-P (Tramadol and Paracetamol)",
+	country: "Italy",
+	ingredient: "tramadol"
+}, {
+	name: "Utramal",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Valgion CLT (Tramadol and Clonixin)",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Vardol-Plus (Tramadol and Paracetamol)",
+	country: "Mexico",
+	ingredient: "tramadol"
+}, {
+	name: "Varulin",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Vesnon-V",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Vheradol",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Vibralis",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Vitral",
+	country: "Greece",
+	ingredient: "tramadol"
+}, {
+	name: "Volcidol",
+	country: "Philippines",
+	ingredient: "tramadol"
+}, {
+	name: "Winpain",
+	country: "Thailand",
+	ingredient: "tramadol"
+}, {
+	name: "Winpain ER",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Xi Li Xi Meng",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Xiang Yang",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Xtrapel-MR",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Yi Bang",
+	country: "Bangladesh",
+	ingredient: "tramadol"
+}, {
+	name: "Yi Nuo Xing",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Yin Jia",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Yu Tong",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Zafin (Tramadol and Paracetamol)",
+	country: "China",
+	ingredient: "tramadol"
+}, {
+	name: "Zaldiar (Tramadol and Paracetamol)",
+	country: "Ecuador",
+	ingredient: "tramadol"
+}, {
+	name: "Zaledor",
+	country: "Poland",
+	ingredient: "tramadol"
+}, {
+	name: "Zaledor XR",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Zaledor-P (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Zamadol",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Zamadol SR",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Zamadol-P (Tramadol and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Zamudol LP",
+	country: "India",
+	ingredient: "tramadol"
+}, {
+	name: "Zaracet (Tramadol and Paracetamol)",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Zephanal",
+	country: "Slovakia",
+	ingredient: "tramadol"
+}, {
+	name: "Zeridame",
+	country: "Indonesia",
+	ingredient: "tramadol"
+}, {
+	name: "Zeridame SR",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Zilpen (Tramadol and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Zodol",
+	country: "Portugal",
+	ingredient: "tramadol"
+}, {
+	name: "Zotramid (Tramadol and Paracetamol)",
+	country: "Chile",
+	ingredient: "tramadol"
+}, {
+	name: "Zumalgic",
+	country: "Croatia (Hrvatska)",
+	ingredient: "tramadol"
+}, {
+	name: "Zydol",
+	country: "France",
+	ingredient: "tramadol"
+}, {
+	name: "Zydol SR",
+	country: "Ireland",
+	ingredient: "tramadol"
+}, {
+	name: "Zydol XL",
+	country: "Ireland",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram",
+	country: "United Kingdom",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram Bid",
+	country: "Iceland",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "Zytram XL",
+	country: "Spain",
+	ingredient: "tramadol"
+}, {
+	name: "4x4",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Addamo",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Aggra",
+	country: "Bosnia & Herzegowina",
+	ingredient: "sildenafil"
+}, {
+	name: "Akabar",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Aladin",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Alclimax",
+	country: "Oman",
+	ingredient: "sildenafil"
+}, {
+	name: "Almaximo",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Alsigra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Altus",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Amfidor",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Assurans",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Avixar",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Belfil",
+	country: "Latvia",
+	ingredient: "sildenafil"
+}, {
+	name: "Bifort-M",
+	country: "Slovenia",
+	ingredient: "sildenafil"
+}, {
+	name: "Bison",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Blugral",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Brilliant",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Cagno 50",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Caverta",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Circulass",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Circulass Rapid",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Corsenile",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "D Lira",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Davigor",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Daygra",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Defil",
+	country: "Vietnam",
+	ingredient: "sildenafil"
+}, {
+	name: "Dirtop",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Ecriten",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Egomax",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Enegra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Enthusia",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Erec",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Erecta",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Erectol Plus",
+	country: "Tunisia",
+	ingredient: "sildenafil"
+}, {
+	name: "Erecton",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Erector",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Erevit",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "Erexesil",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Ernafil",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Erosfil",
+	country: "Singapore",
+	ingredient: "sildenafil"
+}, {
+	name: "Erotil",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Eroxim",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Exifol",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Expit",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Ezequel",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Faro Viga",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Fildlata",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "File",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Filigra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Firmel",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Fortera",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Fulfeel",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Gimonte Sildenafil",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Gladium",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Helpin",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Hepil",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Immense",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Integra",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Inventum",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Juvigor",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Kamagra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Katora",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Kemagra",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Labsamax",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Lekap",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Licosil",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Lorbinafil",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Mamagra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Maxigra",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Medovigor",
+	country: "Vietnam",
+	ingredient: "sildenafil"
+}, {
+	name: "Modrasil",
+	country: "Vietnam",
+	ingredient: "sildenafil"
+}, {
+	name: "Napifit",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Nexofil",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Niagra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Nitro",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Olvion",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Ontop Sildenafil Citrate",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Oragawell",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Orgodenafil",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Palpal",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Panagra",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Peak",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Penegra",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Permitil",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Phragra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Pluspen",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Pramil",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Renedema",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Revatio",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Rezum",
+	country: "Bosnia & Herzegowina",
+	ingredient: "sildenafil"
+}, {
+	name: "Ripol",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Rocky",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Romento",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Rosytona",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Salinil",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Segurex",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Seldan",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "Senagra",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "Sex-up",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Sil - ON",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Silagra",
+	country: "Israel",
+	ingredient: "sildenafil"
+}, {
+	name: "Silanil",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildava",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildegra",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Silden",
+	country: "Turkey",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildena",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil",
+	country: "Bosnia & Herzegowina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Accord",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Actavis",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Anglopharma",
+	country: "Slovenia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Aurobindo",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Axxon",
+	country: "Malta",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Biodental",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Bluefish",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Bussié",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Clonmel",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Doc Generici",
+	country: "Malta",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Doc Generics",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil EG",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Farmandina",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Genfar",
+	country: "Guatemala",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Genoptim",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Hasco",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Ilab",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil La Santé",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Liconsa",
+	country: "El Salvador",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Macleods",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Medana",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Medreg",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Mylan",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil netpharma",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Nifa",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pensa Pharma",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pfizer",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil PharmaS",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Ranbaxy",
+	country: "Bosnia & Herzegowina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil ratiopharm",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Rth",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Sandoz",
+	country: "Latvia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Saneca",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil SymPhar",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Tauro",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Teva",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Vannier",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Winthrop",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Zentiva",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Genfar",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilum Farmacom",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Silfeldrem",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Siltegra",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Silvagra",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Silvigo",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Stimu Max",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Sundinafit",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Super Vega",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Taxier",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Tornetis",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "V Gone",
+	country: "Slovenia",
+	ingredient: "sildenafil"
+}, {
+	name: "Vega",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vega Plus",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Venux",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "V-Gra",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Viadis",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagra",
+	country: "Tunisia",
+	ingredient: "sildenafil"
+}, {
+	name: "Viara",
+	country: "Tunisia",
+	ingredient: "sildenafil"
+}, {
+	name: "Viasin",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Viatec",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Viavag",
+	country: "Tunisia",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigadol",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigor",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigorama",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigoran",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigorex",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigoril",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigrande",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Vimax",
+	country: "Turkey",
+	ingredient: "sildenafil"
+}, {
+	name: "Viner",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Virecta",
+	country: "Slovakia",
+	ingredient: "sildenafil"
+}, {
+	name: "Vitarfil",
+	country: "Egypt",
+	ingredient: "sildenafil"
+}, {
+	name: "Vizarsin",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Vorst-M",
+	country: "Serbia",
+	ingredient: "sildenafil"
+}, {
+	name: "Willmon",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Yextor",
+	country: "Hong Kong",
+	ingredient: "sildenafil"
+}, {
+	name: "Zerect",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Zoltan",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Zumbar",
+	country: "Tunisia",
+	ingredient: "sildenafil"
+}, {
+	name: "Activil",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Adagrin",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Adegra",
+	country: "Vietnam",
+	ingredient: "sildenafil"
+}, {
+	name: "Adonix",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Afilon",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Aladin",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Alfin",
+	country: "Oman",
+	ingredient: "sildenafil"
+}, {
+	name: "Amfidor",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Andros",
+	country: "Czech Republic",
+	ingredient: "sildenafil"
+}, {
+	name: "Androz",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Apo-Sildenafil",
+	country: "Singapore",
+	ingredient: "sildenafil"
+}, {
+	name: "Avigra",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Avixar",
+	country: "South Africa",
+	ingredient: "sildenafil"
+}, {
+	name: "Azulsix",
+	country: "Estonia",
+	ingredient: "sildenafil"
+}, {
+	name: "Bamirac",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Bifort",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Blugral",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Caverta",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Cilafil",
+	country: "Peru",
+	ingredient: "sildenafil"
+}, {
+	name: "Degra",
+	country: "Austria",
+	ingredient: "sildenafil"
+}, {
+	name: "Dinamico",
+	country: "Turkey",
+	ingredient: "sildenafil"
+}, {
+	name: "Direktan",
+	country: "Croatia (Hrvatska)",
+	ingredient: "sildenafil"
+}, {
+	name: "Disilden",
+	country: "Austria",
+	ingredient: "sildenafil"
+}, {
+	name: "Dragul",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "duraviril",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Duroval",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Dynafil",
+	country: "Venezuela",
+	ingredient: "sildenafil"
+}, {
+	name: "Dynamico",
+	country: "South Africa",
+	ingredient: "sildenafil"
+}, {
+	name: "Ecriten",
+	country: "Russian Federation",
+	ingredient: "sildenafil"
+}, {
+	name: "Elonza",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Emposil",
+	country: "Thailand",
+	ingredient: "sildenafil"
+}, {
+	name: "Enafilzil",
+	country: "Indonesia",
+	ingredient: "sildenafil"
+}, {
+	name: "Entranin",
+	country: "Bulgaria",
+	ingredient: "sildenafil"
+}, {
+	name: "Erasilton",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Erecta",
+	country: "Hungary",
+	ingredient: "sildenafil"
+}, {
+	name: "Erectol",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Erefil",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "EREQ",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Erexesil",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Erilin",
+	country: "Russian Federation",
+	ingredient: "sildenafil"
+}, {
+	name: "Ernafil",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Eroton",
+	country: "Hong Kong",
+	ingredient: "sildenafil"
+}, {
+	name: "Eroxim",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Eroxim-fast Instantab Lafrancol",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Esantop",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Expit",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Falic",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Falsigra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Fexion",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Fildlata",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Firmel",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "For Mr.",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Forzak",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Galotam",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Gedena",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Gelpin Colmed",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Go",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Happigra",
+	country: "Mexico",
+	ingredient: "sildenafil"
+}, {
+	name: "Hippigra",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Idilico",
+	country: "Hong Kong",
+	ingredient: "sildenafil"
+}, {
+	name: "Ignis",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Ilyang Sildenafil",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Incresil",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Isurec",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Juvena",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Kamagra",
+	country: "JscGeorgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Katora",
+	country: "Tanzania",
+	ingredient: "sildenafil"
+}, {
+	name: "Lerk",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Libigran",
+	country: "Mexico",
+	ingredient: "sildenafil"
+}, {
+	name: "Lifter",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Lovex",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Lubagra",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Lumix",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Luvagra",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Magnus",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "Maxifort-Zimax",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Maxigra",
+	country: "Mexico",
+	ingredient: "sildenafil"
+}, {
+	name: "Maxigra ODT",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Neo-Gra",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Neo-Up",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Nipatra",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Novalif",
+	country: "United Kingdom",
+	ingredient: "sildenafil"
+}, {
+	name: "Novigra",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Olvion",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Oximum",
+	country: "Singapore",
+	ingredient: "sildenafil"
+}, {
+	name: "Pahtension",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Palpal",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Paramen Vent3",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Patrex",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Pefomax",
+	country: "Mexico",
+	ingredient: "sildenafil"
+}, {
+	name: "Plegra",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Plusefec",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "PMS-Sildenafil",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Potenza",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Powergra",
+	country: "Bulgaria",
+	ingredient: "sildenafil"
+}, {
+	name: "Prescofil",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "RAN-Sildenafil",
+	country: "Italy",
+	ingredient: "sildenafil"
+}, {
+	name: "ratio-Sildenafil R",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Remenafil",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Revatio",
+	country: "Singapore",
+	ingredient: "sildenafil"
+}, {
+	name: "Rosytona",
+	country: "United States",
+	ingredient: "sildenafil"
+}, {
+	name: "Rozgra",
+	country: "Bulgaria",
+	ingredient: "sildenafil"
+}, {
+	name: "Sandoz Sildenafil",
+	country: "Indonesia",
+	ingredient: "sildenafil"
+}, {
+	name: "Segurex",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Siafil",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Sidegra",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Sidenafil AL",
+	country: "Thailand",
+	ingredient: "sildenafil"
+}, {
+	name: "Silagra",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Silaxa",
+	country: "New Zealand",
+	ingredient: "sildenafil"
+}, {
+	name: "Silda",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildaristo",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildeagil",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildegra",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "SildeHEXAL",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "SildeHexal SF",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Silden",
+	country: "Bulgaria",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildena",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafi Pfizer",
+	country: "Serbia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil",
+	country: "Greece",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil - 1 A Pharma",
+	country: "Ireland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil 1A Pharma",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil AbZ",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Accord",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Accord",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Actavis",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Actavis",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Adair",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Ajanta Pharma",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil AL",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Apotex",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Arpedex",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Aspen",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Aurobindo",
+	country: "Denmark",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Axapharm",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Azevedos",
+	country: "Switzerland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Biogaran",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Bluefish",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil BMM",
+	country: "Denmark",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil CF",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Ciclum",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Citrate Actavis",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Cristers",
+	country: "United States",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Doc Generici",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Dr. Reddy's",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Eclonirta",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil EG",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil EG",
+	country: "Belgium",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Epilix",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Fantex",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Farmoz",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Fildanex",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Fildefi",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Garvai",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Genepharm",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Genericon",
+	country: "Greece",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Generis",
+	country: "Austria",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Genfar",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Germed",
+	country: "El Salvador",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil GMP",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Hameln",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Hasco",
+	country: "United Kingdom",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Helm",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Helvepharm",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Hemofarm",
+	country: "Switzerland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Hennig",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil HEXAL",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Jubilant",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Krka",
+	country: "Malta",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Labesfal",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Leugim",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Liconsa",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil medac",
+	country: "Greece",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Medana",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Medical Valley",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Medley",
+	country: "Denmark",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Mer",
+	country: "El Salvador",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil MK",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Mylan",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Mylan",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Navamedic",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Normon",
+	country: "Sweden",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Orifarm",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Orion",
+	country: "Denmark",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Osir",
+	country: "Sweden",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Oxdual",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pentafarma",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pfizer",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Pfizer",
+	country: "Sweden",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pharmakern",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Pharmathen",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Portfarma",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Qualimed",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Ranbaxy",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil ratiopharm",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Reconir",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Rilpermir",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Rodinal",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Sandoz",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Sandoz",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Sanofi Aventis",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Sidefarma",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Sigillata",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Spirig HC",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil STADA",
+	country: "Switzerland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Stada",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Strami",
+	country: "Austria",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Terapia",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Teva",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Teva",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Tolife",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Torrent",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Upfil",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Uropharm",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil West Pharma",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Wynn",
+	country: "Greece",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil Zentiva",
+	country: "Portugal",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildénafil Zentiva",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil-Hormosan",
+	country: "France",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil-Mepha",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafil-neuraxpharm",
+	country: "Switzerland",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Actavis",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Alter",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Apotex",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Bluefish",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Cinfa",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Kern Pharma",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Mylan",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Normon",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Oxdual",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Pensa",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Qualigen",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Ratiopharm",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Salutas",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Sandoz",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Stada",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Tecnigen",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Teva",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenafilo Zentiva",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenamed",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenax",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildenon",
+	country: "Switzerland",
+	ingredient: "sildenafil"
+}, {
+	name: "Silderec",
+	country: "Belgium",
+	ingredient: "sildenafil"
+}, {
+	name: "Silderm",
+	country: "Lithuania",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildex",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildora",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Sildrem",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Silfeldrem",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Silvasta",
+	country: "Poland",
+	ingredient: "sildenafil"
+}, {
+	name: "Slider",
+	country: "New Zealand",
+	ingredient: "sildenafil"
+}, {
+	name: "Supergra",
+	country: "Israel",
+	ingredient: "sildenafil"
+}, {
+	name: "Super-O",
+	country: "Bangladesh",
+	ingredient: "sildenafil"
+}, {
+	name: "Tarim",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Taxier",
+	country: "Israel",
+	ingredient: "sildenafil"
+}, {
+	name: "Teva-Sildenafil",
+	country: "Russian Federation",
+	ingredient: "sildenafil"
+}, {
+	name: "Tigerfil",
+	country: "Canada",
+	ingredient: "sildenafil"
+}, {
+	name: "Tonafil",
+	country: "Hong Kong",
+	ingredient: "sildenafil"
+}, {
+	name: "Tornetis",
+	country: "Thailand",
+	ingredient: "sildenafil"
+}, {
+	name: "Tranky",
+	country: "Russian Federation",
+	ingredient: "sildenafil"
+}, {
+	name: "Valedonis",
+	country: "Colombia",
+	ingredient: "sildenafil"
+}, {
+	name: "Varofil",
+	country: "Germany",
+	ingredient: "sildenafil"
+}, {
+	name: "Vedafil",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Verventi",
+	country: "New Zealand",
+	ingredient: "sildenafil"
+}, {
+	name: "Via-avenir",
+	country: "Belgium",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagra",
+	country: "Israel",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagra BCNFarma",
+	country: "United States",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagra Gervasi",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagra L",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Viagrasan",
+	country: "South Korea",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigorex",
+	country: "Georgia",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigorplus",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigrande",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Vigro",
+	country: "Romania",
+	ingredient: "sildenafil"
+}, {
+	name: "Vilgendra",
+	country: "Lebanon",
+	ingredient: "sildenafil"
+}, {
+	name: "Vimax",
+	country: "Netherlands",
+	ingredient: "sildenafil"
+}, {
+	name: "Viner",
+	country: "Indonesia",
+	ingredient: "sildenafil"
+}, {
+	name: "Virilon",
+	country: "Croatia (Hrvatska)",
+	ingredient: "sildenafil"
+}, {
+	name: "Viripotens",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Virtus",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Vizarsin",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Vorst",
+	country: "Iceland",
+	ingredient: "sildenafil"
+}, {
+	name: "Xex",
+	country: "Argentina",
+	ingredient: "sildenafil"
+}, {
+	name: "Zeagra",
+	country: "Ecuador",
+	ingredient: "sildenafil"
+}, {
+	name: "Zenera",
+	country: "India",
+	ingredient: "sildenafil"
+}, {
+	name: "Zeus",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Zilden",
+	country: "Israel",
+	ingredient: "sildenafil"
+}, {
+	name: "Zilfic",
+	country: "Philippines",
+	ingredient: "sildenafil"
+}, {
+	name: "Zuandol",
+	country: "Chile",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Zygora",
+	country: "Spain",
+	ingredient: "sildenafil"
+}, {
+	name: "Aleve",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Aleve Sinus & Headache (Naproxen and Pseudoephedrine)",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Alidase",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Alpoxen",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Anaflex",
+	country: "Iceland",
+	ingredient: "naproxen"
+}, {
+	name: "Anaflex SR",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Analper Nax",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Anapran EC",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Anex",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "A-Nox",
+	country: "Pakistan",
+	ingredient: "naproxen"
+}, {
+	name: "Ao Pu Li",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Apo-Napro",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Apo-Naproxen",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Apo-Naproxen SR",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Apraljin",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Apranax",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Apraxin",
+	country: "Tunisia",
+	ingredient: "naproxen"
+}, {
+	name: "Aprol",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Apromed",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Apronax",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Aproxen",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Arthopan (Naproxen and Pantoprazole)",
+	country: "Pakistan",
+	ingredient: "naproxen"
+}, {
+	name: "Aspen Naproxen",
+	country: "India",
+	ingredient: "naproxen"
+}, {
+	name: "Bloxen",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Bonyl",
+	country: "Pakistan",
+	ingredient: "naproxen"
+}, {
+	name: "Boots Period Pain Relief",
+	country: "Denmark",
+	ingredient: "naproxen"
+}, {
+	name: "Brunadol (Naproxen and Paracetamol)",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "Bruproxen",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Bumaflex N",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Congex",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Contraxen (Naproxen and Carisoprodol)",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Debril",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Demovo (Naproxen and Esomeprazole)",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Deproxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Dinovo (Naproxen and Esomeprazole)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Diproxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Diproxen CR",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Dolonex",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Doloprotec (Naproxen and Esomeprazole)",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Dolormin",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Dolormin mit Naproxen",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Doprox",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Dozin",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Durafex",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Durafex (Naproxen and Caffeine)",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Dysmenalgit",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "EC-Naprosyn",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Emox",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Emoxen",
+	country: "Estonia",
+	ingredient: "naproxen"
+}, {
+	name: "Equiproxen (veterinary use)",
+	country: "Czech Republic",
+	ingredient: "naproxen"
+}, {
+	name: "Equiproxen 10% (veterinary use)",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Esona (Naproxen and Esomeprazole)",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Etrixenal",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Eurogesic",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Eurogesic Forte",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Fabralgina",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Febrax (Naproxen and Paracetamol)",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Feminax Ultra",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Flogotone",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Honlow",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Hui Ke",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Ilgesin",
+	country: "LtdChina",
+	ingredient: "naproxen"
+}, {
+	name: "Inza",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Iraxen",
+	country: "Hong Kong",
+	ingredient: "naproxen"
+}, {
+	name: "Jinkangpuli",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Keldor",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Laser",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Lundiran",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Maxipan (Naproxen and Diflunisal)",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Megalivio",
+	country: "Egypt",
+	ingredient: "naproxen"
+}, {
+	name: "Melgar",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Messelxen",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Momendol",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Momendol (Naproxen and Sulodexide)",
+	country: "Lithuania",
+	ingredient: "naproxen"
+}, {
+	name: "Monochroton",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Movibon",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Mylan Naproxen",
+	country: "India",
+	ingredient: "naproxen"
+}, {
+	name: "Myoprox",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Na Pu Xing",
+	country: "Egypt",
+	ingredient: "naproxen"
+}, {
+	name: "Nafasol",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Nafxen",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Naixan",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naldorex",
+	country: "Japan",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgedol",
+	country: "Romania",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin",
+	country: "Latvia",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin Forte",
+	country: "Romania",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin S",
+	country: "Lithuania",
+	ingredient: "naproxen"
+}, {
+	name: "Naloxen",
+	country: "Slovakia",
+	ingredient: "naproxen"
+}, {
+	name: "Nameso (Naproxen and Esomeprazole)",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Napec",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napflam",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napmel",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Naponal",
+	country: "Hungary",
+	ingredient: "naproxen"
+}, {
+	name: "Naposin",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Napoton",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Napoxen",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Napradol",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napratec (Naproxen and Misoprostol)",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Napreben",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "Napren-E",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Naprius",
+	country: "Norway",
+	ingredient: "naproxen"
+}, {
+	name: "Napro",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Napro-A",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napro-A Plus (Naproxen and Esomeprazole)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naprobene",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naprocur",
+	country: "Austria",
+	ingredient: "naproxen"
+}, {
+	name: "Naprodom (Naproxen and Domperidone)",
+	country: "Sweden",
+	ingredient: "naproxen"
+}, {
+	name: "Naprofen",
+	country: "India",
+	ingredient: "naproxen"
+}, {
+	name: "Naproff",
+	country: "Egypt",
+	ingredient: "naproxen"
+}, {
+	name: "Naprogen",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Naprogesic",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Naproksen",
+	country: "Egypt",
+	ingredient: "naproxen"
+}, {
+	name: "Naproksens",
+	country: "Serbia",
+	ingredient: "naproxen"
+}, {
+	name: "Napromed",
+	country: "Lithuania",
+	ingredient: "naproxen"
+}, {
+	name: "Naprometin",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Naprontag",
+	country: "Finland",
+	ingredient: "naproxen"
+}, {
+	name: "Naprontag Protect (Naproxen and Esomeprazole)",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Napropain",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Naprorex",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosian",
+	country: "Tanzania",
+	ingredient: "naproxen"
+}, {
+	name: "Naproson",
+	country: "Thailand",
+	ingredient: "naproxen"
+}, {
+	name: "Naprossene EG",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn 10%",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn CR",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn EC",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn EC Fort",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn Entero",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyn SR",
+	country: "Sweden",
+	ingredient: "naproxen"
+}, {
+	name: "Naprosyne",
+	country: "New Zealand",
+	ingredient: "naproxen"
+}, {
+	name: "Naprox",
+	country: "Belgium",
+	ingredient: "naproxen"
+}, {
+	name: "Naprox Plus (Naproxen and Esomeprazole)",
+	country: "Tunisia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen - 1 A Pharma",
+	country: "Australia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen - Shyndec Pharm",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Accord",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen acis",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Actavis",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Actavis EC",
+	country: "Bulgaria",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen AL",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Alpharma",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Apotex",
+	country: "Lithuania",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Aristo",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Astar",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Aurobindo",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen BasicPharma",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen beta",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Bluefish",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Central",
+	country: "Sweden",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen CF",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Community Pharm",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen CP",
+	country: "Thailand",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Disphar",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Disphar EC",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Douglas Pharm",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen EC Mylan",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen EC Sanis Health",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Genericon",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Hasco",
+	country: "Austria",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen HEXAL",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Johnson",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Li Ta",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen MSR Teva",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Mylan",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen New Chemical",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Orifarm",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen PCH",
+	country: "Sweden",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Pharmacin",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Polfa",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Polfarmex",
+	country: "Lithuania",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Royal",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Saft Infectopharm",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sandoz",
+	country: "Austria",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sandoz EC",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sanis Health",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sinphar",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sinton",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Siu Guan",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Srbolek",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen STADA",
+	country: "Serbia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Teva",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen TioFarma",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Winthrop",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Wockhardt",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Yang Sheng",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Yung Chi",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Zetpil CF",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-C-Dragon Pharmacy",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-CT",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxene EG",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxene Germed",
+	country: "Belgium",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-E Mylan",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-Mepha",
+	country: "Norway",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno",
+	country: "Switzerland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno + Paracetamol (Naproxen and Paracetamol)",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Andromaco",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Aristo",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Colmed",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno compuesto (Naproxen and Paracetamol)",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Generis",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Genfar",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Germed",
+	country: "El Salvador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno GP",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno La Santé",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Medley",
+	country: "El Salvador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno MK",
+	country: "El Salvador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Nifa",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Normon",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Ratiopharm",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Vannier",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxin",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Naprozen",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naprux",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naprux Disten (Naproxen and Carisoprodol)",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Napryn",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Napsec (Naproxen and Esomeprazole)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napsod",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napsyn",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Napton",
+	country: "Slovakia",
+	ingredient: "naproxen"
+}, {
+	name: "Napton SR",
+	country: "LtdChina",
+	ingredient: "naproxen"
+}, {
+	name: "Napusin",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naputon",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Natoxen",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Natrax",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naxen",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naxen S (Naproxen and Esomeprazole)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Naxin",
+	country: "South Korea",
+	ingredient: "naproxen"
+}, {
+	name: "Naxo",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naxodol (Naproxen and Carisoprodol)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naxyn",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Nebilet Plus (Naproxen and Hydrochlorothiazide)",
+	country: "Israel",
+	ingredient: "naproxen"
+}, {
+	name: "Neoxen",
+	country: "Bosnia & Herzegowina",
+	ingredient: "naproxen"
+}, {
+	name: "Neso (Naproxen and Esomeprazole)",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Neuralgesic (Naproxen and Paracetamol)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Noflam",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Novoxen (Naproxen and Esomeprazole)",
+	country: "New Zealand",
+	ingredient: "naproxen"
+}, {
+	name: "Noxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Noyan",
+	country: "Tunisia",
+	ingredient: "naproxen"
+}, {
+	name: "Nuprafen",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Nupralgin",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Nupralgin Plus (Naproxen and Esomeprazole)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Nuprax",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Opokan",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Opraks",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Orquinaprox",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Pabi-Naproxen",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Pairox",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Papasine (Naproxen and Tetracycline)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Pediapharm Naproxen",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Period Pain Reliever",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "PMS-Naproxen",
+	country: "United Kingdom",
+	ingredient: "naproxen"
+}, {
+	name: "PMS-Naproxen EC",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Prazona",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "PREVACID NapraPAC (Naproxen and Lansoprazole)",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Prexan",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Priaxen",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Prodexin",
+	country: "Malta",
+	ingredient: "naproxen"
+}, {
+	name: "Progesic (Naproxen and Esomeprazole)",
+	country: "Egypt",
+	ingredient: "naproxen"
+}, {
+	name: "Promizem",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Pronaxen",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Proxalin-Plus (Naproxen and Paracetamol)",
+	country: "Sweden",
+	ingredient: "naproxen"
+}, {
+	name: "Proxen",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Proxen SR",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Releve",
+	country: "Australia",
+	ingredient: "naproxen"
+}, {
+	name: "Relokap Forte",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Repro",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Reuxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Riproxen",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Riva-Naproxen",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Salvis",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Seladin",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Servinaprox",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Shi Luo Te",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Sinton",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Sumigran (Naproxen and Sumatriptan)",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Synax",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Synax fort",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Teva-Naproxen",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Teva-Naproxen SR",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Teva-Naproxen-EC",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Ticoflex",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Ticoflex SR",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Ultrabengue (Naproxen and Menthol, + Lidocaine, + Methyl Salicylate)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "U-Ritis",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Vimovo (Naproxen and Esomeprazole)",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Winpron",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Xenadom (Naproxen and Domperidone)",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Xenole (Naproxen and Esomeprazole)",
+	country: "India",
+	ingredient: "naproxen"
+}, {
+	name: "Xi Tai Meng (Naproxen and Codeine)",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Xpro",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Fluimucil Gola",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Naprocet",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Nitens",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Proxagol",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Acroxen",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Aflamax",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Aksen Fort",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Aleve",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Aleve Cold & Sinus (Naproxen and Pseudoephedrine)",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Alevetabs",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Alidase",
+	country: "France",
+	ingredient: "naproxen"
+}, {
+	name: "Alli-Viax",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Analgen",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Analgesin",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Analgesin Forte",
+	country: "Hungary",
+	ingredient: "naproxen"
+}, {
+	name: "Anapran",
+	country: "Hungary",
+	ingredient: "naproxen"
+}, {
+	name: "Anapran Neo",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Anaprox",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Anaprox DS",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Annoxen-S",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Antalgin",
+	country: "Thailand",
+	ingredient: "naproxen"
+}, {
+	name: "Antalnox",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Apo-Napro-Na",
+	country: "France",
+	ingredient: "naproxen"
+}, {
+	name: "Apranax",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Aprelax",
+	country: "France",
+	ingredient: "naproxen"
+}, {
+	name: "Apronax",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Aprowell",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Aproxen",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Aproxil",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Arthrox",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Atac",
+	country: "Pakistan",
+	ingredient: "naproxen"
+}, {
+	name: "Aterpin (Naproxen and Paracetamol)",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Bai Tong",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Beckanflam",
+	country: "Ltd.China",
+	ingredient: "naproxen"
+}, {
+	name: "Bei Li",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Bifardol (Naproxen and Paracetamol)",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Brax (Naproxen and Paracetamol)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Brunadol (Naproxen and Paracetamol)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Colfem Forte (Naproxen and Scopolamine)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "DA Naproxennatrium",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Dafloxen",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Dafloxen F (Naproxen and Paracetamol)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Decosil (Naproxen and Paracetamol)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Deflamox Plus (Naproxen and Paracetamol)",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Desinflam",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Deucoval",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Deucoval Forte",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Dolo Apranax (Naproxen and Paracetamol)",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Dolotandax (Naproxen and Paracetamol)",
+	country: "El Salvador",
+	ingredient: "naproxen"
+}, {
+	name: "Dolumbar (Naproxen and Caffeine)",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Etos Naproxennatrium",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Eurogesic",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Eurogesic Forte",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Eurogesic Infantil (pediatric)",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Exvile",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Febrax (Naproxen and Paracetamol)",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Flanax",
+	country: "Mexico",
+	ingredient: "naproxen"
+}, {
+	name: "Flanax Forte",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Gao Di (Naproxen and Pseudoephedrine)",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Gynestrel",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Infatop Fort",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Jia Dan",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Jie Jie",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Karoksen",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Kruidvat Naproxennatrium",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Leidapharm Naproxennatrium",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Liotondol Action",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Lumbal Lafrancol (Naproxen and Caffeine)",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Mafidol Compuesto (Naproxen and Paracetamol)",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Mai Er",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Maxidol",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Maxiflam",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Mednap",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Midol Extended Relief",
+	country: "Turkey",
+	ingredient: "naproxen"
+}, {
+	name: "Miranax",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Momen",
+	country: "Finland",
+	ingredient: "naproxen"
+}, {
+	name: "Momendol",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Mox 12 HS",
+	country: "Greece",
+	ingredient: "naproxen"
+}, {
+	name: "Mox Forte",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin Forte",
+	country: "Russian Federation",
+	ingredient: "naproxen"
+}, {
+	name: "Nalgesin S",
+	country: "Russian Federation",
+	ingredient: "naproxen"
+}, {
+	name: "Naprelan",
+	country: "Serbia",
+	ingredient: "naproxen"
+}, {
+	name: "Naprofebril (Naproxen and Paracetamol)",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Naproff",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Naproflex",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Naprogesic",
+	country: "Thailand",
+	ingredient: "naproxen"
+}, {
+	name: "Naproksen PharmaS",
+	country: "New Zealand",
+	ingredient: "naproxen"
+}, {
+	name: "Naprovite",
+	country: "Croatia (Hrvatska)",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxavi",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Aflofarm",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Aurobindo",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Emo",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Hasco",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Krka",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Na PCH",
+	country: "Austria",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Na Teva",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Schwörer",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sodium",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sodium Amneal",
+	country: "Israel",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sodium Sanis Health",
+	country: "Georgia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen Sodium Shou Chan",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-CT",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxene Forte EG",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxene sodico Doc Generici",
+	country: "Belgium",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxene sodico Dorom",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxène Sodique EG",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxène Sodique Teva",
+	country: "France",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Apotex",
+	country: "France",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Aurobindo",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Banner",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium DA",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Disphar",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium HTP",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Leidapharm",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Nordic",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Sandoz",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxennatrium Teva",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno + Paracetamol (Naproxen and Paracetamol)",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Cinfa",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Ecuaquimica",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Krka",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Opko",
+	country: "Portugal",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sódico",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico Bussiè",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico Cinfa",
+	country: "Colombia",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico Kronos",
+	country: "Spain",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico L.CH.",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico Mintlab",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sodico MK",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxeno Sódico Nifa",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxen-ratiopharm",
+	country: "Ecuador",
+	ingredient: "naproxen"
+}, {
+	name: "Naproxpharma",
+	country: "Germany",
+	ingredient: "naproxen"
+}, {
+	name: "Naprux Rapid",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Napton",
+	country: "Argentina",
+	ingredient: "naproxen"
+}, {
+	name: "Narocin",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Naxen",
+	country: "Israel",
+	ingredient: "naproxen"
+}, {
+	name: "Naxii",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Neoproxen",
+	country: "Poland",
+	ingredient: "naproxen"
+}, {
+	name: "Noflam-N",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Nomax Dol (Naproxen and Paracetamol)",
+	country: "Hong Kong",
+	ingredient: "naproxen"
+}, {
+	name: "Nopain",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Nopain DS",
+	country: "Oman",
+	ingredient: "naproxen"
+}, {
+	name: "Nopen",
+	country: "Lebanon",
+	ingredient: "naproxen"
+}, {
+	name: "Nopraxin",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Odontogesic",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Onexol Duo (Naproxen and Paracetamol)",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Pamprin All Day Relief Max",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Pharex Naproxen",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "PMS-Naproxen Sodium",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Point",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Ponstan RD",
+	country: "Israel",
+	ingredient: "naproxen"
+}, {
+	name: "PP Naproxen",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Promaxx Farma",
+	country: "Malaysia",
+	ingredient: "naproxen"
+}, {
+	name: "Proxidol",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Pu Sen Ou Ke (Naproxen and Pseudoephedrine)",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Qi Gu Ke",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Quilnax Duo (Naproxen and Paracetamol)",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Riva-Naproxen Sodium",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "Safrosyn S",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Skelan",
+	country: "Malaysia",
+	ingredient: "naproxen"
+}, {
+	name: "Skelan Protect (Naproxen and Omeprazole)",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Soden",
+	country: "Philippines",
+	ingredient: "naproxen"
+}, {
+	name: "Sonaflam",
+	country: "Singapore",
+	ingredient: "naproxen"
+}, {
+	name: "Sonap",
+	country: "New Zealand",
+	ingredient: "naproxen"
+}, {
+	name: "Soproxen",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Sunprox",
+	country: "Singapore",
+	ingredient: "naproxen"
+}, {
+	name: "Sutolin",
+	country: "Singapore",
+	ingredient: "naproxen"
+}, {
+	name: "Synflex",
+	country: "Taiwan",
+	ingredient: "naproxen"
+}, {
+	name: "Tai Guk Narexsin",
+	country: "South Africa",
+	ingredient: "naproxen"
+}, {
+	name: "Tai Ze",
+	country: "South Korea",
+	ingredient: "naproxen"
+}, {
+	name: "Teva-Naproxen Sodium",
+	country: "China",
+	ingredient: "naproxen"
+}, {
+	name: "Teva-Naproxen Sodium DS",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Tolestan (Naproxen and Sumatriptan)",
+	country: "Canada",
+	ingredient: "naproxen"
+}, {
+	name: "Trekpleister Naproxennatrium",
+	country: "El Salvador",
+	ingredient: "naproxen"
+}, {
+	name: "Treximet (Naproxen and Sumatriptan)",
+	country: "Netherlands",
+	ingredient: "naproxen"
+}, {
+	name: "Triox N.F.",
+	country: "United States",
+	ingredient: "naproxen"
+}, {
+	name: "Uninapro",
+	country: "Chile",
+	ingredient: "naproxen"
+}, {
+	name: "Xenapro",
+	country: "Italy",
+	ingredient: "naproxen"
+}, {
+	name: "Xenifar",
+	country: "Bangladesh",
+	ingredient: "naproxen"
+}, {
+	name: "Xenodol",
+	country: "Indonesia",
+	ingredient: "naproxen"
+}, {
+	name: "Xenoplus (Naproxen and Paracetamol)",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
+}, {
+	name: "YuanQi",
+	country: "Peru",
+	ingredient: "naproxen"
 }];

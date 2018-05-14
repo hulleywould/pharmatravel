@@ -74,7 +74,7 @@ def main():
     data = "exports.data = ["
     filename = 'drugResults'    
     url = 'https://www.drugs.com/international/'
-    products = ['cyclizine', 'amitriptyline', 'paracetamol']
+    products = ['cyclizine', 'amitriptyline', 'paracetamol', 'tramadol', 'sildenafil', 'naproxen']
     data += getAllProducts(url, products, filename)
     data += '];'
     createFile('output', data)

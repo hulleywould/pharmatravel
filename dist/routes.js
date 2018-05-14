@@ -38,10 +38,6 @@ router.get('/', function (req, res) {
     res.send("hey there");
 });
 
-router.get('/about', function (req, res) {
-    res.json(cyclizine);
-});
-
 router.get('/result/:product/:country', function (req, res) {
     var ingredient = _output2.default.data.map(function (p) {
         for (var key in p) {
@@ -54,7 +50,7 @@ router.get('/result/:product/:country', function (req, res) {
     }).toString();
     var drugs = _output2.default.data.map(function (p) {
         for (var key in p) {
-            if (p['ingredient'] == ingredient && p['country'] == req.params.country) {
+            if (p['ingredient'] == ingredient && p['country'] == req.params.country || p['name'] == req.params.product && p['country'] == req.params.country && p['ingredient'] == ingredient) {
                 return p['name'];
             }
         }
@@ -62,6 +58,24 @@ router.get('/result/:product/:country', function (req, res) {
         return p !== undefined;
     });
 
+    res.send(drugs);
+});
+
+router.get('/allcountries', function (req, res) {
+    var countries = _output2.default.data.map(function (c) {
+        return c.country;
+    }).filter(function (v, i, a) {
+        return a.indexOf(v) === i;
+    });
+    res.json(countries);
+});
+
+router.get('/alldrugs', function (req, res) {
+    var drugs = _output2.default.data.map(function (d) {
+        return d.name;
+    }).filter(function (v, i, a) {
+        return a.indexOf(v) === i;
+    });
     res.send(drugs);
 });
 

@@ -47,6 +47,28 @@ def returnRegexMatchesFromText(text, regExp):
     else:
         return matches
 
+def getStringsWithinBrackets(line):
+    bracketCount = 0
+    charCount = 0
+    newcharcount = 0
+    stringInBrackets = ""
+    for l in line:
+        if l == '(':
+            bracketCount += 1
+    for l in line:
+        charCount += 1
+        if l == '(':
+            break
+    charCount -= 1
+    for l in line[charCount:]:
+        if bracketCount != 0:
+            newcharcount += 1
+            stringInBrackets += l
+            if l == ')':
+                bracketCount -= 1
+    print stringInBrackets
+    return stringInBrackets
+
 def getProduct(url, productname, file):
     string = ""
     soup = soupInit('%s%s.html'%(url, productname))
@@ -61,7 +83,8 @@ def getProduct(url, productname, file):
             for f in find:
                 name = match[1]
                 country = f[0].replace(', ', '')
-            string += "{\n\tname: \"%s\",\n\tcountry: \"%s\",\n\tingredient: \"%s\"\n},\n"%(name, country, productname)    
+                pair = getStringsWithinBrackets(name)
+            string += "{\n\tname: \"%s\",\n\tcountry: \"%s\",\n\tpair: \"%s\",\n\tingredient: \"%s\"\n},\n"%(name.replace(pair, '').strip(), country, pair, productname)    
     return string  
 
 def getAllProducts(uri, productList, filename):
@@ -81,3 +104,4 @@ def main():
     deleteFile(filename)
 
 main()
+# getStringsWithinBrackets("he(y (is(a be) a) and that)'s all")

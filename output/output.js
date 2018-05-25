@@ -1,26506 +1,31807 @@
 exports.data = [{
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "United States",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Emetrex",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Emetrex (Cyclizine and Pyridoxine)",
+	name: "Emetrex",
 	country: "Egypt",
+	pair: "(Cyclizine and Pyridoxine)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Valoid",
 	country: "Egypt",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Aculoid",
 	country: "Australia",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Adco-Cyclizine",
 	country: "South Africa",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclivert",
 	country: "South Africa",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine Amdipharm",
 	country: "United States",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine HCl CF",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine HCl PCH",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine Hydrochloride Amdipharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine Hydrochloride Cipla",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine Hydrochloride P & D",
 	country: "Malta",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "DA Cyclizine HCl",
 	country: "Malta",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Diconal (Cyclizine and Dipipanone)",
+	name: "Diconal",
 	country: "Netherlands",
+	pair: "(Cyclizine and Dipipanone)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Echantol",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Echantol B6 (Cyclizine and Pyridoxine)",
+	name: "Echantol B6",
 	country: "Austria",
+	pair: "(Cyclizine and Pyridoxine)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Echnatol",
 	country: "Austria",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Echnatol B6 (Cyclizine and Pyridoxine)",
+	name: "Echnatol B6",
 	country: "Austria",
+	pair: "(Cyclizine and Pyridoxine)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Etos Cyclizine HCl",
 	country: "Austria",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Gotur",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "IDYL Cyclizine HCl",
 	country: "Denmark",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Liumpin",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Marezine",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Marzine",
 	country: "United States",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Medazine",
 	country: "Norway",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Nausicalm",
 	country: "South Africa",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Nauzine",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Reisfit (veterinary use)",
+	name: "Reisfit",
 	country: "South Africa",
+	pair: "(veterinary use)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Reisziekte",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Triazine",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Valoid",
 	country: "South Africa",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Cyclizine Lactate Amdipharm",
 	country: "South Africa",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Nausicalm",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
 	name: "Valoid",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
-	name: "Cyclimorph (Cyclizine and Morphine)",
+	name: "Cyclimorph",
 	country: "Ireland",
+	pair: "(Cyclizine and Morphine)",
 	ingredient: "cyclizine"
 },
 {
 	name: "Amicon",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Amicon Forte (Amitriptyline and Chlordiazepoxide)",
+	name: "Amicon Forte",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amiline",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amiplin",
 	country: "Kenya",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitone",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitrac",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Amitrac-CZ (Amitriptyline and Chlordiazepoxide)",
+	name: "Amitrac-CZ",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitrip",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina",
 	country: "Kenya",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina Andromaco",
 	country: "Brazil",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina Cevallos",
 	country: "Chile",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina L.CH.",
 	country: "Argentina",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina La Santé",
 	country: "Chile",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilins-Grindeks",
 	country: "Panama",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptine",
 	country: "Latvia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin BP",
 	country: "Egypt",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Grindeks",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Zentiva",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline BB",
 	country: "Kenya",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline GM",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Remedica",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline-Grindeks",
 	country: "Macedonia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline-IKA",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amypres",
 	country: "Kenya",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Amypres-C (Amitriptyline and Chlordiazepoxide)",
+	name: "Amypres-C",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amytril",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amyzol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Apo-Amitriptyline",
 	country: "Macedonia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Arpidox",
 	country: "Singapore",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Axeptyl (Amitriptyline and Chlordiazepoxide)",
+	name: "Axeptyl",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Diaztric-A (Amitriptyline and Chlordiazepoxide)",
+	name: "Diaztric-A",
 	country: "Guatemala",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Emotrip (Amitriptyline and Chlordiazepoxide)",
+	name: "Emotrip",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Fiorda",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Laroxyl",
 	country: "Argentina",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Latilin",
 	country: "Turkey",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbitrol (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbitrol",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbitrol DS (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbitrol DS",
 	country: "United States",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbival Forte (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbival Forte",
 	country: "United States",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbritol (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbritol",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Maxitrip",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Mitryp",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mitryp Forte (Amitriptyline and Chlordiazepoxide)",
+	name: "Mitryp Forte",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Morelin (Amitriptyline and Chlordiazepoxide)",
+	name: "Morelin",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabon Ansiolitico (Amitriptyline and Perphenazine)",
+	name: "Mutabon Ansiolitico",
 	country: "Chile",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabon Antidepressivo (Amitriptyline and Perphenazine)",
+	name: "Mutabon Antidepressivo",
 	country: "Italy",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabon Forte (Amitriptyline and Perphenazine)",
+	name: "Mutabon Forte",
 	country: "Italy",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabon Mite (Amitriptyline and Perphenazine)",
+	name: "Mutabon Mite",
 	country: "Italy",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Odep",
 	country: "Italy",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Ristryl (Amitriptyline and Chlordiazepoxide)",
+	name: "Ristryl",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Ristryl Forte (Amitriptyline and Chlordiazepoxide)",
+	name: "Ristryl Forte",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Saroten Retard",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Trepiline",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triamyl",
 	country: "South Africa",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Trilin",
 	country: "Serbia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triptiline",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triptric",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptalgin",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptanol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptizol",
 	country: "Peru",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Adepril",
 	country: "Egypt",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "ADT",
 	country: "Italy",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amilavil",
 	country: "Portugal",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amilin",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amineurin",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amineurin retard",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amirol",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amit",
 	country: "Malta",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitin",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitrip",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilinã Arena",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina Bussié",
 	country: "Romania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina Clorhidrato Mintlab",
 	country: "Colombia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina La Santé",
 	country: "Chile",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina MK",
 	country: "Colombia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilina Winthrop",
 	country: "Colombia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptilino Sanitas",
 	country: "Colombia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Abcur",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin beta",
 	country: "Sweden",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin DAK",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Leciva",
 	country: "Denmark",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Meda",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Nycomed",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Pliva",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin Slovakofarma",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-CT",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-dura",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-dura retard",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Accord",
 	country: "Kenya",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Actavis",
 	country: "Malta",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Changzhou Siyao",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Chen Ho",
 	country: "China",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Glaxo",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl Apotex",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl Aurobindo",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl CF",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl Mylan",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl Sandoz",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline HCl Teva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Hydrochloride Medopharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Hydrochloride Rosemont",
 	country: "Georgia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Hydrochloride Wockhardt",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Jinup",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Nycomed",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Remedica",
 	country: "Estonia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Update",
 	country: "Serbia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline Wockhardt",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptyline-Grindeks",
 	country: "Malta",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-neuraxpharm",
 	country: "Estonia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-neuraxpharm retard",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylin-Slovakofarma",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylinum ICN Polfa",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylinum Polfa",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitriptylinum VP",
 	country: "Latvia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amitryp",
 	country: "Poland",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amotrip",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amyline",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amytril",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Amyzol",
 	country: "Brazil",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Anapsique",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Antalin (Amitriptyline and Chlordiazepoxide)",
+	name: "Antalin",
 	country: "Mexico",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Antalin Forte (Amitriptyline and Chlordiazepoxide)",
+	name: "Antalin Forte",
 	country: "Chile",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Arpidox-CP (Amitriptyline and Chlordiazepoxide)",
+	name: "Arpidox-CP",
 	country: "Chile",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Arrow Amitriptyline",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Deprelio",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Diapatol (Amitriptyline and Chlordiazepoxide)",
+	name: "Diapatol",
 	country: "Spain",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Elatrol",
 	country: "Italy",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Elatrolet",
 	country: "Israel",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Elavil",
 	country: "Israel",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Endep",
 	country: "France",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Klotriptyl (Amitriptyline and Chlordiazepoxide)",
+	name: "Klotriptyl",
 	country: "Hong Kong",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Laroxyl",
 	country: "Finland",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Levate",
 	country: "Morocco",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Libotryp (Amitriptyline and Chlordiazepoxide)",
+	name: "Libotryp",
 	country: "Canada",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Libotryp-DS (Amitriptyline and Chlordiazepoxide)",
+	name: "Libotryp-DS",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Libotryp-XL (Amitriptyline and Chlordiazepoxide)",
+	name: "Libotryp-XL",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbitrol (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbitrol",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbitrol-H (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbitrol-H",
 	country: "Brazil",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbitryl (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbitryl",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Limbival (Amitriptyline and Chlordiazepoxide)",
+	name: "Limbival",
 	country: "Italy",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Maxitrip-CZ (Amitriptyline and Chlordiazepoxide)",
+	name: "Maxitrip-CZ",
 	country: "India",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Maxivalet",
 	country: "India",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Minitran (Amitriptyline and Perphenazine)",
+	name: "Minitran",
 	country: "Greece",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Modup",
 	country: "Greece",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabase (Amitriptyline and Perphenazine)",
+	name: "Mutabase",
 	country: "Taiwan",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Mutabon (Amitriptyline and Perphenazine)",
+	name: "Mutabon",
 	country: "Spain",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Neo Amitriptilin",
 	country: "Portugal",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Nobritol (Amitriptyline and Medazepam)",
+	name: "Nobritol",
 	country: "Brazil",
+	pair: "(Amitriptyline and Medazepam)",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Nobritol Forte (Amitriptyline and Medazepam)",
+	name: "Nobritol Forte",
 	country: "Spain",
+	pair: "(Amitriptyline and Medazepam)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Normaln",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Pertriptyl (Amitriptyline and Perphenazine)",
+	name: "Pertriptyl",
 	country: "Japan",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Pinsaun",
 	country: "Finland",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "PMS-Amitriptyline",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "PMS-Levazine (Amitriptyline and Perphenazine)",
+	name: "PMS-Levazine",
 	country: "Canada",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Polytanol",
 	country: "Canada",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Protanol",
 	country: "Thailand",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Qualitriptine",
 	country: "Brazil",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Redomex",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Sandoz Amitriptyline",
 	country: "Belgium",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Saroten",
 	country: "South Africa",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Saroten ret.",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Saroten Retard",
 	country: "Latvia",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Sarotex",
 	country: "Austria",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Sarotex Retard",
 	country: "Norway",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Sedans (Amitriptyline and Chlordiazepoxide)",
+	name: "Sedans",
 	country: "Norway",
+	pair: "(Amitriptyline and Chlordiazepoxide)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Stelminal",
 	country: "Italy",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Syneudon",
 	country: "Greece",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Teperin",
 	country: "Germany",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Trip",
 	country: "Hungary",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tripta",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "Triptafen (Amitriptyline and Perphenazine)",
+	name: "Triptafen",
 	country: "Thailand",
+	pair: "(Amitriptyline and Perphenazine)",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triptizol",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triptyl",
 	country: "Italy",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Triptyline",
 	country: "Finland",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tripyline",
 	country: "Thailand",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Trynol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptanol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptin",
 	country: "Japan",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptizol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
 	name: "Tryptomer",
 	country: "Spain",
+	pair: "",
 	ingredient: "amitriptyline"
 },
 {
-	name: "A.C. (Paracetamol and Caffeine)",
+	name: "A.C.",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "A.C. and C (Paracetamol and Caffeine, + Codeine)",
+	name: "A.C. and C",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "A.H. Buton",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "A.T.",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abdine",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abenol",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abimol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Abimol extra (Paracetamol and Caffeine)",
+	name: "Abimol extra",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abrol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abrolet",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Abrolet forte",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Abumol (Paracetamol and Ibuprofen)",
+	name: "Abumol",
 	country: "Israel",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "AC Plus (Paracetamol and Aceclofenac)",
+	name: "AC Plus",
 	country: "Kenya",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "AC2 (Paracetamol and Aceclofenac)",
+	name: "AC2",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acamol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acamol Focus (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Acamol Focus",
 	country: "Romania",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acamol Night (Paracetamol and Diphenhydramine)",
+	name: "Acamol Night",
 	country: "Israel",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acamol Tsinun Classic Day (Paracetamol and Pseudoephedrine)",
+	name: "Acamol Tsinun Classic Day",
 	country: "Israel",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acamol Tsinun Classic Night (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Acamol Tsinun Classic Night",
 	country: "Israel",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acamoli",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acamoli (pediatric)",
+	name: "Acamoli",
 	country: "Kenya",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acamoli Forte",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ACB Plus (Paracetamol and Aceclofenac)",
+	name: "ACB Plus",
 	country: "Israel",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "AC-Diclo (Paracetamol and Diclofenac)",
+	name: "AC-Diclo",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ace",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ACE Plus (Paracetamol and Caffeine)",
+	name: "ACE Plus",
 	country: "Kenya",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ace XR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceact-P (Paracetamol and Aceclofenac)",
+	name: "Aceact-P",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acebel-P (Paracetamol and Aceclofenac)",
+	name: "Acebel-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acebid-P (Paracetamol and Aceclofenac)",
+	name: "Acebid-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acebloc-P (Paracetamol and Aceclofenac)",
+	name: "Acebloc-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acecaine (Paracetamol and Caffeine)",
+	name: "Acecaine",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acecat",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceclan Plus (Paracetamol and Aceclofenac)",
+	name: "Aceclan Plus",
 	country: "Spain",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceclo Plus (Paracetamol and Aceclofenac)",
+	name: "Aceclo Plus",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acecloder (Paracetamol and Aceclofenac)",
+	name: "Acecloder",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceclofen (Paracetamol and Diclofenac)",
+	name: "Aceclofen",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acedol",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acelofan Plus (Paracetamol and Aceclofenac)",
+	name: "Acelofan Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acemex-P (Paracetamol and Aceclofenac)",
+	name: "Acemex-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acemol Fort",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acenez-P (Paracetamol and Aceclofenac)",
+	name: "Acenez-P",
 	country: "Vietnam",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acenol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acenol Forte",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acent-P (Paracetamol and Aceclofenac)",
+	name: "Acent-P",
 	country: "Poland",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acepar (Paracetamol and Aceclofenac)",
+	name: "Acepar",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acephen",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ace-Q-Para (Paracetamol and Aceclofenac)",
+	name: "Ace-Q-Para",
 	country: "United States",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceroc-P (Paracetamol and Aceclofenac)",
+	name: "Aceroc-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceron-P (Paracetamol and Aceclofenac)",
+	name: "Aceron-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acet",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acet (Paracetamol and Caffeine, + Codeine)",
+	name: "Acet",
 	country: "Singapore",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acet Codeine (Paracetamol and Codeine)",
+	name: "Acet Codeine",
 	country: "Canada",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aceta",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceta w/ Codeine (Paracetamol and Codeine)",
+	name: "Aceta w/ Codeine",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetadol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetafen",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetagen",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetal",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetalgin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetalis",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetamin",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetamin Forte MK (Paracetamol and Caffeine)",
+	name: "Acetamin Forte MK",
 	country: "Ecuador",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofen",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminofen + Codeina Colmed (Paracetamol and Codeine)",
+	name: "Acetaminofen + Codeina Colmed",
 	country: "Venezuela",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofen Farmandina",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Farmandina",
 	country: "Guatemala",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Genfar",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofen La Santé",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén La Santé",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Labovida",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén MK",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Nifa",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Química Ariston",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminofén Tofis",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen 20% Taisho",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen 20% Tatsumi",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen and Pentazocine HCl Actavis (Paracetamol and Pentazocine)",
+	name: "Acetaminophen and Pentazocine HCl Actavis",
 	country: "Japan",
+	pair: "(Paracetamol and Pentazocine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Astar",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Century",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen Children's (pediatric)",
+	name: "Acetaminophen Children's",
 	country: "Taiwan",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Chung I",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Extra Strength Pendopharm",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Fu Yuan",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Gentle",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen Headache Ultra Relief Apotex (Paracetamol and Caffeine)",
+	name: "Acetaminophen Headache Ultra Relief Apotex",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen inf",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Jen Sheng",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Jinup",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Long Der",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Maruishi",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Meider",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Nan Tu",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen New Chemical",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Om Biomedic",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Pendopharm",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Riva",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Sinton",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Siu Guan",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Taisho",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Tanabe",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Tatsumi",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen The Central",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Unifarma",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen W Codeine Pharmascience (Paracetamol and Caffeine, + Codeine)",
+	name: "Acetaminophen W Codeine Pharmascience",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Winston",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Yang Sheng",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Yoshida Seiyaku",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Yung Chang",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetaminophen Yung Chi",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen, Caffeine & Codeine Pendopharm (Paracetamol and Caffeine, + Codeine)",
+	name: "Acetaminophen, Caffeine & Codeine Pendopharm",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaminophen, Caffeine & Codeine Pharmascience (Paracetamol and Caffeine, + Codeine)",
+	name: "Acetaminophen, Caffeine & Codeine Pharmascience",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetanin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetaprofen (Paracetamol and Ibuprofen)",
+	name: "Acetaprofen",
 	country: "Taiwan",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aceta-X (Paracetamol and Caffeine)",
+	name: "Aceta-X",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetazone (Paracetamol and Chlormezanone)",
+	name: "Acetazone",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetazone Forte (Paracetamol and Chlorzoxazone)",
+	name: "Acetazone Forte",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetazone Forte C8 (Paracetamol and Chlorzoazone, + Codeine)",
+	name: "Acetazone Forte C8",
 	country: "Canada",
+	pair: "(Paracetamol and Chlorzoazone, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetofen",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetolit",
 	country: "Brazil",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetomin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetonac (Paracetamol and Diclofenac)",
+	name: "Acetonac",
 	country: "Taiwan",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetor (Paracetamol and Orphenadrine)",
+	name: "Acetor",
 	country: "India",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acetosol",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acetram (Paracetamol and Tramadol)",
+	name: "Acetram",
 	country: "Pakistan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acevah-P (Paracetamol and Aceclofenac)",
+	name: "Acevah-P",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aceval",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acezo (Paracetamol and Aceclofenac)",
+	name: "Acezo",
 	country: "Venezuela",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aciana-P (Paracetamol and Aceclofenac)",
+	name: "Aciana-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acifine-P (Paracetamol and Aceclofenac)",
+	name: "Acifine-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acpl (Paracetamol and Aceclofenac)",
+	name: "Acpl",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Actadol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actadol Codeine (Paracetamol and Codeine)",
+	name: "Actadol Codeine",
 	country: "Vietnam",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actifed Etats Grippaux (Paracetamol and Chlorphenamine)",
+	name: "Actifed Etats Grippaux",
 	country: "Vietnam",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actifed Rhume (Paracetamol and Triprolidine, + Pseudoephedrine)",
+	name: "Actifed Rhume",
 	country: "France",
+	pair: "(Paracetamol and Triprolidine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actifed Rhume Jour & Nuit (Paracetamol and Pseudoephedrine)",
+	name: "Actifed Rhume Jour & Nuit",
 	country: "France",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Actifen",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actigrip (Paracetamol and Pseudoephedrine, + Triprolidine)",
+	name: "Actigrip",
 	country: "Ecuador",
+	pair: "(Paracetamol and Pseudoephedrine, + Triprolidine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actigrip Giorno e Notte (Paracetamol and Pseudoephedrine, + Diphenhydramine)",
+	name: "Actigrip Giorno e Notte",
 	country: "Italy",
+	pair: "(Paracetamol and Pseudoephedrine, + Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actimol (Paracetamol and Diclofenac)",
+	name: "Actimol",
 	country: "Italy",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actimol-F (Paracetamol and Ibuprofen)",
+	name: "Actimol-F",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actinac Plus (Paracetamol and Aceclofenac)",
+	name: "Actinac Plus",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Action",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actron (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Actron",
 	country: "Kenya",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Actron Compuesto (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Actron Compuesto",
 	country: "France",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acuten (Paracetamol and Codeine)",
+	name: "Acuten",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acutral (Paracetamol and Tramadol)",
+	name: "Acutral",
 	country: "Ecuador",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acutral Effervescent (Paracetamol and Tramadol)",
+	name: "Acutral Effervescent",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acuvin (Paracetamol and Tramadol)",
+	name: "Acuvin",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Acynac-P (Paracetamol and Aceclofenac)",
+	name: "Acynac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adalgin (Paracetamol and Acetylsalicylic Acid)",
+	name: "Adalgin",
 	country: "India",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adalgur (Paracetamol and Thiocolchicoside)",
+	name: "Adalgur",
 	country: "Pakistan",
+	pair: "(Paracetamol and Thiocolchicoside)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adalgur N (Paracetamol and Thiocolchicoside)",
+	name: "Adalgur N",
 	country: "Spain",
+	pair: "(Paracetamol and Thiocolchicoside)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adco-Napacod (Paracetamol and Codeine)",
+	name: "Adco-Napacod",
 	country: "Portugal",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adco-Napamol",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adco-Prolief",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adinol",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adol (Paracetamol and Caffeine)",
+	name: "Adol",
 	country: "Tunisia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adol (Paracetamol and Pseudoephedrine)",
+	name: "Adol",
 	country: "Oman",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adol extra (Paracetamol and Caffeine)",
+	name: "Adol extra",
 	country: "Lebanon",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adol PM (Paracetamol and Diphenhydramine)",
+	name: "Adol PM",
 	country: "Lebanon",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adol Sinus (Paracetamol and Pseudoephedrine)",
+	name: "Adol Sinus",
 	country: "Oman",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adolef",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adoline",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adoline Fort (Paracetamol and Codeine)",
+	name: "Adoline Fort",
 	country: "Tunisia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor (Paracetamol and Caffeine)",
+	name: "Adolor",
 	country: "Tunisia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor (Paracetamol and Pseudoephedrine)",
+	name: "Adolor",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor Extra (Paracetamol and Caffeine)",
+	name: "Adolor Extra",
 	country: "Macedonia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor Gripo C (Paracetamol and Ascorbic Acid, + Caffeine, + Chorphenamine)",
+	name: "Adolor Gripo C",
 	country: "Macedonia",
+	pair: "(Paracetamol and Ascorbic Acid, + Caffeine, + Chorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor Kids (pediatric)",
+	name: "Adolor Kids",
 	country: "Macedonia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adolor kold (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Adolor kold",
 	country: "Macedonia",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Adorem",
 	country: "Macedonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Adorem Plus (Paracetamol and Caffeine)",
+	name: "Adorem Plus",
 	country: "Colombia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aeknil",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Afebryl (Paracetamol and Acetylsalicylic Acid, + Ascorbic Acid)",
+	name: "Afebryl",
 	country: "Philippines",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "A-ferin forte (Paracetamol and Chlorpheniramine)",
+	name: "A-ferin forte",
 	country: "Portugal",
+	pair: "(Paracetamol and Chlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "A-Ferin Hot (Paracetamol and Pseudoephedrine)",
+	name: "A-Ferin Hot",
 	country: "Turkey",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "A-Ferin Pediatrik (Paracetamol and Chlorpheniramine (pediatric))",
+	name: "A-Ferin Pediatrik",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlorpheniramine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Affen Plus (Paracetamol and Aceclofenac)",
+	name: "Affen Plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Afnac-P (Paracetamol and Aceclofenac)",
+	name: "Afnac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aglopam (Paracetamol and Dicycloverine)",
+	name: "Aglopam",
 	country: "India",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Agomol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Agurin",
 	country: "Tanzania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ai Er Xing",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ai Jia (Paracetamol and Pamabrom)",
+	name: "Ai Jia",
 	country: "LtdChina",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ai Sen",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aksopol",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alador",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alaxan (Paracetamol and Ibuprofen)",
+	name: "Alaxan",
 	country: "Spain",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alaxan FR (Paracetamol and Ibuprofen)",
+	name: "Alaxan FR",
 	country: "Myanmar",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Albert Heijn Paracetamol",
 	country: "Myanmar",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Albert Heijn Paracetamol/coffeine (Paracetamol and Caffeine)",
+	name: "Albert Heijn Paracetamol/coffeine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alcacyl Grippe (Paracetamol and Pseudoephedrine)",
+	name: "Alcacyl Grippe",
 	country: "Netherlands",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aleton (Paracetamol and Chlormezanone)",
+	name: "Aleton",
 	country: "Switzerland",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alfin forte (Paracetamol and Caffeine)",
+	name: "Alfin forte",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algaphan (Paracetamol and Dextropropoxyphene)",
+	name: "Algaphan",
 	country: "Ecuador",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algesia (Paracetamol and Tramadol)",
+	name: "Algesia",
 	country: "Pakistan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Algesic",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algesic extra (Paracetamol and Caffeine)",
+	name: "Algesic extra",
 	country: "Tunisia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Algiafin",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algi-B (Paracetamol and Tizanidine)",
+	name: "Algi-B",
 	country: "Chile",
+	pair: "(Paracetamol and Tizanidine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algicler (Paracetamol and Diclofenac)",
+	name: "Algicler",
 	country: "Colombia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algic-P (Paracetamol and Aceclofenac)",
+	name: "Algic-P",
 	country: "Argentina",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algidol (Paracetamol and Ascorbic Acid, + Codeine)",
+	name: "Algidol",
 	country: "Georgia",
+	pair: "(Paracetamol and Ascorbic Acid, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algimide (Paracetamol and Codeine)",
+	name: "Algimide",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algine (Paracetamol and Caffeine)",
+	name: "Algine",
 	country: "Colombia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alginox",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algisedal (Paracetamol and Codeine)",
+	name: "Algisedal",
 	country: "Ecuador",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algitrin (Paracetamol and Ibuprofen)",
+	name: "Algitrin",
 	country: "Tunisia",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algocalm (Paracetamol and Codeine)",
+	name: "Algocalm",
 	country: "Ecuador",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Algocit",
 	country: "Estonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algocod (Paracetamol and Codeine)",
+	name: "Algocod",
 	country: "Greece",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Algodol",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algodol Caféine (Paracetamol and Caffeine)",
+	name: "Algodol Caféine",
 	country: "France",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algopirina (Paracetamol and Acetylsalicylic Acid)",
+	name: "Algopirina",
 	country: "France",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algostase (Paracetamol and Caffeine)",
+	name: "Algostase",
 	country: "Italy",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Algostase mono",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algotra (Paracetamol and Tramadol)",
+	name: "Algotra",
 	country: "Belgium",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Algotropyl (Paracetamol and Promethazine)",
+	name: "Algotropyl",
 	country: "Belgium",
+	pair: "(Paracetamol and Promethazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alide-P (Paracetamol and Mefenamic Acid)",
+	name: "Alide-P",
 	country: "France",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alivax",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alivet (Paracetamol and Dexchlorpheniramine)",
+	name: "Alivet",
 	country: "Venezuela",
+	pair: "(Paracetamol and Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alkafen (Paracetamol and Tramadol)",
+	name: "Alkafen",
 	country: "Venezuela",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alka-Seltzer Plus (Paracetamol and Phenylephrine)",
+	name: "Alka-Seltzer Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Allercet Cold (Paracetamol and Cetirizine, + Pseudoephedrine)",
+	name: "Allercet Cold",
 	country: "United States",
+	pair: "(Paracetamol and Cetirizine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Almigripe (Paracetamol and Caffeine)",
+	name: "Almigripe",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alnase-P (Paracetamol and Aceclofenac)",
+	name: "Alnase-P",
 	country: "Portugal",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Alonac-P (Paracetamol and Aceclofenac)",
+	name: "Alonac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aloo (Paracetamol and Aceclofenac)",
+	name: "Aloo",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alphagesic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alphamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alpiny",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alvedon",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alvedon forte",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Alvedon Novum",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amacet (Paracetamol and Tramadol)",
+	name: "Amacet",
 	country: "Sweden",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amadol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amadol Extra (Paracetamol and Caffeine)",
+	name: "Amadol Extra",
 	country: "Pakistan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amavita Antigrippe (Paracetamol and Pseudoephedrine)",
+	name: "Amavita Antigrippe",
 	country: "Pakistan",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amavita Paracetamol",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amcilon (Paracetamol and Ethenzamide)",
+	name: "Amcilon",
 	country: "Switzerland",
+	pair: "(Paracetamol and Ethenzamide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ametrex",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amifen",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aminofen",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aminofen Max Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amiox-P (Paracetamol and Tizanidine)",
+	name: "Amiox-P",
 	country: "United States",
+	pair: "(Paracetamol and Tizanidine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amiphen",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "A-Mol",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amol (Paracetamol and Caffeine)",
+	name: "Amol",
 	country: "Thailand",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "A-Mol Pediatric (pediatric)",
+	name: "A-Mol Pediatric",
 	country: "Oman",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amol Plus",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Amole",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Amole Plus (Paracetamol and Caffeine)",
+	name: "Amole Plus",
 	country: "Pakistan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "An Du Fen (Paracetamol and Codeine)",
+	name: "An Du Fen",
 	country: "Pakistan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anacin Aspirin Free",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anacin Max (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Anacin Max",
 	country: "United States",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anadin Paracetamol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anadom (Paracetamol and Domperidone)",
+	name: "Anadom",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anaida (Paracetamol and Diclofenac)",
+	name: "Anaida",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analem (Paracetamol and Phenylephrine)",
+	name: "Analem",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Analgan",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgan (pediatric)",
+	name: "Analgan",
 	country: "Tunisia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgan Codeine (Paracetamol and Codeine)",
+	name: "Analgan Codeine",
 	country: "Tunisia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgan Extra (Paracetamol and Caffeine)",
+	name: "Analgan Extra",
 	country: "Tunisia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgan Tram (Paracetamol and Tramadol)",
+	name: "Analgan Tram",
 	country: "Tunisia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Analgesic",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgex SAP (Paracetamol and Tramadol)",
+	name: "Analgex SAP",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgilasa (Paracetamol and Caffeine, + Codeine)",
+	name: "Analgilasa",
 	country: "Ecuador",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analgiplus (Paracetamol and Codeine)",
+	name: "Analgiplus",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Analgiser",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Analper",
 	country: "Cyprus",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analper CAF (Paracetamol and Caffeine)",
+	name: "Analper CAF",
 	country: "Colombia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Analper Forte",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analper Plus (Paracetamol and Scopolamine)",
+	name: "Analper Plus",
 	country: "Colombia",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analphene (Paracetamol and Dextropropoxyphene)",
+	name: "Analphene",
 	country: "Colombia",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Analtram (Paracetamol and Tramadol)",
+	name: "Analtram",
 	country: "Pakistan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "AN-AN (Paracetamol and Orphenadrine)",
+	name: "AN-AN",
 	country: "Pakistan",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ananty",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anapyrin",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anarex (Paracetamol and Orphenadrine)",
+	name: "Anarex",
 	country: "Pakistan",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anaseran",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anatra (Paracetamol and Tramadol)",
+	name: "Anatra",
 	country: "Philippines",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anber (Paracetamol and Dicycloverine)",
+	name: "Anber",
 	country: "India",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ancogen",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ancogen (Paracetamol and Chlorzoxazone)",
+	name: "Ancogen",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ancoton",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anexsia (Paracetamol and Hydrocodone)",
+	name: "Anexsia",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Angesic (Paracetamol and Orphenadrine)",
+	name: "Angesic",
 	country: "United States",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Angrip Noche (Paracetamol and Dexchlorpheniramine)",
+	name: "Angrip Noche",
 	country: "Pakistan",
+	pair: "(Paracetamol and Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anhiba",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anliton",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anliton (Paracetamol and Orphenadrine)",
+	name: "Anliton",
 	country: "Taiwan",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anodyne-P (Paracetamol and Aceclofenac)",
+	name: "Anodyne-P",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anorol (Paracetamol and Orphenadrine)",
+	name: "Anorol",
 	country: "India",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ansocaine (Paracetamol and Chlormezanone)",
+	name: "Ansocaine",
 	country: "Pakistan",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Answell (Paracetamol and Ibuprofen)",
+	name: "Answell",
 	country: "Taiwan",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antalgine (Paracetamol and Caffeine)",
+	name: "Antalgine",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antalgine Forte (Paracetamol and Caffeine)",
+	name: "Antalgine Forte",
 	country: "Colombia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Anticold (Paracetamol and Phenylephrine, + Chlorphenamine, + Caffeine)",
+	name: "Anticold",
 	country: "Ecuador",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Antidol",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antidol (Paracetamol and Codein phosphate)",
+	name: "Antidol",
 	country: "Spain",
+	pair: "(Paracetamol and Codein phosphate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antiflu (Paracetamol and Chlorphenamine, + Phenylephrine)",
+	name: "Antiflu",
 	country: "Poland",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antiflu Kids (Paracetamol and Ascorbic Acid, + Chlorphenamine (pediatric))",
+	name: "Antiflu Kids",
 	country: "Russian Federation",
+	pair: "(Paracetamol and Ascorbic Acid, + Chlorphenamine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antiflu-Des Jr (Paracetamol and Amantadine, + Chlorphenamine)",
+	name: "Antiflu-Des Jr",
 	country: "Russian Federation",
+	pair: "(Paracetamol and Amantadine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antiflu-Des Pediátrico (Paracetamol and Amantadine, + Chlorpheniramine (pediatric))",
+	name: "Antiflu-Des Pediátrico",
 	country: "Mexico",
+	pair: "(Paracetamol and Amantadine, + Chlorpheniramine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antigripal (Paracetamol and Caffeine)",
+	name: "Antigripal",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antigriphine (Paracetamol and Caffeine)",
+	name: "Antigriphine",
 	country: "Romania",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antigrippine (Paracetamol and Ascorbic Acid)",
+	name: "Antigrippine",
 	country: "Belgium",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antigrippine (Paracetamol and Caffeine, + Mepyramine)",
+	name: "Antigrippine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antinevralgic Forte (Paracetamol and Caffeine, + Acetylsalicylic Acid)",
+	name: "Antinevralgic Forte",
 	country: "Portugal",
+	pair: "(Paracetamol and Caffeine, + Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antinevralgic P (Paracetamol and Caffeine, + Acetylsalicylic Acid (pediatric))",
+	name: "Antinevralgic P",
 	country: "Romania",
+	pair: "(Paracetamol and Caffeine, + Acetylsalicylic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antino (Paracetamol and Pseudephedrine, + Chlorphenamine)",
+	name: "Antino",
 	country: "Romania",
+	pair: "(Paracetamol and Pseudephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anti-Phen",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Antispa Plus (Paracetamol and Scopolamine)",
+	name: "Antispa Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Antone",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "AnYi",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anyrume",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Anyrume 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "APAP",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apap",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "APAP Extra (Paracetamol and Caffeine)",
+	name: "APAP Extra",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apap Junior (pediatric)",
+	name: "Apap Junior",
 	country: "Poland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "APAP Noc (Paracetamol and Diphenhydramine)",
+	name: "APAP Noc",
 	country: "Poland",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "APAP Przeziebienie (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "APAP Przeziebienie",
 	country: "Poland",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apap Przeziebienie (Paracetamol and Ascorbic acid)",
+	name: "Apap Przeziebienie",
 	country: "Poland",
+	pair: "(Paracetamol and Ascorbic acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "APAP Przeziebienie (Paracetamol and Phenylephrine)",
+	name: "APAP Przeziebienie",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "APAP-Plus (Paracetamol and Caffeine)",
+	name: "APAP-Plus",
 	country: "Poland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "A-Per",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aphen",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aphlogis",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apiredol",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apiret",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apiretal",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apiretal Codeina (Paracetamol and Codeine)",
+	name: "Apiretal Codeina",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apiretal Niños (pediatric)",
+	name: "Apiretal Niños",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apo Acetaminophene",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apo-Acetaminophen",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apolus (Paracetamol and Tramadol)",
+	name: "Apolus",
 	country: "Canada",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apo-Oxycodone/Acet (Paracetamol and Oxycodone)",
+	name: "Apo-Oxycodone/Acet",
 	country: "Ecuador",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ApoPatram (Paracetamol and Tramadol)",
+	name: "ApoPatram",
 	country: "Canada",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apotel",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apotel Plus (Paracetamol and Lidocaine)",
+	name: "Apotel Plus",
 	country: "Israel",
+	pair: "(Paracetamol and Lidocaine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apo-Tramadol/Acet (Paracetamol and Tramadol)",
+	name: "Apo-Tramadol/Acet",
 	country: "Cyprus",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apracur",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apracur (Paracetamol and Phenylephrine, + Clemizole, +Salicylamide)",
+	name: "Apracur",
 	country: "Argentina",
+	pair: "(Paracetamol and Phenylephrine, + Clemizole, +Salicylamide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apracur Te Descongestivo (Paracetamol and Phenylephrine)",
+	name: "Apracur Te Descongestivo",
 	country: "Thailand",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aprix (Paracetamol and Codeine)",
+	name: "Aprix",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aproxol Plus (Paracetamol and Trometamol)",
+	name: "Aproxol Plus",
 	country: "Colombia",
+	pair: "(Paracetamol and Trometamol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apyral",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apyral (pediatric)",
+	name: "Apyral",
 	country: "Ecuador",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Apyrene",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Apyrex Pediatrique (pediatric)",
+	name: "Apyrex Pediatrique",
 	country: "Venezuela",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Arax",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arax Extra (Paracetamol and Caffeine)",
+	name: "Arax Extra",
 	country: "Denmark",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Arax Forte",
 	country: "Denmark",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arax Junior (pediatric)",
+	name: "Arax Junior",
 	country: "Denmark",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Arfen",
 	country: "Denmark",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arfen Plus (Paracetamol and Caffeine)",
+	name: "Arfen Plus",
 	country: "Oman",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arflur-P (Paracetamol and Aceclofenac)",
+	name: "Arflur-P",
 	country: "Malta",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arpha (Paracetamol and Chlorphenamine)",
+	name: "Arpha",
 	country: "India",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arrestin-P (Paracetamol and Aceclofenac)",
+	name: "Arrestin-P",
 	country: "Lithuania",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Arthrifen Plus (Paracetamol and Ibuprofen)",
+	name: "Arthrifen Plus",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Arthrolur",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Artifen Plus (Paracetamol and Ibuprofen)",
+	name: "Artifen Plus",
 	country: "Switzerland",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Artigesic (Paracetamol and Ibuprofen)",
+	name: "Artigesic",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ascamol (Paracetamol and Acetylsalicylic Acid)",
+	name: "Ascamol",
 	country: "India",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Askofens Olainfarm",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Askprol",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Asu",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Atamel",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Atamelco (Paracetamol and Codeine)",
+	name: "Atamelco",
 	country: "Venezuela",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Atasol",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Atasol (Paracetamol and Codeine, + Caffeine)",
+	name: "Atasol",
 	country: "Canada",
+	pair: "(Paracetamol and Codeine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Aterpin (Paracetamol and Naproxen)",
+	name: "Aterpin",
 	country: "Canada",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Atmiphen",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Atmiphen 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Aton",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "ATP",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Atralidon",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Atshi (Paracetamol and Pseudoephedrine, + Loratadine)",
+	name: "Atshi",
 	country: "Portugal",
+	pair: "(Paracetamol and Pseudoephedrine, + Loratadine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Austell-Paracetamol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Avadol",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Avcamol",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Avcamoli for big Kids (pediatric)",
+	name: "Avcamoli for big Kids",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Axcel Paracetamol",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Azur (Paracetamol and Caffeine)",
+	name: "Azur",
 	country: "Vietnam",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Azur compositum (Paracetamol and Codeine)",
+	name: "Azur compositum",
 	country: "Germany",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Azur compositum SC (Paracetamol and Codeine)",
+	name: "Azur compositum SC",
 	country: "Germany",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Baby Rinolo (Paracetamol and Chlorphenamine (pediatric))",
+	name: "Baby Rinolo",
 	country: "Germany",
+	pair: "(Paracetamol and Chlorphenamine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
 	name: "Baby Rinolo Febbre e Dolore",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Babygesic (pediatric)",
+	name: "Babygesic",
 	country: "Italy",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Babyrhino (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Babyrhino",
 	country: "India",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bamol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Baralgan-Nu (Paracetamol and Dicycloverine)",
+	name: "Baralgan-Nu",
 	country: "Pakistan",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Basic Pain Relief Extra Strength",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bayer Select Pain Relief (Paracetamol and Diphenhydramine)",
+	name: "Bayer Select Pain Relief",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bebetina",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Becetamol",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams All-in-One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Beechams All-in-One",
 	country: "Switzerland",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Breathe Clear (Paracetamol and Phenylephrine)",
+	name: "Beechams Breathe Clear",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Cold & Flu (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Beechams Cold & Flu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Cold & Flu (Paracetamol and Phenylephrine)",
+	name: "Beechams Cold & Flu",
 	country: "Malta",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Cold Relief (Paracetamol and Caffeine)",
+	name: "Beechams Cold Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Flu-Plus (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Beechams Flu-Plus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Max Strength All in One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Beechams Max Strength All in One",
 	country: "Malta",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beechams Ultra (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Beechams Ultra",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Befol Plus (Paracetamol and Diclofenac)",
+	name: "Befol Plus",
 	country: "Malta",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Begesic (Paracetamol and Orphenadrine)",
+	name: "Begesic",
 	country: "Argentina",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bei Le Xin",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Belic (Paracetamol and Scopolamine)",
+	name: "Belic",
 	country: "China",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benadryl Total/Allergy/Extra Strength (Paracetamol and Diphenhydramine, + Pseudoephedrine)",
+	name: "Benadryl Total/Allergy/Extra Strength",
 	country: "India",
+	pair: "(Paracetamol and Diphenhydramine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bencitamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ben-u-ron",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "ben-u-ron",
 	country: "Austria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin All-in-One Cold and Flu (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
+	name: "Benylin All-in-One Cold and Flu",
 	country: "Germany",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin All-in-One Cold and Flu Extra Strength (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
+	name: "Benylin All-in-One Cold and Flu Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin All-in-One Cold and Flu Night Extra Strength (Paracetamol and Pseudoephedrine, + Diphenhydramine)",
+	name: "Benylin All-in-One Cold and Flu Night Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Chesty Cough & Cold (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Benylin Chesty Cough & Cold",
 	country: "Canada",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Cold & Flu Day & Night (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Benylin Cold & Flu Day & Night",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Cold & flu Max Strength (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Benylin Cold & flu Max Strength",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Cold and Sinus (Paracetamol and Phenylephrine)",
+	name: "Benylin Cold and Sinus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Cold and Sinus Night (Paracetamol and Phenylephrine, + Dexchlorpheniramine)",
+	name: "Benylin Cold and Sinus Night",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Cold and Sinus Plus (Paracetamol and Phenylephrine, + Dexchlorpheniramine)",
+	name: "Benylin Cold and Sinus Plus",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Day & Night (Paracetamol and Diphenhydramine, + Pseudoephedrine)",
+	name: "Benylin Day & Night",
 	country: "Canada",
+	pair: "(Paracetamol and Diphenhydramine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Extra Strength Mucus & Phlegm Plus Cold Relief (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
+	name: "Benylin Extra Strength Mucus & Phlegm Plus Cold Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin for Children All-in-One Cold & Fever (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Dexchlorpheniramine (pediatric))",
+	name: "Benylin for Children All-in-One Cold & Fever",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Dexchlorpheniramine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin for Children All-in-One Cold & Fever Nightime (Paracetamol and Dextromethorphan, + Diphenhydramine (pediatric))",
+	name: "Benylin for Children All-in-One Cold & Fever Nightime",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Diphenhydramine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Four Flu (Paracetamol and Diphenhydramine, + Pseudoephedrine)",
+	name: "Benylin Four Flu",
 	country: "Canada",
+	pair: "(Paracetamol and Diphenhydramine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Mucus Cough & Cold All in One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Benylin Mucus Cough & Cold All in One",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Benylin Phlegm Cough & Cold Multi-Relief (Paracetamol and Phenylephrine, + Guaifenesin)",
+	name: "Benylin Phlegm Cough & Cold Multi-Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Besemax (Paracetamol and Orphenadrine)",
+	name: "Besemax",
 	country: "Ireland",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beseroldos (Paracetamol and Methocarbamol)",
+	name: "Beseroldos",
 	country: "South Africa",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Beserol-S (Paracetamol and Chlorzoxazone)",
+	name: "Beserol-S",
 	country: "Venezuela",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bestogesic Plus (Paracetamol and Nimesulide)",
+	name: "Bestogesic Plus",
 	country: "Chile",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "BetaTemp Children's (pediatric)",
+	name: "BetaTemp Children's",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "BF-Paradac",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bi Li Kang (Paracetamol and Amantadine)",
+	name: "Bi Li Kang",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Amantadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bi Ting (Paracetamol and Pseudoephedrine)",
+	name: "Bi Ting",
 	country: "China",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bidnac (Paracetamol and Diclofenac)",
+	name: "Bidnac",
 	country: "China",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bienadol (Paracetamol and Caffeine)",
+	name: "Bienadol",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bifardol (Paracetamol and Naproxen)",
+	name: "Bifardol",
 	country: "Egypt",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bio Grip T",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Biocetamol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bioflu",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Biogesic",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biogrip Forte (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Biogrip Forte",
 	country: "Myanmar",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Biopain",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biopar (Paracetamol and Domperidone)",
+	name: "Biopar",
 	country: "Philippines",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bioretic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Biragan",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biragan Codein (Paracetamol and Codeine)",
+	name: "Biragan Codein",
 	country: "Vietnam",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biragan Extra (Paracetamol and Caffeine)",
+	name: "Biragan Extra",
 	country: "Vietnam",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biragan Kids (Paracetamol and Ascorbic Acid (pediatric))",
+	name: "Biragan Kids",
 	country: "Vietnam",
+	pair: "(Paracetamol and Ascorbic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Biragan Kids (pediatric)",
+	name: "Biragan Kids",
 	country: "Vietnam",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Blisspyron",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Blokium Gesic (Paracetamol and Diclofenac)",
+	name: "Blokium Gesic",
 	country: "Pakistan",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bo Na Tong (Paracetamol and Codeine)",
+	name: "Bo Na Tong",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bodrex (Paracetamol and Caffeine)",
+	name: "Bodrex",
 	country: "LtdChina",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bolopax",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bonespas (Paracetamol and Homatropine)",
+	name: "Bonespas",
 	country: "Poland",
+	pair: "(Paracetamol and Homatropine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots 24 Hour Cold & Flu Relief (Paracetamol and Diphenhydramine, + Pholcodine, + Pseudoephedrine)",
+	name: "Boots 24 Hour Cold & Flu Relief",
 	country: "Colombia",
+	pair: "(Paracetamol and Diphenhydramine, + Pholcodine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Aspirin Extra (Paracetamol and Aspirin, + Caffeine)",
+	name: "Boots Aspirin Extra",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Aspirin, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Blocked Nose & Headache Relief (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Boots Blocked Nose & Headache Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Cold & Flu Max Relief (Paracetamol and Phenylephrine)",
+	name: "Boots Cold & Flu Max Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Boots Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Cold & Flu Relief (Paracetamol and Ascorbic Acid, + Caffeine, + Phenylephrine)",
+	name: "Boots Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ascorbic Acid, + Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Cold & Flu Relief (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Boots Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Cold & Flu Relief Hot (Paracetamol and Ascorbic Acid)",
+	name: "Boots Cold & Flu Relief Hot",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Day Cold & Flu Relief (Paracetamol and Pholcodine, + Pseudoephedrine)",
+	name: "Boots Day Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pholcodine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Decongestant with Pain Relief (Paracetamol and Pseudoephedrine)",
+	name: "Boots Decongestant with Pain Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Flu-Max All-In-One Chesty Cough & Cold (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Boots Flu-Max All-In-One Chesty Cough & Cold",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Max Strength Cold & Flu (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Boots Max Strength Cold & Flu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Maximum Strength Cold & Flu (Paracetamol and Phenylephrine)",
+	name: "Boots Maximum Strength Cold & Flu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Mucus Cough & Cold Relief All in One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Boots Mucus Cough & Cold Relief All in One",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Night Cold & Flu Relief (Paracetamol and Diphenhydramine, + Pholcodine, + Pseudoephedrine)",
+	name: "Boots Night Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Diphenhydramine, + Pholcodine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Boots Paracetamol",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Paracetamol 3 Months Plus (pediatric)",
+	name: "Boots Paracetamol 3 Months Plus",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Paracetamol 6 Years Plus (pediatric)",
+	name: "Boots Paracetamol 6 Years Plus",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Paracetamol and Codeine (Paracetamol and Codeine)",
+	name: "Boots Paracetamol and Codeine",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Paracetamol and Codeine Extra (Paracetamol and Caffeine, + Codeine)",
+	name: "Boots Paracetamol and Codeine Extra",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Paracetamol Extra (Paracetamol and Caffeine)",
+	name: "Boots Paracetamol Extra",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Pharmacy Flu Strength (Paracetamol and Cetylpyridinium, + Guaifenesin, + Phenylephrine)",
+	name: "Boots Pharmacy Flu Strength",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Cetylpyridinium, + Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Boots Ultra Cold and Flu Relief All in One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Boots Ultra Cold and Flu Relief All in One",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bralget (Paracetamol and Dicycloverine)",
+	name: "Bralget",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brax (Paracetamol and Naproxen)",
+	name: "Brax",
 	country: "Georgia",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brevex (Paracetamol and Chlorzoxazone)",
+	name: "Brevex",
 	country: "Mexico",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Brexin",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Broxolgrip (Paracetamol and Dexchlorpheniramine)",
+	name: "Broxolgrip",
 	country: "Venezuela",
+	pair: "(Paracetamol and Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brucet (Paracetamol and Ibuprofen)",
+	name: "Brucet",
 	country: "Venezuela",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brufemol (Paracetamol and Ibuprofen)",
+	name: "Brufemol",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brunadol (Paracetamol and Naproxen)",
+	name: "Brunadol",
 	country: "Egypt",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brupal (Paracetamol andIbuprofen)",
+	name: "Brupal",
 	country: "Mexico",
+	pair: "(Paracetamol andIbuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brustan (Paracetamol and Ibuprofen)",
+	name: "Brustan",
 	country: "Myanmar",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brustin (Paracetamol and Ibuprofen)",
+	name: "Brustin",
 	country: "China",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Brutek-P (Paracetamol and Dexibuprofen)",
+	name: "Brutek-P",
 	country: "India",
+	pair: "(Paracetamol and Dexibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bu Rui Fen (Paracetamol and Ascorbic Acid)",
+	name: "Bu Rui Fen",
 	country: "India",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bubdel",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Bufferin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bufferin Plus (Paracetamol and Caffeine)",
+	name: "Bufferin Plus",
 	country: "China",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Bupap (Paracetamol and Butalbital)",
+	name: "Bupap",
 	country: "China",
+	pair: "(Paracetamol and Butalbital)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscam Compuesto (Paracetamol and Scopolamine)",
+	name: "Buscam Compuesto",
 	country: "United States",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscamol (Paracetamol and Scopolamine)",
+	name: "Buscamol",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscamol Comp. (Paracetamol and Scopolamine)",
+	name: "Buscamol Comp.",
 	country: "Egypt",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscapina Compositum N (Paracetamol and Scopolamine)",
+	name: "Buscapina Compositum N",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscapina Plus (Paracetamol and Scopolamine)",
+	name: "Buscapina Plus",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan (Paracetamol and Scopolamine)",
+	name: "Buscopan",
 	country: "Austria",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan compositum (Paracetamol and Scopolamine)",
+	name: "Buscopan compositum",
 	country: "Greece",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan Compositum N (Paracetamol and Butylscopolamine)",
+	name: "Buscopan Compositum N",
 	country: "Italy",
+	pair: "(Paracetamol and Butylscopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan Plus (Paracetamol and Scopolamine)",
+	name: "Buscopan Plus",
 	country: "Portugal",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan plus (Paracetamol and Scopolamine)",
+	name: "Buscopan plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Buscopan Venus (Paracetamol and Scopolamine)",
+	name: "Buscopan Venus",
 	country: "Germany",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Butaproxyvon (Paracetamol and Diclofenac)",
+	name: "Butaproxyvon",
 	country: "Philippines",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "C1000 Kinderparacetamol (pediatric)",
+	name: "C1000 Kinderparacetamol",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "C1000 Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "C1000 Paracetamol/coffeine (Paracetamol and Caffeine)",
+	name: "C1000 Paracetamol/coffeine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cafamol (Paracetamol and Caffeine, + Doxylamine)",
+	name: "Cafamol",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine, + Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cafamol Extra (Paracetamol and Caffeine, + Doxylamine, + Pseudoephedrine)",
+	name: "Cafamol Extra",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Doxylamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cafedon (Paracetamol and Caffeine)",
+	name: "Cafedon",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cafenol (Paracetamol and Caffeine)",
+	name: "Cafenol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Caffetin Cold (Paracetamol and Ascorbic Acid, + Dextromethorphan, + Pseudoephedrine)",
+	name: "Caffetin Cold",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Ascorbic Acid, + Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Caffetin COLDmax (Paracetamol and Phenylephrine)",
+	name: "Caffetin COLDmax",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calefred (Paracetamol and Ascorbic Acid, + Calcium Carbonate)",
+	name: "Calefred",
 	country: "Macedonia",
+	pair: "(Paracetamol and Ascorbic Acid, + Calcium Carbonate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calmador Plus (Paracetamol and Tramadol)",
+	name: "Calmador Plus",
 	country: "Italy",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calmalgine",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calmic (Paracetamol and Tramadol)",
+	name: "Calmic",
 	country: "Egypt",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calmkid (Paracetamol and Promethazine (pediatric))",
+	name: "Calmkid",
 	country: "Peru",
+	pair: "(Paracetamol and Promethazine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calmodor",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calonal",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calonal 2%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calonal 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calonal 50%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calpol",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calpol (pediatric)",
+	name: "Calpol",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calpol 6 plus",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calpol 6 plus (pediatric)",
+	name: "Calpol 6 plus",
 	country: "Ireland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calpol Infant (pediatric)",
+	name: "Calpol Infant",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Calpol Plus (Paracetamol and Ibuprofen)",
+	name: "Calpol Plus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calsil",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Calsil 2%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Camp (Paracetamol and Lornoxicam)",
+	name: "Camp",
 	country: "Japan",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Capital w/ Codeine (Paracetamol and Codeine)",
+	name: "Capital w/ Codeine",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Captin",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Carbafen (Paracetamol and Methocarbamol)",
+	name: "Carbafen",
 	country: "Germany",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Care Infant Paracetamol (pediatric)",
+	name: "Care Infant Paracetamol",
 	country: "Mexico",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Carmeiton (Paracetamol and Caffeine)",
+	name: "Carmeiton",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Carnil Plus (Paracetamol and Nimesulide)",
+	name: "Carnil Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Carnil-ACP (Paracetamol and Aceclofenac)",
+	name: "Carnil-ACP",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Catarrin Día (Paracetamol and Phenylephrine)",
+	name: "Catarrin Día",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Caton (Paracetamol and Codeine)",
+	name: "Caton",
 	country: "Peru",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Causalon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cebion Febbre e Dolore (Paracetamol and Ascorbic Acid)",
+	name: "Cebion Febbre e Dolore",
 	country: "Argentina",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ceclocon-P (Paracetamol and Aceclofenac)",
+	name: "Ceclocon-P",
 	country: "Italy",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ceclo-P (Paracetamol andAceclofenac)",
+	name: "Ceclo-P",
 	country: "India",
+	pair: "(Paracetamol andAceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cefabrina",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Céfaline Hauth (Paracetamol and Caffeine)",
+	name: "Céfaline Hauth",
 	country: "Brazil",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cefekon D",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cêgripe (Paracetamol and Chlorphenamine)",
+	name: "Cêgripe",
 	country: "Georgia",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cemolplus (Paracetamol and Chlorphenamine)",
+	name: "Cemolplus",
 	country: "Portugal",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cerugrip (Paracetamol and Pseudoepherine, + Dextromethorphan)",
+	name: "Cerugrip",
 	country: "Romania",
+	pair: "(Paracetamol and Pseudoepherine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetadol",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetadol (Paracetamol and Tramadol)",
+	name: "Cetadol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetadol Plus (Paracetamol and Caffeine)",
+	name: "Cetadol Plus",
 	country: "Philippines",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetafen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetafen (Paracetamol and Ibuprofen)",
+	name: "Cetafen",
 	country: "United States",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetafen Extra",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetafen kids (Paracetamol and Ibuprofen (pediatric))",
+	name: "Cetafen kids",
 	country: "United States",
+	pair: "(Paracetamol and Ibuprofen (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetagesic (Paracetamol and Orphenadrine)",
+	name: "Cetagesic",
 	country: "Egypt",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetal",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetal Cold&Flu; (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Cetal Cold&Flu;",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetal Sinus (Paracetamol and Pseudoephedrine)",
+	name: "Cetal Sinus",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetalgin",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetamadol (Paracetamol and Tramadol)",
+	name: "Cetamadol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetamol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ceta-Plus (Paracetamol and Hydrocodone)",
+	name: "Ceta-Plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cetebe",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetodol (Paracetamol and Tramadol)",
+	name: "Cetodol",
 	country: "Germany",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetra (Paracetamol and Tramadol)",
+	name: "Cetra",
 	country: "Philippines",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cetradol (Paracetamol and Tramadol)",
+	name: "Cetradol",
 	country: "Philippines",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cevamol (Paracetamol and Ascorbic Acid)",
+	name: "Cevamol",
 	country: "Tunisia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Champ",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Chemist's Own Paracetamol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children Feverhalt (pediatric)",
+	name: "Children Feverhalt",
 	country: "Hong Kong",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Childrens Aceta",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Children's Bufferin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Coltalin (Paracetamol and Chlrophenamine, + Thiamine, + Phenylephrine (pediatric))",
+	name: "Children's Coltalin",
 	country: "China",
+	pair: "(Paracetamol and Chlrophenamine, + Thiamine, + Phenylephrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Coltalin Cold & Flu (Paracetamol and Chlorphenamine, + Phenylephrine (pediatric))",
+	name: "Children's Coltalin Cold & Flu",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Fortolin (pediatric)",
+	name: "Children's Fortolin",
 	country: "Hong Kong",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Non-Aspirin (pediatric)",
+	name: "Children's Non-Aspirin",
 	country: "Hong Kong",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Nonspil Acetaminophen (pediatric)",
+	name: "Children's Nonspil Acetaminophen",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Children's Panacon",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Panadol (pediatric)",
+	name: "Children's Panadol",
 	country: "Taiwan",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Children's Tylenol (pediatric)",
+	name: "Children's Tylenol",
 	country: "Singapore",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Chiwegon (Paracetamol and Chlormezanone)",
+	name: "Chiwegon",
 	country: "Lithuania",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Choligrip (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Choligrip",
 	country: "Taiwan",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Choligrip Effect (Paracetamol and Caffeine)",
+	name: "Choligrip Effect",
 	country: "Poland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Choligrip na noc (Paracetamol and Dextromethorphan, + Promethazine)",
+	name: "Choligrip na noc",
 	country: "Poland",
+	pair: "(Paracetamol and Dextromethorphan, + Promethazine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Christamol",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cinepar (Paracetamol and Diclofenac)",
+	name: "Cinepar",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cinepar Extra (Paracetamol and Caffeine)",
+	name: "Cinepar Extra",
 	country: "Georgia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Citodon (Paracetamol and Codeine)",
+	name: "Citodon",
 	country: "Georgia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Citodon forte (Paracetamol and Codeine)",
+	name: "Citodon forte",
 	country: "Sweden",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Citodon minor (Paracetamol and Codeine)",
+	name: "Citodon minor",
 	country: "Sweden",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Citrosan (Paracetamol and Ascorbic Acid)",
+	name: "Citrosan",
 	country: "Sweden",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Claradol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Claradol Caféine (Paracetamol and Caffeine)",
+	name: "Claradol Caféine",
 	country: "France",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Claradol Codéine (Paracetamol and Codeine)",
+	name: "Claradol Codéine",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Clariflu (Paracetamol and Loratadine, + Pseudoephedrine)",
+	name: "Clariflu",
 	country: "France",
+	pair: "(Paracetamol and Loratadine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Clocinol (Paracetamol and Tramadol)",
+	name: "Clocinol",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Clofamol (Paracetamol and Caffeine)",
+	name: "Clofamol",
 	country: "Latvia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Clonac - Plus (Paracetamol and Diclofenac)",
+	name: "Clonac - Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cloq plus (Paracetamol and Tramadol)",
+	name: "Cloq plus",
 	country: "Lebanon",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Clorace (Paracetamol and Chlorphenamine)",
+	name: "Clorace",
 	country: "Argentina",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cloxina",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Becetamol (Paracetamol and Codeine)",
+	name: "Co-Becetamol",
 	country: "Philippines",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Becetamol forte (Paracetamol and Codeine)",
+	name: "Co-Becetamol forte",
 	country: "Switzerland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cocarl",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cocarl 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cocarl 40%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cocet (Paracetamol and Codeine)",
+	name: "Cocet",
 	country: "Japan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cocet Plus (Paracetamol and Codeine)",
+	name: "Cocet Plus",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-codamol (Paracetamol and Codeine)",
+	name: "Co-codamol",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codabrol (Paracetamol and Codeine)",
+	name: "Codabrol",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cod-Acamol (Paracetamol and Codeine)",
+	name: "Cod-Acamol",
 	country: "Israel",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Dafalgan (Paracetamol and Codeine)",
+	name: "Co-Dafalgan",
 	country: "Israel",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codalvonil (Paracetamol and Codeine)",
+	name: "Codalvonil",
 	country: "Switzerland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codamol (Paracetamol and Codeine)",
+	name: "Codamol",
 	country: "Sweden",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codanol (Paracetamol and Dihydrocodeine)",
+	name: "Codanol",
 	country: "Italy",
+	pair: "(Paracetamol and Dihydrocodeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codaxol (Paracetamol and Codeine)",
+	name: "Codaxol",
 	country: "Cyprus",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cod-Efferalgan (Paracetamol and Codeine)",
+	name: "Cod-Efferalgan",
 	country: "Norway",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codeipar (Paracetamol and Codeine)",
+	name: "Codeipar",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codicet (Paracetamol and Codeine)",
+	name: "Codicet",
 	country: "Chile",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codigesic (Paracetamol and Codeine)",
+	name: "Codigesic",
 	country: "Thailand",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Codipar",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codipar (Paracetamol and Codeine)",
+	name: "Codipar",
 	country: "Lithuania",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coditam (Paracetamol and Codeine)",
+	name: "Coditam",
 	country: "Malta",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Codoliprane (Paracetamol and Codeine)",
+	name: "Codoliprane",
 	country: "Indonesia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Dydramol (Paracetamol and Dihydrocodeine)",
+	name: "Co-Dydramol",
 	country: "Tunisia",
+	pair: "(Paracetamol and Dihydrocodeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Efferalgan (Paracetamol and Codeine)",
+	name: "Co-Efferalgan",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cofev (Paracetamol and Nimesulide)",
+	name: "Cofev",
 	country: "Italy",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cofucaine (Paracetamol and Chlormezanone)",
+	name: "Cofucaine",
 	country: "India",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Gesic (Paracetamol and Hydrocodone)",
+	name: "Co-Gesic",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cold Control (Paracetamol and Diphenhydramine)",
+	name: "Cold Control",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cold Free (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Cold Free",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cold Stop (Paracetamol and Chlorphenamine, + Pseudoephedrine, + Dextromethorphan)",
+	name: "Cold Stop",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldact (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Coldact",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldenin Hot Drink (Paracetamol and Phenylephrine)",
+	name: "Coldenin Hot Drink",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldex 2 (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Coldex 2",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldinase (Paracetamol and Guaifenesin, + Pseudoephedrine, + Dextromethorphan)",
+	name: "Coldinase",
 	country: "Egypt",
+	pair: "(Paracetamol and Guaifenesin, + Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex (Paracetamol and Pseudoephedrine)",
+	name: "Coldrex",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Head Cold (Paracetamol and Pseudoephedrine)",
+	name: "Coldrex Head Cold",
 	country: "Poland",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Horúci Nápoj (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Coldrex Horúci Nápoj",
 	country: "New Zealand",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Hotrem (Paracetamol and Phenylephrine, + Ascorbic acid)",
+	name: "Coldrex Hotrem",
 	country: "Slovakia",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Junior (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Coldrex Junior",
 	country: "Estonia",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Junior C (Paracetamol and Pseudoephedrine, + Ascorbic Acid (pediatric))",
+	name: "Coldrex Junior C",
 	country: "Slovakia",
+	pair: "(Paracetamol and Pseudoephedrine, + Ascorbic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex MaxGrip (Paracetamol and Phenylephrine, + Ascorbic acid)",
+	name: "Coldrex MaxGrip",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Nočná Liečba (Paracetamol and Dextromethorphan, + Promethazine)",
+	name: "Coldrex Nočná Liečba",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Dextromethorphan, + Promethazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldrex Pocket (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Coldrex Pocket",
 	country: "Slovakia",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coldstop (Paracetamol and Chlorphenamine, Pseudoephedrine)",
+	name: "Coldstop",
 	country: "Poland",
+	pair: "(Paracetamol and Chlorphenamine, Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Colicspam (Paracetamol and Dicycloverine)",
+	name: "Colicspam",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coltalin-GP (Paracetamol and Chlorphenamine, + Phenylephrine, + Guaifenesin)",
+	name: "Coltalin-GP",
 	country: "India",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coltalin-ND (Paracetamol and Phenylephrine)",
+	name: "Coltalin-ND",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Combiflam (Paracetamol and Ibuprofen)",
+	name: "Combiflam",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Combihext (Paracetamol and Aceclofenac)",
+	name: "Combihext",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Comfort",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Compralgyl (Paracetamol and Codeine)",
+	name: "Compralgyl",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Comtrex Junior (Paracetamol and Phenylephrine (pediatric))",
+	name: "Comtrex Junior",
 	country: "France",
+	pair: "(Paracetamol and Phenylephrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Comtrex Maximum Strength (Paracetamol and Brompheniramine, + Pseudoephedrine)",
+	name: "Comtrex Maximum Strength",
 	country: "Peru",
+	pair: "(Paracetamol and Brompheniramine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Comtrex Multi-Symptom (Paracetamol and Guaifenesin)",
+	name: "Comtrex Multi-Symptom",
 	country: "Egypt",
+	pair: "(Paracetamol and Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Conapin (Paracetamol and Codeine)",
+	name: "Conapin",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Congestal (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Congestal",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Congestal Day (Paracetamol and Phenylephrine)",
+	name: "Congestal Day",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Conta fever (Paracetamol and Ibuprofen)",
+	name: "Conta fever",
 	country: "Egypt",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Cold & Sore Throat, Nighttime, Extra Strength (Paracetamol and Chlorphenamine, + Phenylephrine)",
+	name: "Contac Cold & Sore Throat, Nighttime, Extra Strength",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Cold & Sore Throat, Non Drowsy, Extra Strength (Paracetamol and Phenylephrine)",
+	name: "Contac Cold & Sore Throat, Non Drowsy, Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Cold + Flu (Paracetamol and Phenylephrine)",
+	name: "Contac Cold + Flu",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Complete - Cough, Cold & Flu, Nighttime, Extra Strength (Paracetamol and Chlorphenamine, + Phenylephrine, + Dextromethorphan)",
+	name: "Contac Complete - Cough, Cold & Flu, Nighttime, Extra Strength",
 	country: "United States",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Complete - Cough, Cold & Flu, Non Drowsy, Extra Strength (Paracetamol and Phenylephrine, + Dextromethorphan)",
+	name: "Contac Complete - Cough, Cold & Flu, Non Drowsy, Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contac Non Drowsy (Paracetamol and Pseudoephedrine)",
+	name: "Contac Non Drowsy",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Contraneural Paracetamol/Codein (Paracetamol and Codeine)",
+	name: "Contraneural Paracetamol/Codein",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Contra-Schmerz P",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Contratemp",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coop Vitality Grippe & Erkältung (Paracetamol and Pseudoephedrine)",
+	name: "Coop Vitality Grippe & Erkältung",
 	country: "Indonesia",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Coop Vitality Paracetamol",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "COPYRKAL (Paracetamol and Caffeine)",
+	name: "COPYRKAL",
 	country: "Switzerland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Corbutyl (Paracetamol and Dextropropoxyphene)",
+	name: "Corbutyl",
 	country: "Germany",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Corgic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin (Paracetamol and Chlorphenamine)",
+	name: "Coricidin",
 	country: "Philippines",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin Cold & Flu (Paracetamol and Chlorphenamine)",
+	name: "Coricidin Cold & Flu",
 	country: "Venezuela",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin Cold & Flu Extra Strength (Paracetamol and Chlorphenamine, + Dextromethorphan)",
+	name: "Coricidin Cold & Flu Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Chlorphenamine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin Forte (Paracetamol and Chlorphenamine)",
+	name: "Coricidin Forte",
 	country: "Canada",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin HPB (Paracetamol and Chlorphenamine)",
+	name: "Coricidin HPB",
 	country: "Peru",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coricidin S (Paracetamol and Chlorphenamine)",
+	name: "Coricidin S",
 	country: "United States",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Corilax (Paracetamol and Orphenadrine)",
+	name: "Corilax",
 	country: "Ecuador",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Corilin (Paracetamol and Chlorphenamine)",
+	name: "Corilin",
 	country: "Thailand",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coritab (Paracetamol and Chlorphenamine)",
+	name: "Coritab",
 	country: "Venezuela",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cortal for children (pediatric)",
+	name: "Cortal for children",
 	country: "Hong Kong",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cortal SQR (Paracetamol and Ibuprofen)",
+	name: "Cortal SQR",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cortigrip (Paracetamol and Pseudoephedrine)",
+	name: "Cortigrip",
 	country: "Philippines",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cortigrip Dia/Noche (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Cortigrip Dia/Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Coslor-P (Paracetamol and Lornoxicam)",
+	name: "Coslor-P",
 	country: "Chile",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cosune (Paracetamol and Codeine)",
+	name: "Cosune",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cosutone (Paracetamol and Codeine)",
+	name: "Cosutone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cotemp",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cotibin Analgesico Antipiretico",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cotibin Antigripal (Paracetamol and Chlorphenamine, + Caffeine)",
+	name: "Cotibin Antigripal",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cotibin Dia Y Noche (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Cotibin Dia Y Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cotibin Infantil (pediatric)",
+	name: "Cotibin Infantil",
 	country: "Chile",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Co-Tipol (Paracetamol and Codeine)",
+	name: "Co-Tipol",
 	country: "Chile",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Covonia Cold & Flu (Paracetamol and Cetylpyridinium Chloride, + Guaifenesin, + Phenylephrine)",
+	name: "Covonia Cold & Flu",
 	country: "Malta",
+	pair: "(Paracetamol and Cetylpyridinium Chloride, + Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Crocin",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Crocin Pain Relief (Paracetamol and Caffeine)",
+	name: "Crocin Pain Relief",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Crocin Quik",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Crocin-DS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Croix Blanche (Paracetamol and Caffeine)",
+	name: "Croix Blanche",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Croix blanche mono",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cronofen",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cronus (Paracetamol and Tramadol)",
+	name: "Cronus",
 	country: "Colombia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Crotax (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Crotax",
 	country: "Chile",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Cupanol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Curenac-P (Paracetamol and Aceclofenac)",
+	name: "Curenac-P",
 	country: "Indonesia",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Curidol (Paracetamol and Tramadol)",
+	name: "Curidol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cyclopam (Paracetamol and Dicycloverine)",
+	name: "Cyclopam",
 	country: "Poland",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Cyclozed (Paracetamol and Dicycloverine)",
+	name: "Cyclozed",
 	country: "India",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Da Feng (Paracetamol and Pseudoephedrine)",
+	name: "Da Feng",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Da Ning (Paracetamol and Propoxyphene)",
+	name: "Da Ning",
 	country: "China",
+	pair: "(Paracetamol and Propoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "DA Paracetamol",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dafalgan",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Baby (pediatric)",
+	name: "Dafalgan Baby",
 	country: "Oman",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Bébé (pediatric)",
+	name: "Dafalgan Bébé",
 	country: "Lebanon",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Codeine (Paracetamol and Codeine)",
+	name: "Dafalgan Codeine",
 	country: "Belgium",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Codéine (Paracetamol and Codeine)",
+	name: "Dafalgan Codéine",
 	country: "Lebanon",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Enfant (pediatric)",
+	name: "Dafalgan Enfant",
 	country: "France",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dafalgan Forte",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan für Kinder (pediatric)",
+	name: "Dafalgan für Kinder",
 	country: "Belgium",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Junior (pediatric)",
+	name: "Dafalgan Junior",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dafalgan Odis",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafalgan Pédiatrie (pediatric)",
+	name: "Dafalgan Pédiatrie",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dafalgan Pediatrique 3%",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dafalganhop",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dafloxen F (Paracetamol and Naproxen)",
+	name: "Dafloxen F",
 	country: "France",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dai Er Ka (Paracetamol and Pseudoephedrine)",
+	name: "Dai Er Ka",
 	country: "Mexico",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Daleron",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Daleron C (Paracetamol and Ascorbic Acid)",
+	name: "Daleron C",
 	country: "Romania",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Daleron C junior (Paracetamol and Ascorbic Acid (pediatric))",
+	name: "Daleron C junior",
 	country: "Romania",
+	pair: "(Paracetamol and Ascorbic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Daleron COLD3 (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Daleron COLD3",
 	country: "Romania",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dalmatrol Plus (Paracetamol and Tramadol)",
+	name: "Dalmatrol Plus",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dantrelax comp (Paracetamol and Dantrolene)",
+	name: "Dantrelax comp",
 	country: "Peru",
+	pair: "(Paracetamol and Dantrolene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Daraffin (Paracetamol and Caffeine)",
+	name: "Daraffin",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Daro Hoofdpijnpoeder (Paracetamol and Propyphenazone)",
+	name: "Daro Hoofdpijnpoeder",
 	country: "Taiwan",
+	pair: "(Paracetamol and Propyphenazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "DARO Paracetamol (pediatric)",
+	name: "DARO Paracetamol",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Darvocet (Paracetamol and Dextropropoxyphene)",
+	name: "Darvocet",
 	country: "Netherlands",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Day",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Day Flu (Paracetamol and Pseudoephedrine)",
+	name: "Day Flu",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Day Nurse (Paracetamol and Phenylpropanolamine, + Dextromethorphan)",
+	name: "Day Nurse",
 	country: "Ecuador",
+	pair: "(Paracetamol and Phenylpropanolamine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Day Nurse (Paracetamol and Pholcodine, + Pseudoephedrine)",
+	name: "Day Nurse",
 	country: "Egypt",
+	pair: "(Paracetamol and Pholcodine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dayflu (Paracetamol and Pseudoephedrine)",
+	name: "Dayflu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Daygrip",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen (Paracetamol and Chlorphenamine)",
+	name: "Decolgen",
 	country: "Argentina",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen Cold & Flu Extra Strength (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Decolgen Cold & Flu Extra Strength",
 	country: "Thailand",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen Forte (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Decolgen Forte",
 	country: "Singapore",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen ND (Paracetamol and Phenylephrine)",
+	name: "Decolgen ND",
 	country: "Myanmar",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen no Drowse (Paracetamol and Pseudoephedrine)",
+	name: "Decolgen no Drowse",
 	country: "Vietnam",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decolgen No-Drowse (Paracetamol and Phenylephrine)",
+	name: "Decolgen No-Drowse",
 	country: "Singapore",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Decosil (Paracetamol and Naproxen)",
+	name: "Decosil",
 	country: "Philippines",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Deflamox Plus (Paracetamol and Naproxen)",
+	name: "Deflamox Plus",
 	country: "Mexico",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Delfenac (Paracetamol and Aceclofenac)",
+	name: "Delfenac",
 	country: "Mexico",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Delparan (Paracetamol and Tramadol)",
+	name: "Delparan",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Demneg",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Democyl",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Demogripal C (Paracetamol and Ascorbic Acid)",
+	name: "Demogripal C",
 	country: "Netherlands",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Denamol",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Denim-Kid (Paracetamol and Mefenamic Acid (pediatric))",
+	name: "Denim-Kid",
 	country: "Thailand",
+	pair: "(Paracetamol and Mefenamic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Denim-P (Paracetamol and Nimesulide)",
+	name: "Denim-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dentopain (Paracetamol and Ibuprofen)",
+	name: "Dentopain",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depain",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Depain X (Paracetamol andDextropropoxyphene)",
+	name: "Depain X",
 	country: "Taiwan",
+	pair: "(Paracetamol andDextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Depalgos (Paracetamol and Oxycodone)",
+	name: "Depalgos",
 	country: "Taiwan",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depon",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depon Odis",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Depon Vit C (Paracetamol and Ascorbic Acid)",
+	name: "Depon Vit C",
 	country: "Greece",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depyret",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depyretin",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Depyrin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Desdol (Paracetamol and Chlorzoxazone)",
+	name: "Desdol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Desenfriol (Paracetamol and Phenylephrine)",
+	name: "Desenfriol",
 	country: "Chile",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Detramol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dexamol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dexamol (Paracetamol and Diphenhydramine)",
+	name: "Dexamol",
 	country: "Israel",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dexamol Kid (pediatric)",
+	name: "Dexamol Kid",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dexamol Plus (Paracetamol and Caffeine)",
+	name: "Dexamol Plus",
 	country: "Israel",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dexia (Paracetamol and Methionine)",
+	name: "Dexia",
 	country: "Israel",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dexigesic-P (Paracetamol and Dexibuprofen)",
+	name: "Dexigesic-P",
 	country: "India",
+	pair: "(Paracetamol and Dexibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Deynek",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dhamol",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Di Antalvic (Paracetamol and Codeine)",
+	name: "Di Antalvic",
 	country: "Singapore",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dianvita (Paracetamol and Dextropropoxyphene)",
+	name: "Dianvita",
 	country: "Lebanon",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dicloact Plus (Paracetamol and Diclofenac)",
+	name: "Dicloact Plus",
 	country: "Vietnam",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dicloder-P (Paracetamol and Diclofenac)",
+	name: "Dicloder-P",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclogesic (Paracetamol and Diclofenac)",
+	name: "Diclogesic",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclogesic Forte (Paracetamol and Diclofenac)",
+	name: "Diclogesic Forte",
 	country: "Vietnam",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclolabsa Gesic (Paracetamol and Diclofenac)",
+	name: "Diclolabsa Gesic",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclomol (Paracetamol and Diclofenac)",
+	name: "Diclomol",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclonac-P (Paracetamol and Diclofenac)",
+	name: "Diclonac-P",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclonova-P (Paracetamol and Diclofenac)",
+	name: "Diclonova-P",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclotab (Paracetamol and Diclofenac)",
+	name: "Diclotab",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclotal Forte (Paracetamol and Diclofenac)",
+	name: "Diclotal Forte",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diclovar Plus (Paracetamol and Diclofenac)",
+	name: "Diclovar Plus",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Didol-P (Paracetamol and Tramadol)",
+	name: "Didol-P",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Difenac Plus (Paracetamol and Diclofenac)",
+	name: "Difenac Plus",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diike (Paracetamol and Domperidone)",
+	name: "Diike",
 	country: "India",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dikuton",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Diliban (Paracetamol and Tramadol)",
+	name: "Diliban",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dilotab II (Paracetamol and Phenylephrine)",
+	name: "Dilotab II",
 	country: "Spain",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dinal Plus (Paracetamol and Diclofenac)",
+	name: "Dinal Plus",
 	country: "United States",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dinal-AP (Paracetamol and Aceclofenac)",
+	name: "Dinal-AP",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dioppex (Paracetamol and Phenylephrine)",
+	name: "Dioppex",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dioxaflex CB Gesic (Paracetamol and Diclofenac)",
+	name: "Dioxaflex CB Gesic",
 	country: "Estonia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dioxaflex Gesic (Paracetamol and Diclofenac)",
+	name: "Dioxaflex Gesic",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Diprol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dipt-P (Paracetamol and Aceclofenac)",
+	name: "Dipt-P",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dirox",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dirox Infantil (pediatric)",
+	name: "Dirox Infantil",
 	country: "Argentina",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Disprol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Distalgesic (Paracetamol and Dextropropoxyphene)",
+	name: "Distalgesic",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Divon Plus (Paracetamol and Diclofenac)",
+	name: "Divon Plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doconac-P (Paracetamol and Aceclofenac)",
+	name: "Doconac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doel",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolact (Paracetamol and Diclofenac)",
+	name: "Dolact",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolafen Duo Forte (Paracetamol and Diclofenac)",
+	name: "Dolafen Duo Forte",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolal",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolan (Paracetamol and Orphenadrine)",
+	name: "Dolan",
 	country: "Lithuania",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolantag (Paracetamol and Tramadol)",
+	name: "Dolantag",
 	country: "Finland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolaren (Paracetamol and Diclofenac)",
+	name: "Dolaren",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolaren (Paracetamol and Ibuprofen)",
+	name: "Dolaren",
 	country: "Georgia",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolcet (Paracetamol and Tramadol)",
+	name: "Dolcet",
 	country: "Georgia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolel",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doletam (Paracetamol and Tramadol)",
+	name: "Doletam",
 	country: "Tunisia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolex Niños (pediatric)",
+	name: "Dolex Niños",
 	country: "Slovakia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolfin",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolfin (Paracetamol and Caffeine)",
+	name: "Dolfin",
 	country: "Peru",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolfort-De (Paracetamol and Ketoprofen)",
+	name: "Dolfort-De",
 	country: "Peru",
+	pair: "(Paracetamol and Ketoprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doli Etat Grippal Paracetamol/Vitamine C/Pheniramine (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Doli Etat Grippal Paracetamol/Vitamine C/Pheniramine",
 	country: "Mexico",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doli Rhume (Paracetamol and Pseudoephedrine)",
+	name: "Doli Rhume",
 	country: "France",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolider (Paracetamol and Acetylsalicylic Acid)",
+	name: "Dolider",
 	country: "Tunisia",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolinof (Paracetamol and Tramadol)",
+	name: "Dolinof",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doliprane",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doliprane 2.4%",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doliprane Codeine (Paracetamol and Codeine)",
+	name: "Doliprane Codeine",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doliprane Pro (Paracetamol and Tramadol)",
+	name: "Doliprane Pro",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doliprane Vitamine C (Paracetamol and Ascorbic Acid)",
+	name: "Doliprane Vitamine C",
 	country: "Tunisia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolipranecaps",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolipraneliquiz",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolipraneorodoz",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolipranetabs",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "DolipraneVitamineC (Paracetamol and Ascorbic Acid)",
+	name: "DolipraneVitamineC",
 	country: "France",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolirhume Paracétamol et Pseudoéphédrine (Paracetamol and Pseudoephedrine)",
+	name: "Dolirhume Paracétamol et Pseudoéphédrine",
 	country: "France",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolirhumepro Paracetamol, Pseudoephedrine et Doxylamine (Paracetamol and Pseudoephedrine)",
+	name: "Dolirhumepro Paracetamol, Pseudoephedrine et Doxylamine",
 	country: "France",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolke Forte (Paracetamol and Diclofenac)",
+	name: "Dolke Forte",
 	country: "France",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolko",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolmeri-P (Paracetamol and Tramadol)",
+	name: "Dolmeri-P",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolo",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Apranax (Paracetamol and Naproxen)",
+	name: "Dolo Apranax",
 	country: "India",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Citalgan (Paracetamol and Carisoprodol)",
+	name: "Dolo Citalgan",
 	country: "El Salvador",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Extra Fuerte (Paracetamol and Diclofenac)",
+	name: "Dolo Extra Fuerte",
 	country: "Ecuador",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Liviolex (Paracetamol and Diclofenac)",
+	name: "Dolo Liviolex",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Liviolex Forte (Paracetamol and Diclofenac)",
+	name: "Dolo Liviolex Forte",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo Teralgex (Paracetamol and Diclofenac)",
+	name: "Dolo Teralgex",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doloaproxol (Paracetamol and Diclofenac)",
+	name: "Doloaproxol",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolobak (Paracetamol and Chlormezanone)",
+	name: "Dolobak",
 	country: "Peru",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolocatil",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolocatil Codeina (Paracetamol and Codeine)",
+	name: "Dolocatil Codeina",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolocatil Infantil (pediatric)",
+	name: "Dolocatil Infantil",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolocet (Paracetamol and Tramadol)",
+	name: "Dolocet",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolocet Extra (Paracetamol and Tramadol)",
+	name: "Dolocet Extra",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolocordralan Extra (Paracetamol and Diclofenac)",
+	name: "Dolocordralan Extra",
 	country: "Lebanon",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolodart",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolodran (Paracetamol and Diclofenac)",
+	name: "Dolodran",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolodran Extra Fuerte (Paracetamol and Diclofenac)",
+	name: "Dolodran Extra Fuerte",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolodyp (Paracetamol and Diclofenac)",
+	name: "Dolodyp",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolo-Esan",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo-Esan Periodo Menstrual (Paracetamol and Pamabrom, + Mepyramine)",
+	name: "Dolo-Esan Periodo Menstrual",
 	country: "Chile",
+	pair: "(Paracetamol and Pamabrom, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofarmalan (Paracetamol and Diclofenac)",
+	name: "Dolofarmalan",
 	country: "Chile",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofen Plus (Paracetamol and Diclofenac)",
+	name: "Dolofen Plus",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofenac Compuesto (Paracetamol and Diclofenac)",
+	name: "Dolofenac Compuesto",
 	country: "Georgia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofenac Gesic (Paracetamol and Diclofenac)",
+	name: "Dolofenac Gesic",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofrix (Paracetamol and Codeine)",
+	name: "Dolofrix",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofrix forte (Paracetamol and Codeine)",
+	name: "Dolofrix forte",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolofusil (Paracetamol and Diclofenac)",
+	name: "Dolofusil",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dologesic (Paracetamol and Tramadol)",
+	name: "Dologesic",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolokind Plus (Paracetamol and Aceclofenac)",
+	name: "Dolokind Plus",
 	country: "Philippines",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo-Kranit (Paracetamol and Caffeine)",
+	name: "Dolo-Kranit",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolol",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolol Forte (Paracetamol and Caffeine)",
+	name: "Dolol Forte",
 	country: "Peru",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolol-Instant",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dololur",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolomedil (Paracetamol and Codeine)",
+	name: "Dolomedil",
 	country: "Switzerland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolomeloflex Forte (Paracetamol and Meloxicam)",
+	name: "Dolomeloflex Forte",
 	country: "Spain",
+	pair: "(Paracetamol and Meloxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolomeloxic (Paracetamol and Meloxicam)",
+	name: "Dolomeloxic",
 	country: "Peru",
+	pair: "(Paracetamol and Meloxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolomo (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Dolomo",
 	country: "Peru",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolomol",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolomycin (Paracetamol and Diclofenac)",
+	name: "Dolomycin",
 	country: "Oman",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolonat (Paracetamol and Tramadol)",
+	name: "Dolonat",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolonil",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolo-Octirona (Paracetamol and Ibuprofen)",
+	name: "Dolo-Octirona",
 	country: "Philippines",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolopar",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doloparamidol (Paracetamol and Diclofenac)",
+	name: "Doloparamidol",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doloral-P (Paracetamol and Aceclofenac)",
+	name: "Doloral-P",
 	country: "Peru",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doloramol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doloran",
 	country: "Hungary",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolorfin",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolospam (Paracetamol and Scopolamine)",
+	name: "Dolospam",
 	country: "Ecuador",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolostat-PC (Paracetamol and Aceclofenac)",
+	name: "Dolostat-PC",
 	country: "Peru",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolostop",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolostop (Paracetamol and Diclofenac)",
+	name: "Dolostop",
 	country: "Spain",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolostop Pediatrico (pediatric)",
+	name: "Dolostop Pediatrico",
 	country: "Peru",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolotandax (Paracetamol and Naproxen)",
+	name: "Dolotandax",
 	country: "Spain",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doloten (Paracetamol and Tramadol)",
+	name: "Doloten",
 	country: "Ecuador",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolotrin",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolovan (Paracetamol and Butylscopolamine)",
+	name: "Dolovan",
 	country: "Colombia",
+	pair: "(Paracetamol and Butylscopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolowin Plus (Paracetamol and Aceclofenac)",
+	name: "Dolowin Plus",
 	country: "Ecuador",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doloxane (Paracetamol and Diclofenac)",
+	name: "Doloxane",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolpiret (Paracetamol and Ibuprofen)",
+	name: "Dolpiret",
 	country: "Peru",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dolpocetmol (Paracetamol and Dextropropoxyphene)",
+	name: "Dolpocetmol",
 	country: "Peru",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dolprone",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dol-U-Ron Forte (Paracetamol and Codeine)",
+	name: "Dol-U-Ron Forte",
 	country: "Belgium",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Doluvital",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Domact-P (Paracetamol and Domperidone)",
+	name: "Domact-P",
 	country: "Mexico",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Domatra Plus (Paracetamol and Tramadol)",
+	name: "Domatra Plus",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dom-P (Paracetamol and Domperidone)",
+	name: "Dom-P",
 	country: "Peru",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Domperon Plus (Paracetamol and Domperidone)",
+	name: "Domperon Plus",
 	country: "India",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dopagan",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dopagan Codein (Paracetamol and Codeine)",
+	name: "Dopagan Codein",
 	country: "Vietnam",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dopramol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dopramol Forte",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dorbigot (Paracetamol and Acetylcysteine)",
+	name: "Dorbigot",
 	country: "Georgia",
+	pair: "(Paracetamol and Acetylcysteine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doregrippin (Paracetamol and Phenylephrine)",
+	name: "Doregrippin",
 	country: "Indonesia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doreta (Paracetamol and Tramadol)",
+	name: "Doreta",
 	country: "Germany",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dorico",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dorpane (Paracetamol and Orphenadrine)",
+	name: "Dorpane",
 	country: "Brazil",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dorsilon (Paracetamol and Mephenoxalone)",
+	name: "Dorsilon",
 	country: "Thailand",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dotramol (Paracetamol and Tramadol)",
+	name: "Dotramol",
 	country: "Turkey",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Doxtran Gesic (Paracetamol and Diclofenac)",
+	name: "Doxtran Gesic",
 	country: "Indonesia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dozol (Paracetamol and Diphenhydramine)",
+	name: "Dozol",
 	country: "Argentina",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Drill Rhume (Paracetamol and Chlorphenamine)",
+	name: "Drill Rhume",
 	country: "Ireland",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dristan (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Dristan",
 	country: "France",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dristan Cold (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Dristan Cold",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dristan Descongestivo (Paracetamol and Phenylephrine)",
+	name: "Dristan Descongestivo",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dristan Día (Paracetamol and Pseudoephedrine)",
+	name: "Dristan Día",
 	country: "Argentina",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dristan Extra Strength (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Dristan Extra Strength",
 	country: "Ecuador",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dropar (Paracetamol and Drotaverine)",
+	name: "Dropar",
 	country: "Canada",
+	pair: "(Paracetamol and Drotaverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dual (Paracetamol and Caffeine)",
+	name: "Dual",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dualgos (Paracetamol and Ibuprofen)",
+	name: "Dualgos",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dublace-P (Paracetamol and Aceclofenac)",
+	name: "Dublace-P",
 	country: "Mexico",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dublact (Paracetamol and Diclofenac)",
+	name: "Dublact",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Dumin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Duocetz (Paracetamol and Tramadol)",
+	name: "Duocetz",
 	country: "Indonesia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Duodil (Paracetamol and Chlorzoxazone)",
+	name: "Duodil",
 	country: "Thailand",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Duodol (Paracetamol and Tramadol)",
+	name: "Duodol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Duorol",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Duragesic (Paracetamol and Orphenadrine)",
+	name: "Duragesic",
 	country: "Spain",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Durox-P (Paracetamol and Lornoxicam)",
+	name: "Durox-P",
 	country: "Myanmar",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dycipar (Paracetamol and Aceclofenac)",
+	name: "Dycipar",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Dynapar (Paracetamol and Diclofenac)",
+	name: "Dynapar",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ed-Apap Children's (pediatric)",
+	name: "Ed-Apap Children's",
 	country: "Georgia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efagesic (Paracetamol and Orphenadrine)",
+	name: "Efagesic",
 	country: "United States",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efetamol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Effadol (pediatric)",
+	name: "Effadol",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferalgan",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan",
 	country: "Latvia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan (Paracetamol and Diphenhydramine)",
+	name: "Efferalgan",
 	country: "Oman",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan (pediatric)",
+	name: "Efferalgan",
 	country: "Lithuania",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan C",
 	country: "Tunisia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Cod (Paracetamol and Codeine)",
+	name: "Efferalgan Cod",
 	country: "Italy",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Codeine (Paracetamol and Codeine)",
+	name: "Efferalgan Codeine",
 	country: "Lebanon",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferalgan Forte",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferalgan Odis",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferalgan Paracetamol",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Pediatric (pediatric)",
+	name: "Efferalgan Pediatric",
 	country: "Vietnam",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan plus vitamin C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan plus vitamin C",
 	country: "Romania",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan sa vitaminom C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan sa vitaminom C",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Vit. C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan Vit. C",
 	country: "Serbia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Vitamin C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan Vitamin C",
 	country: "Lebanon",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Vitamina C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan Vitamina C",
 	country: "Latvia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan Vitamine C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan Vitamine C",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efferalgan With Vitamin C (Paracetamol and Ascorbic Acid)",
+	name: "Efferalgan With Vitamin C",
 	country: "Romania",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferalganmed",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "EfferalganVitamineC (Paracetamol and Ascorbic Acid)",
+	name: "EfferalganVitamineC",
 	country: "France",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Effergan",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Efferhasan",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Efficol Plus (Paracetamol and Ibuprofen)",
+	name: "Efficol Plus",
 	country: "Vietnam",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ekorinol (Paracetamol and Chlorphenamine)",
+	name: "Ekorinol",
 	country: "Ecuador",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ekosetol",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Elaxic-P (Paracetamol and Aceclofenac)",
+	name: "Elaxic-P",
 	country: "Turkey",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ElixSure Children's Fever Reducer/Pain Reliever (pediatric)",
+	name: "ElixSure Children's Fever Reducer/Pain Reliever",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Emagrim (Paracetamol and Dihydroergotamine, + Caffeine)",
+	name: "Emagrim",
 	country: "United States",
+	pair: "(Paracetamol and Dihydroergotamine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Emflam Plus (Paracetamol and Ibuprofen)",
+	name: "Emflam Plus",
 	country: "Chile",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Emidol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Empacod (Paracetamol and Codeine)",
+	name: "Empacod",
 	country: "Oman",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Empaped",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Emsgrip",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Endocet (Paracetamol and Oxycodone)",
+	name: "Endocet",
 	country: "Brazil",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Enelfa",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Enelfa Dr. Henk",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ensid",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Epidosin Compositum (Paracetamol and Valethamate)",
+	name: "Epidosin Compositum",
 	country: "South Korea",
+	pair: "(Paracetamol and Valethamate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Epixi-P (Paracetamol and Lornoxicam)",
+	name: "Epixi-P",
 	country: "Turkey",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Equate",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Equate child",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Er He Yi",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Er Re An",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Eraldor",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Erphamol",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Esamisol Compuesto (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Esamisol Compuesto",
 	country: "Indonesia",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Esamisol Compuesto Dia y Noche (Paracetamol and Pseudoephedrine)",
+	name: "Esamisol Compuesto Dia y Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Escapin Compuesto (Paracetamol and Scopolamine)",
+	name: "Escapin Compuesto",
 	country: "Chile",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Escapin-N (Paracetamol and Scopolamine butylbromide)",
+	name: "Escapin-N",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine butylbromide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Esgipyrin (Paracetamol and Diclofenac)",
+	name: "Esgipyrin",
 	country: "Mexico",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Esgipyrin-T (Paracetamol and Tramadol)",
+	name: "Esgipyrin-T",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Esnil-P (Paracetamol and Drotaverine)",
+	name: "Esnil-P",
 	country: "India",
+	pair: "(Paracetamol and Drotaverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Espasmocol (Paracetamol and Butylscopolamine)",
+	name: "Espasmocol",
 	country: "India",
+	pair: "(Paracetamol and Butylscopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Espaven Compuesto (Paracetamol and Scopolamine)",
+	name: "Espaven Compuesto",
 	country: "Ecuador",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ethics Paracetamol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etios-P (Paracetamol and Etodolac)",
+	name: "Etios-P",
 	country: "New Zealand",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etokul-P (Paracetamol and Etodolac)",
+	name: "Etokul-P",
 	country: "India",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etomax-P (Paracetamol and Etodolac)",
+	name: "Etomax-P",
 	country: "India",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etos Kinderparacetamol (pediatric)",
+	name: "Etos Kinderparacetamol",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Etos Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etos Paracetamol/coffeïne (Paracetamol and Caffeine)",
+	name: "Etos Paracetamol/coffeïne",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etos Paracetamol/Vitamine C (Paracetamol and Ascorbic Acid)",
+	name: "Etos Paracetamol/Vitamine C",
 	country: "Netherlands",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etova-P (Paracetamol and Etodolac)",
+	name: "Etova-P",
 	country: "Netherlands",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Etoz-P (Paracetamol and Etoricoxib)",
+	name: "Etoz-P",
 	country: "India",
+	pair: "(Paracetamol and Etoricoxib)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Eumol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Europack for Cold (Paracetamol and Ascorbic Acid, + Ascorbic Acid, + Pseudoephedrine)",
+	name: "Europack for Cold",
 	country: "India",
+	pair: "(Paracetamol and Ascorbic Acid, + Ascorbic Acid, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Europain",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Exbol (Paracetamol and Tramadol)",
+	name: "Exbol",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Excedrin",
 	country: "Poland",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin (Paracetamol and Caffeine)",
+	name: "Excedrin",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin Aspirin Free (Paracetamol and Caffeine)",
+	name: "Excedrin Aspirin Free",
 	country: "Colombia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin Back & Body (Paracetamol and Acetylsalicylic Acid)",
+	name: "Excedrin Back & Body",
 	country: "United States",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin Extra-Strength (Paracetamol and Caffeine)",
+	name: "Excedrin Extra-Strength",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin PM (Paracetamol and Diphenhydramine)",
+	name: "Excedrin PM",
 	country: "Canada",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin Sinus Headache (Paracetamol and Phenylephrine)",
+	name: "Excedrin Sinus Headache",
 	country: "United States",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrin Tension Headache (Paracetamol and Caffeine)",
+	name: "Excedrin Tension Headache",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Excedrinil (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Excedrinil",
 	country: "United States",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Exdol (Paracetamol and Caffeine, + Codeine)",
+	name: "Exdol",
 	country: "France",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Expergesic (Paracetamol and Pentazocine)",
+	name: "Expergesic",
 	country: "Canada",
+	pair: "(Paracetamol and Pentazocine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Exthegran (Paracetamol and Pheniramine, + Phenylephrine)",
+	name: "Exthegran",
 	country: "India",
+	pair: "(Paracetamol and Pheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Exthegran TD (Paracetamol and Phenylephrine)",
+	name: "Exthegran TD",
 	country: "Mexico",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Extra Fast Coltalin Cold & Flu (Paracetamol and Chlorphenamine, + Phenylephrine)",
+	name: "Extra Fast Coltalin Cold & Flu",
 	country: "Mexico",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Extra Strength Tylenol",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Extra Strength Tylenol Back Pain (Paracetamol and Methocarbamol)",
+	name: "Extra Strength Tylenol Back Pain",
 	country: "Lithuania",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Extra Strength Tylenol Body Pain (Paracetamol and Methocarbamol)",
+	name: "Extra Strength Tylenol Body Pain",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ezamol C (Paracetamol and Caffeine, + Phenylephrine, + Terpin)",
+	name: "Ezamol C",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine, + Terpin)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ezeepara",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fada Paracetamol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fan Nuo",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fanaton",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "FAP",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fap-Plus (Paracetamol and Caffeine)",
+	name: "Fap-Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Farmadol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fasgo",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fasgo Forte",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fast",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fast Pad",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fast Plus (Paracetamol and Caffeine)",
+	name: "Fast Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fastdol (Paracetamol and Tramadol)",
+	name: "Fastdol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fastfen (Paracetamol and Tramadol)",
+	name: "Fastfen",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fastnac (Paracetamol and Aceclofenac)",
+	name: "Fastnac",
 	country: "Colombia",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fastpara",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fast-XR",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fea",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fea Plus (Paracetamol and Caffeine)",
+	name: "Fea Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fea-XR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febradol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Febrax (Paracetamol and Naproxen)",
+	name: "Febrax",
 	country: "Lebanon",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febrectal",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Febrectal Infantil (pediatric)",
+	name: "Febrectal Infantil",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Febrectal Lactantes (pediatric)",
+	name: "Febrectal Lactantes",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febrex",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febricet",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Febricet C (Paracetamol and Ascorbic Acid)",
+	name: "Febricet C",
 	country: "Serbia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Febricol (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Febricol",
 	country: "Serbia",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febridol",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febrile Free",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Febrinil",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fedicver-P (Paracetamol and Diclofenac)",
+	name: "Fedicver-P",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fedril Night Cold and Flu (Paracetamol and Dextromethorphan, + Promethiazine)",
+	name: "Fedril Night Cold and Flu",
 	country: "India",
+	pair: "(Paracetamol and Dextromethorphan, + Promethiazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Femalgin (Paracetamol and Scopolamine)",
+	name: "Femalgin",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Feminalgin (Paracetamol and Scopolamine)",
+	name: "Feminalgin",
 	country: "Lithuania",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fenace",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fenaplus (Paracetamol and Diclofenac)",
+	name: "Fenaplus",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fenbid Fenka Pian (Paracetamol and Caffeine)",
+	name: "Fenbid Fenka Pian",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fenfac-P (Paracetamol and Aceclofenac)",
+	name: "Fenfac-P",
 	country: "China",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fensaide-P (Paracetamol and Diclofenac)",
+	name: "Fensaide-P",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fep",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fepamol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fepril",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fervex (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Fervex",
 	country: "Malaysia",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fervex Etat Grippal (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Fervex Etat Grippal",
 	country: "Estonia",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fervex Pentru Copii (Paracetamol and Pheniramine)",
+	name: "Fervex Pentru Copii",
 	country: "France",
+	pair: "(Paracetamol and Pheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fervex Rhume Enfants (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Fervex Rhume Enfants",
 	country: "Romania",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fervex Rhume Jour et Nuit (Paracetamol and Chlorphenamine)",
+	name: "Fervex Rhume Jour et Nuit",
 	country: "France",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevac",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevadol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevano",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevastin",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fevastin Plus (Paracetamol and Methionine)",
+	name: "Fevastin Plus",
 	country: "India",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fevawin (Paracetamol and Mefenamic Acid)",
+	name: "Fevawin",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevedot",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fever `n Flu (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Fever `n Flu",
 	country: "India",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fever `n Flu (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Fever `n Flu",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fever `n Flu Night Time (Paracetamol and Pseudoephedrine, + Diphenhydramine)",
+	name: "Fever `n Flu Night Time",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrine, + Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "FeverAll",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "FeverAll Children (pediatric)",
+	name: "FeverAll Children",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "FeverAll Infants (pediatric)",
+	name: "FeverAll Infants",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "FeverAll Junior Strength (pediatric)",
+	name: "FeverAll Junior Strength",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Feveril",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fevril (Paracetamol and Promethazine)",
+	name: "Fevril",
 	country: "Ecuador",
+	pair: "(Paracetamol and Promethazine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fevrin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fibralgin C (Paracetamol and Ascorbic Acid)",
+	name: "Fibralgin C",
 	country: "Indonesia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fibrex (Paracetamol and Acetylsalicylic Acid)",
+	name: "Fibrex",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Finalín Fem (Paracetamol and Ibuprofen)",
+	name: "Finalín Fem",
 	country: "Germany",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Finalín Forte (Paracetamol and Caffeine)",
+	name: "Finalín Forte",
 	country: "Ecuador",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Finalín Niños",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fine",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Finimal (Paracetamol and Caffeine)",
+	name: "Finimal",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fiorinal (Paracetamol and Butalbital, + Caffeine)",
+	name: "Fiorinal",
 	country: "Netherlands",
+	pair: "(Paracetamol and Butalbital, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fitamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flamace-P (Paracetamol and Aceclofenac)",
+	name: "Flamace-P",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flamotram-P (Paracetamol and Tramadol)",
+	name: "Flamotram-P",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flaxinac (Paracetamol and Aceclofenac)",
+	name: "Flaxinac",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flectadol (Paracetamol and Chlorzoxazone)",
+	name: "Flectadol",
 	country: "India",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexan (Paracetamol and Ibuprofen)",
+	name: "Flexan",
 	country: "Peru",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexidol (Paracetamol and Chlorzoxazone)",
+	name: "Flexidol",
 	country: "Philippines",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexigesic (Paracetamol and Diclofenac)",
+	name: "Flexigesic",
 	country: "Ecuador",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexigesic MPR (Paracetamol and Ibuprofen)",
+	name: "Flexigesic MPR",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexilor-P (Paracetamol and Lornoxicam)",
+	name: "Flexilor-P",
 	country: "Philippines",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexiplen Complex (Paracetamol and Diclofenac)",
+	name: "Flexiplen Complex",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexomycin Forte (Paracetamol and Meloxicam)",
+	name: "Flexomycin Forte",
 	country: "Argentina",
+	pair: "(Paracetamol and Meloxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flexpro extra (Paracetamol and Methocarbamol)",
+	name: "Flexpro extra",
 	country: "Peru",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flextra-DS (Paracetamol and Phenyltoloxamine)",
+	name: "Flextra-DS",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flogodisten (Paracetamol and Chlorzoxazone)",
+	name: "Flogodisten",
 	country: "United States",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flu C (Paracetamol and Caffeine, + Ascorbic Acid, + Chlorphenamine)",
+	name: "Flu C",
 	country: "Peru",
+	pair: "(Paracetamol and Caffeine, + Ascorbic Acid, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flu Cut N (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Flu Cut N",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flu Relief (Paracetamol and Phenylephrine)",
+	name: "Flu Relief",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flucol (Paracetamol and Phenylephrine, + Caffeine)",
+	name: "Flucol",
 	country: "Malta",
+	pair: "(Paracetamol and Phenylephrine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flucold (Paracetamol and Chlorphenamine)",
+	name: "Flucold",
 	country: "Mexico",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flucontrol (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Flucontrol",
 	country: "Georgia",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flucor (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Flucor",
 	country: "Poland",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fludeten (Paracetamol and Codeine)",
+	name: "Fludeten",
 	country: "Malaysia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fluental (Paracetamol and Sobrerol)",
+	name: "Fluental",
 	country: "Spain",
+	pair: "(Paracetamol and Sobrerol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fluimucil Complex (Paracetamol and Acetylcysteine)",
+	name: "Fluimucil Complex",
 	country: "Italy",
+	pair: "(Paracetamol and Acetylcysteine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fluimucil Grippe Day & Night (Paracetamol and Acetylcysteine, + Pseudoephedrine)",
+	name: "Fluimucil Grippe Day & Night",
 	country: "Spain",
+	pair: "(Paracetamol and Acetylcysteine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flukit (Paracetamol and Phenylephrine, + Promethazine, + Salicylamide)",
+	name: "Flukit",
 	country: "Switzerland",
+	pair: "(Paracetamol and Phenylephrine, + Promethazine, + Salicylamide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flumol (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Flumol",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flupy X (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Flupy X",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flurest (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Flurest",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flustat (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Flustat",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flustimex (Paracetamol and Chlorphenamine, + Ascorbic Acid)",
+	name: "Flustimex",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flustop (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Flustop",
 	country: "France",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Flutamin (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Flutamin",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fluvirace (Paracetamol and Amantadine, + Chlorphenamine, + Phenylephrine)",
+	name: "Fluvirace",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Amantadine, + Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fortadol (Paracetamol and Tramadol)",
+	name: "Fortadol",
 	country: "Mexico",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fortagesic (Paracetamol and Pentazocine)",
+	name: "Fortagesic",
 	country: "Tunisia",
+	pair: "(Paracetamol and Pentazocine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fortamol (Paracetamol and Codeine)",
+	name: "Fortamol",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fortolin",
 	country: "Denmark",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fortolin Extra (Paracetamol and Caffeine)",
+	name: "Fortolin Extra",
 	country: "China",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fortolin Nite (Paracetamol and Pheniramine)",
+	name: "Fortolin Nite",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Pheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Foxis (Paracetamol and Tramadol)",
+	name: "Foxis",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Frenac-AP (Paracetamol and Aceclofenac)",
+	name: "Frenac-AP",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Freze (Paracetamol and Tramadol)",
+	name: "Freze",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Frispas-P (Paracetamol and Dicycloverine)",
+	name: "Frispas-P",
 	country: "India",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fucole Paran",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fudolon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Fugare",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fulgrip (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Fulgrip",
 	country: "India",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fulgrip Dia y Noche (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Fulgrip Dia y Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fulucon (Paracetamol and Chlorzoxazone)",
+	name: "Fulucon",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Fuzinlin (Paracetamol and Chlormezanone)",
+	name: "Fuzinlin",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "G C Mol (Paracetamol and Ascorbic Acid, + Guaifenesin)",
+	name: "G C Mol",
 	country: "Taiwan",
+	pair: "(Paracetamol and Ascorbic Acid, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gabbrocet 20% (veterinary use)",
+	name: "Gabbrocet 20%",
 	country: "Egypt",
+	pair: "(veterinary use)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gag-PR (Paracetamol and Aceclofenac)",
+	name: "Gag-PR",
 	country: "Italy",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ganin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gaosédal Codéine (Paracetamol and Codeine)",
+	name: "Gaosédal Codéine",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gelocatil",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gelonida (Paracetamol and Codeine)",
+	name: "Gelonida",
 	country: "Portugal",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "GeloPromt (Paracetamol and Phenylephrin)",
+	name: "GeloPromt",
 	country: "Germany",
+	pair: "(Paracetamol and Phenylephrin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "GeloProsed (Paracetamol and Phenylephedrine)",
+	name: "GeloProsed",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Geluprane",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gemipar",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Genapap",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Genapap Children's (pediatric)",
+	name: "Genapap Children's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Genapap Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Geniol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Geniol Flu (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Geniol Flu",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Geniol Flu DN (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Geniol Flu DN",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Geniol Infantil",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Genlide Plus (Paracetamol and Nimesulide)",
+	name: "Genlide Plus",
 	country: "Chile",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Genmole",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Geralgine Plus (Paracetamol and Codeine)",
+	name: "Geralgine Plus",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Geralgine-P",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Geralgine-P (Paracetamol and Caffeine)",
+	name: "Geralgine-P",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gesidol",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gesidol Infantil",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gesidol Periodo (Paracetamol and Mepyramine, + Pamabrom)",
+	name: "Gesidol Periodo",
 	country: "Chile",
+	pair: "(Paracetamol and Mepyramine, + Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gesnac-P (Paracetamol and Aceclofenac)",
+	name: "Gesnac-P",
 	country: "Chile",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gesnim-P (Paracetamol and Nimesulide)",
+	name: "Gesnim-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gewadal-Pamol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gitas Plus (Paracetamol and Scolobamin)",
+	name: "Gitas Plus",
 	country: "Austria",
+	pair: "(Paracetamol and Scolobamin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Glimadol (Paracetamol and Tramadol)",
+	name: "Glimadol",
 	country: "Indonesia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Glotadol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "GNO CP (Paracetamol and Codeine)",
+	name: "GNO CP",
 	country: "Vietnam",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Goody's PM (Paracetamol and Diphenhydramine)",
+	name: "Goody's PM",
 	country: "Argentina",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Go-Pain P",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Grafadon",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gredol (Paracetamol and Domperidone)",
+	name: "Gredol",
 	country: "Indonesia",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripaben (Paracetamol and Phenylephrine)",
+	name: "Gripaben",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripakin (Paracetamol and Chlorphenamine)",
+	name: "Gripakin",
 	country: "Argentina",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripasan Dia (Paracetamol and Caffeine, + Chlorphenamine)",
+	name: "Gripasan Dia",
 	country: "Spain",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripblocker Express (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Gripblocker Express",
 	country: "Chile",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Gripex",
 	country: "Poland",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Gripex",
 	country: "Poland",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex Control (Paracetamol and Caffeine)",
+	name: "Gripex Control",
 	country: "Poland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex Forte (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Gripex Forte",
 	country: "Poland",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex Noc (Paracetamol and Pseudoephedrine, + Dextromethorphan, + Chlorphenamine)",
+	name: "Gripex Noc",
 	country: "Poland",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gripex Pro Mucus (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Gripex Pro Mucus",
 	country: "Poland",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Gripin Bebe",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Griponal (Paracetamol and Chlorphenamine)",
+	name: "Griponal",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippal + C ratiopharm (Paracetamol and Acetylsalicylic Acid, + Ascorbic Acid)",
+	name: "Grippal + C ratiopharm",
 	country: "Portugal",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "GRIPPEX",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippex (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Grippex",
 	country: "Germany",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Grippo",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippokaps (Paracetamol and Pseudoephedrin)",
+	name: "Grippokaps",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrin)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Grippostad",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippostad (Paracetamol and Ascorbic Acid)",
+	name: "Grippostad",
 	country: "Austria",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippostad (Paracetamol and Dextromethorphan)",
+	name: "Grippostad",
 	country: "Georgia",
+	pair: "(Paracetamol and Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippostad C (Paracetamol and Ascorbic Acid)",
+	name: "Grippostad C",
 	country: "Lithuania",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grippostad C (Paracetamol and Caffeine, + Ascorbic Acid, + Chlorphenamine)",
+	name: "Grippostad C",
 	country: "Austria",
+	pair: "(Paracetamol and Caffeine, + Ascorbic Acid, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Grypostop (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Grypostop",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Gugaike (Paracetamol and Dihydrocodeine)",
+	name: "Gugaike",
 	country: "Poland",
+	pair: "(Paracetamol and Dihydrocodeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hantracet (Paracetamol and Tramadol)",
+	name: "Hantracet",
 	country: "China",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Head-O (Paracetamol and Cafffeine)",
+	name: "Head-O",
 	country: "South Korea",
+	pair: "(Paracetamol and Cafffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Hecamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Hedex",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hedex (Paracetamol and Caffeine)",
+	name: "Hedex",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hedex Extra (Paracetamol and Caffeine)",
+	name: "Hedex Extra",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "HEMA Kinderparacetamol (pediatric)",
+	name: "HEMA Kinderparacetamol",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "HEMA Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Hepa",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hepamol (Paracetamol and Methionine)",
+	name: "Hepamol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hexplider-C (Paracetamol and Scopolamine)",
+	name: "Hexplider-C",
 	country: "Egypt",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hiopar (Paracetamol and Scopolamine)",
+	name: "Hiopar",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Histacold",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Histamol (Paracetamol and Terfenadine)",
+	name: "Histamol",
 	country: "India",
+	pair: "(Paracetamol and Terfenadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Histiacil Flu (Paracetamol and Caffeine, + Phenylephrine, + Chlorpheniramine)",
+	name: "Histiacil Flu",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine, + Chlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Hoemal",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hoemal Junior (pediatric)",
+	name: "Hoemal Junior",
 	country: "Malaysia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hot Coldrex (Paracetamol and Ascorbic Acid)",
+	name: "Hot Coldrex",
 	country: "Malaysia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hotiton (Paracetamol and Chlormezanone)",
+	name: "Hotiton",
 	country: "Netherlands",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humex (Paracetamol and Chlorphenamine)",
+	name: "Humex",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humex (Paracetamol and Pseudoephedrine)",
+	name: "Humex",
 	country: "Lebanon",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humex Cold (Paracetamol and Chlorphenamine)",
+	name: "Humex Cold",
 	country: "Lebanon",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humex rhume (Paracetamol and Pseudoephedrine)",
+	name: "Humex rhume",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humexlib Etat Grippal Paracetamol/Vitamine C/Pheniramine (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Humexlib Etat Grippal Paracetamol/Vitamine C/Pheniramine",
 	country: "France",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Humexlib Paracétamol Chlorphenamine (Paracetamol and Chlorphenamine)",
+	name: "Humexlib Paracétamol Chlorphenamine",
 	country: "France",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hycephen (Paracetamol and Tramadol)",
+	name: "Hycephen",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hycet (Paracetamol and Hydrocodone)",
+	name: "Hycet",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hydrocet (Paracetamol and Hydrocodone)",
+	name: "Hydrocet",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hydrocodone Bitartrate and Acetaminophen Actavis (Paracetamol and Hydrocodone)",
+	name: "Hydrocodone Bitartrate and Acetaminophen Actavis",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hydrocodone bitartrate and Acetaminophen KLE 2 (Paracetamol and Hydrocodone)",
+	name: "Hydrocodone bitartrate and Acetaminophen KLE 2",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hydrogesic (Paracetamol and Hydrocodone)",
+	name: "Hydrogesic",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Hy-Phen (Paracetamol and Hydrocodone)",
+	name: "Hy-Phen",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuclin (Paracetamol and Ibuprofen)",
+	name: "Ibuclin",
 	country: "United States",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuclin Jr (Paracetamol and Ibuprofen (pediatric))",
+	name: "Ibuclin Jr",
 	country: "Russian Federation",
+	pair: "(Paracetamol and Ibuprofen (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuclin Junior (Paracetamol and Ibuprofen)",
+	name: "Ibuclin Junior",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibudol+ (Paracetamol and Tramadol)",
+	name: "Ibudol+",
 	country: "Russian Federation",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibudol-A Kid (Paracetamol and Ibuprofen (pediatric))",
+	name: "Ibudol-A Kid",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuflam plus (Paracetamol and Ibuprofen)",
+	name: "Ibuflam plus",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuman Plus (Paracetamol and Ibuprofen)",
+	name: "Ibuman Plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibumol (Paracetamol and Ibuprofen)",
+	name: "Ibumol",
 	country: "Thailand",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibupain (Paracetamol and Ibuprofen)",
+	name: "Ibupain",
 	country: "South Africa",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuparol (Paracetamol and Ibuprofen)",
+	name: "Ibuparol",
 	country: "South Africa",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuprofen and Paracetamol Reckitt Benckiser (Paracetamol and Ibuprofen)",
+	name: "Ibuprofen and Paracetamol Reckitt Benckiser",
 	country: "Estonia",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuspan-P (Paracetamol and Ibuprofen)",
+	name: "Ibuspan-P",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ibuzam (Paracetamol and Ibuprofen)",
+	name: "Ibuzam",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Icolid Plus (Paracetamol and Dexchlorpheniramine, + Dextromethorphan (pediatric))",
+	name: "Icolid Plus",
 	country: "Georgia",
+	pair: "(Paracetamol and Dexchlorpheniramine, + Dextromethorphan (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Iconac-P (Paracetamol and Aceclofenac)",
+	name: "Iconac-P",
 	country: "Thailand",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Icparil (Paracetamol and Aceclofenac)",
+	name: "Icparil",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "IDYL Kinderparacetamol (pediatric)",
+	name: "IDYL Kinderparacetamol",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "IDYL Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ikacetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ilvico N (Paracetamol and Brompheniramine, + Caffeine, + Ascorbic Acid)",
+	name: "Ilvico N",
 	country: "Indonesia",
+	pair: "(Paracetamol and Brompheniramine, + Caffeine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Imol (Paracetamol and Ibuprofen)",
+	name: "Imol",
 	country: "Portugal",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Infant Bufferin Cold Relief (Paracetamol and Pseudoephdrine)",
+	name: "Infant Bufferin Cold Relief",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephdrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Infantaire (pediatric)",
+	name: "Infantaire",
 	country: "China",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Infants' Tylenol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Infant's Tylenol (pediatric)",
+	name: "Infant's Tylenol",
 	country: "Vietnam",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Influbene (Paracetamol and Phenylephrine)",
+	name: "Influbene",
 	country: "Thailand",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Influbene N",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Influcup",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Influrex (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Influrex",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Infulgan",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Infumol",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Injectmol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Inmunogrip T",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Intaflam (Paracetamol and Ibuprofen)",
+	name: "Intaflam",
 	country: "Argentina",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Intragesic (Paracetamol and Diclofenac)",
+	name: "Intragesic",
 	country: "Peru",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ipaal",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Iremax (Paracetamol and Ibuprofen)",
+	name: "Iremax",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Isalgen Compuesto (Paracetamol and Scopolamine)",
+	name: "Isalgen Compuesto",
 	country: "Indonesia",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Itamol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Itinil (Paracetamol and Diclofenac)",
+	name: "Itinil",
 	country: "Indonesia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ixprim (Paracetamol and Tramadol)",
+	name: "Ixprim",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Izalgi (Paracetamol and Opium)",
+	name: "Izalgi",
 	country: "Ireland",
+	pair: "(Paracetamol and Opium)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Jectamol",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jectamol Plus (Paracetamol and Lidocaine)",
+	name: "Jectamol Plus",
 	country: "Bulgaria",
+	pair: "(Paracetamol and Lidocaine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jia Nuo Mei (Paracetamol and Pseudoephedrine)",
+	name: "Jia Nuo Mei",
 	country: "Bulgaria",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jin De (Paracetamol and Pseudoephedrine)",
+	name: "Jin De",
 	country: "China",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jonac Plus (Paracetamol and Diclofenac)",
+	name: "Jonac Plus",
 	country: "China",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jr. Strength Non-Aspirin (pediatric)",
+	name: "Jr. Strength Non-Aspirin",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Jumbo Kinderparacetamol (pediatric)",
+	name: "Jumbo Kinderparacetamol",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Jumbo Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Junior Paracetamol (pediatric)",
+	name: "Junior Paracetamol",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Junior Parapaed (pediatric)",
+	name: "Junior Parapaed",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "K.T.L. (Paracetamol and Pseudoephedrine)",
+	name: "K.T.L.",
 	country: "Malta",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kabimol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kafa plus Koffein (Paracetamol and Caffeine)",
+	name: "Kafa plus Koffein",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kamolas",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kamolas Forte",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kang Bi De (Paracetamol and Zinc Gluconate)",
+	name: "Kang Bi De",
 	country: "Indonesia",
+	pair: "(Paracetamol and Zinc Gluconate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kapake (Paracetamol and Codeine)",
+	name: "Kapake",
 	country: "China",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ke Li Ke (Paracetamol and Amantadine)",
+	name: "Ke Li Ke",
 	country: "Ireland",
+	pair: "(Paracetamol and Amantadine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kiddilets",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kidofen Duo (Paracetamol and Ibuprofen (pediatric))",
+	name: "Kidofen Duo",
 	country: "Philippines",
+	pair: "(Paracetamol and Ibuprofen (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kind Plus (Paracetamol and Nimesulide)",
+	name: "Kind Plus",
 	country: "Poland",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol CF (pediatric)",
+	name: "Kinderparacetamol CF",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol DA (pediatric)",
+	name: "Kinderparacetamol DA",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol HTP (pediatric)",
+	name: "Kinderparacetamol HTP",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol Mdq (pediatric)",
+	name: "Kinderparacetamol Mdq",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol RXT (pediatric)",
+	name: "Kinderparacetamol RXT",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol SAM (pediatric)",
+	name: "Kinderparacetamol SAM",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinderparacetamol SDG (pediatric)",
+	name: "Kinderparacetamol SDG",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kinectine P (Paracetamol and Aceclofenac)",
+	name: "Kinectine P",
 	country: "Netherlands",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kintal B (Paracetamol and Ibuprofen)",
+	name: "Kintal B",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kitadol",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kitadol (pediatric)",
+	name: "Kitadol",
 	country: "Peru",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Klipal Codéine (Paracetamol and Codeine)",
+	name: "Klipal Codéine",
 	country: "Chile",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Knocfin (Paracetamol and Aceclofenac)",
+	name: "Knocfin",
 	country: "France",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kodone (Paracetamol and Hydrocodone)",
+	name: "Kodone",
 	country: "India",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kofidec (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Kofidec",
 	country: "Guatemala",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kolax (Paracetamol and Carisoprodol)",
+	name: "Kolax",
 	country: "Italy",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kolibri (Paracetamol and Tramadol)",
+	name: "Kolibri",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kombinovani prasak (Paracetamol and Caffeine)",
+	name: "Kombinovani prasak",
 	country: "Italy",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Konaton",
 	country: "Serbia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kontra",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Korylan (Paracetamol and Codein)",
+	name: "Korylan",
 	country: "Peru",
+	pair: "(Paracetamol and Codein)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kroltonex (Paracetamol and Phenylephrine)",
+	name: "Kroltonex",
 	country: "Slovakia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kruidvat Kinderparacetamol (pediatric)",
+	name: "Kruidvat Kinderparacetamol",
 	country: "Argentina",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Kruidvat Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kruidvat Paracetamol met coffeine (Paracetamol and Caffeine)",
+	name: "Kruidvat Paracetamol met coffeine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kuiflex (Paracetamol and Phenprobamate)",
+	name: "Kuiflex",
 	country: "Netherlands",
+	pair: "(Paracetamol and Phenprobamate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Kuilil (Paracetamol and Phenprobamate)",
+	name: "Kuilil",
 	country: "Turkey",
+	pair: "(Paracetamol and Phenprobamate)",
 	ingredient: "paracetamol"
 },
 {
-	name: "K-Y-6 (Paracetamol and Caffeine, + Phenylephrine, + Chlorphenamine)",
+	name: "K-Y-6",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lactam",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lagesic (Paracetamol and Phenyltoloxamine)",
+	name: "Lagesic",
 	country: "Taiwan",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lamaline (Paracetamol and Caffeine, + Opium)",
+	name: "Lamaline",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine, + Opium)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lanamol",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "LanDi (Paracetamol and Pseudoephedrine)",
+	name: "LanDi",
 	country: "Indonesia",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lanol",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lanol DPS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lanol-DS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lanol-ER",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lanol-JR (pediatric)",
+	name: "Lanol-JR",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Larkin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lascaine (Paracetamol and Mephenoxalone)",
+	name: "Lascaine",
 	country: "Georgia",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lax (Paracetamol and Carisoprodol)",
+	name: "Lax",
 	country: "Taiwan",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "LCP (Paracetamol and Lornoxicam)",
+	name: "LCP",
 	country: "Taiwan",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lederflam Plus (Paracetamol and Ibuprofen)",
+	name: "Lederflam Plus",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Legatrin PM (Paracetamol and Diphenhydramine)",
+	name: "Legatrin PM",
 	country: "India",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Leidapharm Kinderparacetamol (pediatric)",
+	name: "Leidapharm Kinderparacetamol",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Leidapharm Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Leidapharm Paracetamol/Coffeïne (Paracetamol and Caffeine)",
+	name: "Leidapharm Paracetamol/Coffeïne",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lekadol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lekadol Plus C (Paracetamol and Ascorbic Acid)",
+	name: "Lekadol Plus C",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lemsip",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip (Paracetamol and Caffeine)",
+	name: "Lemsip",
 	country: "New Zealand",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip (Paracetamol and Guaifenesin)",
+	name: "Lemsip",
 	country: "Ireland",
+	pair: "(Paracetamol and Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip (Paracetamol and Phenylephrine, + Guaifenesin)",
+	name: "Lemsip",
 	country: "Ireland",
+	pair: "(Paracetamol and Phenylephrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip (Paracetamol and Pseudoephedrine)",
+	name: "Lemsip",
 	country: "Ireland",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip + Paracetamol (Paracetamol and Pseudoephedrine)",
+	name: "Lemsip + Paracetamol",
 	country: "Ireland",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Cold & Flu (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Lemsip Cold & Flu",
 	country: "Oman",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Cold & Flu (Paracetamol and Phenylephrine)",
+	name: "Lemsip Cold & Flu",
 	country: "Malta",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Cough & Cold (Paracetamol and Guaifenesin, + Caffeine)",
+	name: "Lemsip Cough & Cold",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Cough Max for Chesty Cough & Cold (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Lemsip Cough Max for Chesty Cough & Cold",
 	country: "Ireland",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Cough Max for Mucus Cough & Cold (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Lemsip Cough Max for Mucus Cough & Cold",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lemsip Headcold",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max (Paracetamol and Phenylephrine)",
+	name: "Lemsip Max",
 	country: "New Zealand",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max All in One (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Lemsip Max All in One",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max All in One Liquid (Paracetamol and Cetylpyridinium, + Guaifenesin, + Phenylephrine)",
+	name: "Lemsip Max All in One Liquid",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Cetylpyridinium, + Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lemsip Max Cold",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Cold & Flu (Paracetamol and Phenylephrine)",
+	name: "Lemsip Max Cold & Flu",
 	country: "Ireland",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Day & Night Cold and Flu Relief (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Lemsip Max Day & Night Cold and Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Daytime Cold & Flu Relief (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Lemsip Max Daytime Cold & Flu Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Flu (Paracetamol and Pseudoephedrine)",
+	name: "Lemsip Max Flu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Sinus (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Lemsip Max Sinus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lemsip Max Sinus (Paracetamol and Phenylephrine)",
+	name: "Lemsip Max Sinus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Li Le(kangmei) (Paracetamol and Pseudoephedrine)",
+	name: "Li Le",
 	country: "United Kingdom",
+	pair: "(kangmei) (Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Li Shu (Paracetamol and Pseudoephedrine)",
+	name: "Li Shu",
 	country: "China",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Li Tong (Paracetamol and Caffeine)",
+	name: "Li Tong",
 	country: "China",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lindilane (Paracetamol and Codeine)",
+	name: "Lindilane",
 	country: "China",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Linerol (Paracetamol and Tramadol)",
+	name: "Linerol",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Liquicet (Paracetamol and Hydrocodone)",
+	name: "Liquicet",
 	country: "Romania",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lisoflu (Paracetamol and Pseudoephedrine)",
+	name: "Lisoflu",
 	country: "United States",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lisopan",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Listaflex Forte (Paracetamol and Carisoprodol)",
+	name: "Listaflex Forte",
 	country: "Portugal",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Litonac-P (Paracetamol and Aceclofenac)",
+	name: "Litonac-P",
 	country: "Argentina",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Litonba (Paracetamol and Chlormezanone)",
+	name: "Litonba",
 	country: "India",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Little Fevers Fever/Pain Reliever (pediatric)",
+	name: "Little Fevers Fever/Pain Reliever",
 	country: "Taiwan",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lobak (Paracetamol and Chlormezanone)",
+	name: "Lobak",
 	country: "United States",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Locko (Paracetamol and Dextromethorphan, + Dexchlorpheniramine)",
+	name: "Locko",
 	country: "Taiwan",
+	pair: "(Paracetamol and Dextromethorphan, + Dexchlorpheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Logicin Flu Strength Day & Night (Paracetamol and Pseudoephedrine, + Dextromethorphan, + Chlorphenamine)",
+	name: "Logicin Flu Strength Day & Night",
 	country: "Thailand",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lolira-P (Paracetamol and Lornoxicam)",
+	name: "Lolira-P",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lonalgal (Paracetamol and Codeine)",
+	name: "Lonalgal",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lonarid",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lonarid (Paracetamol and Codeine)",
+	name: "Lonarid",
 	country: "Greece",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lonarid N (Paracetamol and Caffeine)",
+	name: "Lonarid N",
 	country: "Italy",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lonax-P (Paracetamol and Lornoxicam)",
+	name: "Lonax-P",
 	country: "Belgium",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lorcet (Paracetamol and Hydrocodone)",
+	name: "Lorcet",
 	country: "India",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lorflex Plus (Paracetamol and Lornoxicam)",
+	name: "Lorflex Plus",
 	country: "United States",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Loritek-P (Paracetamol and Lornoxicam)",
+	name: "Loritek-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lormed-P (Paracetamol and Lornoxicam)",
+	name: "Lormed-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lorna-P (Paracetamol and Lornoxicam)",
+	name: "Lorna-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lornidol-P (Paracetamol and Lornoxicam)",
+	name: "Lornidol-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lornoxi-P (Paracetamol and Lornoxicam)",
+	name: "Lornoxi-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lorsaid-P (Paracetamol and Lornoxicam)",
+	name: "Lorsaid-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lortab (Paracetamol and Hydrocodone)",
+	name: "Lortab",
 	country: "India",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lorup Plus (Paracetamol and Lornoxicam)",
+	name: "Lorup Plus",
 	country: "United States",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lotem (Paracetamol and Ibuprofen)",
+	name: "Lotem",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lotemp",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Loxcam-P (Paracetamol and Lornoxicam)",
+	name: "Loxcam-P",
 	country: "Thailand",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Loxilac-P (Paracetamol and Lornoxicam)",
+	name: "Loxilac-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "LRN-P (Paracetamol and Lornoxicam)",
+	name: "LRN-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Luloxy-P (Paracetamol and Lornoxicam)",
+	name: "Luloxy-P",
 	country: "India",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lumdol (Paracetamol and Ibuprofen)",
+	name: "Lumdol",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lunan Beite (Paracetamol and Chlorzoxazone)",
+	name: "Lunan Beite",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lupivon (Paracetamol and Dextropropoxyphene)",
+	name: "Lupivon",
 	country: "China",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Lupocet",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lupocet Flu (Paracetamol and Chlorphenamin, + Ascorbic Acid)",
+	name: "Lupocet Flu",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Chlorphenamin, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lupratac (Paracetamol and Tramadol)",
+	name: "Lupratac",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Lusadeína (Paracetamol and Codeine)",
+	name: "Lusadeína",
 	country: "Portugal",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Maccabimol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maccabimol Kid (pediatric)",
+	name: "Maccabimol Kid",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maccabimol Kid Forte (pediatric)",
+	name: "Maccabimol Kid Forte",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Madol-P (Paracetamol and Tramadol)",
+	name: "Madol-P",
 	country: "Israel",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mafidol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mafidol Compuesto (Paracetamol and Naproxen)",
+	name: "Mafidol Compuesto",
 	country: "Peru",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Maganol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Magnacet (Paracetamol and Oxycodone)",
+	name: "Magnacet",
 	country: "Indonesia",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Magno-Humphries Pain Reliever",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Magno-Humphries Pain Reliever Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mahadol (Paracetamol and Aceclofenac)",
+	name: "Mahadol",
 	country: "United States",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Major Mapap Sinus Congestion and Pain (Paracetamol and Phenylephrine)",
+	name: "Major Mapap Sinus Congestion and Pain",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Malidens",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Malidens-DS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mann (Paracetamol and Caffeine)",
+	name: "Mann",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Manol Plus (Paracetamol and Tramadol)",
+	name: "Manol Plus",
 	country: "Belgium",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mapap",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mapap Arthritis Pain",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mapap Children's (pediatric)",
+	name: "Mapap Children's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mapap Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mapap Infant (pediatric)",
+	name: "Mapap Infant",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mapap Junior Strength (pediatric)",
+	name: "Mapap Junior Strength",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mapap Regular Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mapap Sinus Maximum (Paracetamol and Pseudoephedrine)",
+	name: "Mapap Sinus Maximum",
 	country: "United States",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Margesic H (Paracetamol and Hydrocodone)",
+	name: "Margesic H",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Marten (Paracetamol and Butalbital)",
+	name: "Marten",
 	country: "United States",
+	pair: "(Paracetamol and Butalbital)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Masapara (Paracetamol and Codeine)",
+	name: "Masapara",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Masophen",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Masophen Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Masophen Non-Apsirin Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Maxedo",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxflu (Paracetamol and Ascorbic Acid, + Pseudoephedrine)",
+	name: "Maxflu",
 	country: "Vietnam",
+	pair: "(Paracetamol and Ascorbic Acid, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxiclear Cold & Flu Relief (Paracetamol and Phenylephrine)",
+	name: "Maxiclear Cold & Flu Relief",
 	country: "Slovakia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxiclear Sinus & Pain Relief (Paracetamol and Phenylephrine)",
+	name: "Maxiclear Sinus & Pain Relief",
 	country: "New Zealand",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxidone (Paracetamol and Hydrocodone)",
+	name: "Maxidone",
 	country: "New Zealand",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxidrin (Paracetamol and Caffeine)",
+	name: "Maxidrin",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxifen (Paracetamol and Ibuprofen)",
+	name: "Maxifen",
 	country: "Brazil",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxigesic (Paracetamol and Ibuprofen)",
+	name: "Maxigesic",
 	country: "Lebanon",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Maxofen (Paracetamol and Ibuprofen)",
+	name: "Maxofen",
 	country: "New Zealand",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "MCXY Cold (Paracetamol and Dexchlorpheniramine, + Phenylephrine)",
+	name: "MCXY Cold",
 	country: "India",
+	pair: "(Paracetamol and Dexchlorpheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mdace-P (Paracetamol and Aceclofenac)",
+	name: "Mdace-P",
 	country: "Thailand",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mec Baralgin Plus (Paracetamol and Dicycloverine)",
+	name: "Mec Baralgin Plus",
 	country: "India",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medafein (Paracetamol and Caffeine)",
+	name: "Medafein",
 	country: "Georgia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medamol",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medamol (Paracetamol and Codeine)",
+	name: "Medamol",
 	country: "Oman",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medatol-WM",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medgenol",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medgesic (Paracetamol and Orphenadrine)",
+	name: "Medgesic",
 	country: "Philippines",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medinol",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medinol for Children (pediatric)",
+	name: "Medinol for Children",
 	country: "Malta",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medinol Over 6 (pediatric)",
+	name: "Medinol Over 6",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medinol Paediatric (pediatric)",
+	name: "Medinol Paediatric",
 	country: "United Kingdom",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medipyrin",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medo actadol",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medomol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Medomol-DS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medonol (Paracetamol and Dextropropoxyphene)",
+	name: "Medonol",
 	country: "India",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Medpar (Paracetamol and Aceclofenac)",
+	name: "Medpar",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mefacid Forte (Paracetamol and Mefenamic Acid)",
+	name: "Mefacid Forte",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Meftagesic (Paracetamol and Mefenamic Acid)",
+	name: "Meftagesic",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Meftagesic-DS (Paracetamol and Mefenamic Acid)",
+	name: "Meftagesic-DS",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Meftagesic-P (Paracetamol and Mefenamic Acid)",
+	name: "Meftagesic-P",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Meftal Forte (Paracetamol and Mefenamic Acid)",
+	name: "Meftal Forte",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Megacet (Paracetamol and Tramadol)",
+	name: "Megacet",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Megafen (Paracetamol and Ibuprofen)",
+	name: "Megafen",
 	country: "South Korea",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Megal (Paracetamol and Dextromethorphan, + Guaifenesin)",
+	name: "Megal",
 	country: "Egypt",
+	pair: "(Paracetamol and Dextromethorphan, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mejoral (pediatric)",
+	name: "Mejoral",
 	country: "Mexico",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mejoral Cafeina (Paracetamol and Caffeine)",
+	name: "Mejoral Cafeina",
 	country: "Argentina",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mejorax",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mejorax Infantil (pediatric)",
+	name: "Mejorax Infantil",
 	country: "Peru",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Melagesic PM (Paracetamol and Melatonin)",
+	name: "Melagesic PM",
 	country: "Peru",
+	pair: "(Paracetamol and Melatonin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Meng Luo Ying (Paracetamol and Diclofenac)",
+	name: "Meng Luo Ying",
 	country: "United States",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mensodol (Paracetamol and Pamabrom)",
+	name: "Mensodol",
 	country: "China",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mepabrufen (Paracetamol and Ibuprofen)",
+	name: "Mepabrufen",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mepar (Paracetamol and Mefenamic Acid)",
+	name: "Mepar",
 	country: "Egypt",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mepar Forte (Paracetamol and Mefenamic Acid)",
+	name: "Mepar Forte",
 	country: "India",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mephan",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mersyndol with Codeine (Paracetamol and Codeine, + Doxylamine)",
+	name: "Mersyndol with Codeine",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine, + Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metafen (Paracetamol and Ibuprofen)",
+	name: "Metafen",
 	country: "Canada",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metafex (Paracetamol and Ibuprofen)",
+	name: "Metafex",
 	country: "Poland",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metaflex Gesic (Paracetamol and Diclofenac)",
+	name: "Metaflex Gesic",
 	country: "Serbia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metaflex Gesic Forte (Paracetamol and Diclofenac)",
+	name: "Metaflex Gesic Forte",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metagesic (Paracetamol and Tramadol)",
+	name: "Metagesic",
 	country: "Argentina",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Methamol (Paracetamol and Methionine)",
+	name: "Methamol",
 	country: "Ecuador",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Methorelax (Paracetamol and Methocarbamol)",
+	name: "Methorelax",
 	country: "Egypt",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Methoxacet (Paracetamol and Methocarbamol)",
+	name: "Methoxacet",
 	country: "Egypt",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Methoxacet Extra Strength (Paracetamol and Methocarbamol)",
+	name: "Methoxacet Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Methoxacet-C1/8 (Paracetamol and Methocarbamol, + Codeine)",
+	name: "Methoxacet-C1/8",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Metopar (Paracetamol and Metoclopramide)",
+	name: "Metopar",
 	country: "Canada",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mexalen",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mexalen Complex (Paracetamol and Phenylephrine)",
+	name: "Mexalen Complex",
 	country: "Hungary",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mexalen rapid",
 	country: "Austria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mexa-Vit. C ratiopharm (Paracetamol and Ascorbic Acid)",
+	name: "Mexa-Vit. C ratiopharm",
 	country: "Austria",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Michaelon (Paracetamol and Pseudoephedrine, + Carbinoxamine)",
+	name: "Michaelon",
 	country: "Austria",
+	pair: "(Paracetamol and Pseudoephedrine, + Carbinoxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Midol Menstrual Complete (Paracetamol and Caffeine, + Mepyramine)",
+	name: "Midol Menstrual Complete",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Midol PMS Complete (Paracetamol and Pamabrom, + Mepyramine)",
+	name: "Midol PMS Complete",
 	country: "Canada",
+	pair: "(Paracetamol and Pamabrom, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Midol Teen Maximum Strength (Paracetamol and Pamabrom)",
+	name: "Midol Teen Maximum Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Midrid (Paracetamol and Isometheptene)",
+	name: "Midrid",
 	country: "United States",
+	pair: "(Paracetamol and Isometheptene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Midrone (Paracetamol and Caffeine)",
+	name: "Midrone",
 	country: "Malta",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migaura (Paracetamol and Metoclopramide)",
+	name: "Migaura",
 	country: "Oman",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migracid (Paracetamol and Metoclopramide)",
+	name: "Migracid",
 	country: "Egypt",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migraeflux MCP (Paracetamol and Metoclopramide)",
+	name: "Migraeflux MCP",
 	country: "Egypt",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migralave + MCP (Paracetamol and Metoclopramide)",
+	name: "Migralave + MCP",
 	country: "Germany",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migraleve (Paracetamol and Buclizine, + Codeine)",
+	name: "Migraleve",
 	country: "Germany",
+	pair: "(Paracetamol and Buclizine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migraleve (Paracetamol and Codeine)",
+	name: "Migraleve",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migraline (Paracetamol and Codeine, + Caffeine)",
+	name: "Migraline",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migräne-Neuridal (Paracetamol and Metoclopramide)",
+	name: "Migräne-Neuridal",
 	country: "France",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migränerton (Paracetamol and Metoclopramide)",
+	name: "Migränerton",
 	country: "Germany",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migrax (Paracetamol and Caffeine, + Dihydroergotamine)",
+	name: "Migrax",
 	country: "Germany",
+	pair: "(Paracetamol and Caffeine, + Dihydroergotamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Migrenil (Paracetamol and Domperidone)",
+	name: "Migrenil",
 	country: "Chile",
+	pair: "(Paracetamol and Domperidone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Minafen",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Minidol Plus (Paracetamol and Tramadol)",
+	name: "Minidol Plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mino",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Minofen",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Minofen Febbre e Dolore",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Minoset",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Minoset Pediatrik (pediatric)",
+	name: "Minoset Pediatrik",
 	country: "Turkey",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mioneuroflam (Paracetamol and Chlorzoxazone)",
+	name: "Mioneuroflam",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mio-Tylofen (Paracetamol and Carisoprodol)",
+	name: "Mio-Tylofen",
 	country: "Peru",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Miralgin (Paracetamol and Caffeine)",
+	name: "Miralgin",
 	country: "Guatemala",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Miyorel (Paracetamol and Methocarbamol)",
+	name: "Miyorel",
 	country: "Hungary",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mobistix",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mobistix Forte",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mobistix Junior (pediatric)",
+	name: "Mobistix Junior",
 	country: "Belgium",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Modafen (Paracetamol and Phenylephrine)",
+	name: "Modafen",
 	country: "Belgium",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Modron (Paracetamol and Orphenadrine)",
+	name: "Modron",
 	country: "Romania",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Modul Compuesto (Paracetamol and Scopolamine)",
+	name: "Modul Compuesto",
 	country: "Taiwan",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Molar ex (Paracetamol and Ibuprofen)",
+	name: "Molar ex",
 	country: "Peru",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Molfen (Paracetamol and Caffeine)",
+	name: "Molfen",
 	country: "Ecuador",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Molit Plus (Paracetamol and Scopolamine)",
+	name: "Molit Plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Molpireos",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Moretic",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Movon-P (Paracetamol and Aceclofenac)",
+	name: "Movon-P",
 	country: "Indonesia",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Multin (Paracetamol and Metamizole)",
+	name: "Multin",
 	country: "India",
+	pair: "(Paracetamol and Metamizole)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muscadol (Paracetamol and Orphenadrine)",
+	name: "Muscadol",
 	country: "Argentina",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muscerol (Paracetamol and Orphenadrine)",
+	name: "Muscerol",
 	country: "Oman",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muscle & Back Pain Relief Pendopharm (Paracetamol and Methocarbamol)",
+	name: "Muscle & Back Pain Relief Pendopharm",
 	country: "Lebanon",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muscol (Paracetamol and Orphenadrine)",
+	name: "Muscol",
 	country: "Canada",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muskazon (Paracetamol and Chlorzoxazone)",
+	name: "Muskazon",
 	country: "Israel",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muslax-A (Paracetamol and Chlormezanone)",
+	name: "Muslax-A",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Muslex (Paracetamol and Carisoprodol)",
+	name: "Muslex",
 	country: "Taiwan",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mydocalm-A (Paracetamol and Tolperisone)",
+	name: "Mydocalm-A",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tolperisone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myodrine (Paracetamol and Orphenadrine)",
+	name: "Myodrine",
 	country: "Mexico",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myoflex (Paracetamol and Chlorzoxazone)",
+	name: "Myoflex",
 	country: "Thailand",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myoflex (Paracetamol and Orphenadrine)",
+	name: "Myoflex",
 	country: "Egypt",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myogesic (Paracetamol and Orphenadrine)",
+	name: "Myogesic",
 	country: "Thailand",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myolax (Paracetamol and Chlorzoxazone)",
+	name: "Myolax",
 	country: "Oman",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myolgin (Paracetamol and Chlorzoxazone)",
+	name: "Myolgin",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myorelax (Paracetamol and Carisoprodol)",
+	name: "Myorelax",
 	country: "Egypt",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myosic (Paracetamol and Orphenadrine)",
+	name: "Myosic",
 	country: "Egypt",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Myospaz (Paracetamol and Chlorzoxazone)",
+	name: "Myospaz",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mypaid (Paracetamol and Ibuprofen)",
+	name: "Mypaid",
 	country: "India",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mypaid Night Pain (Paracetamol and Diphenhydramine)",
+	name: "Mypaid Night Pain",
 	country: "South Africa",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Mypara",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Mypara Plus Orphenadrine (Paracetamol and Orphenadrine)",
+	name: "Mypara Plus Orphenadrine",
 	country: "Thailand",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nabesac (Paracetamol and Orphenadrine)",
+	name: "Nabesac",
 	country: "Thailand",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nac Plus (Paracetamol and Diclofenac)",
+	name: "Nac Plus",
 	country: "Thailand",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nai Ping (Paracetamol and Pseudoephedrine)",
+	name: "Nai Ping",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naid-P (Paracetamol and Aceclofenac)",
+	name: "Naid-P",
 	country: "China",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naldecon (Paracetamol and Phenylephrine)",
+	name: "Naldecon",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nal-PM (Paracetamol and Diclofenac)",
+	name: "Nal-PM",
 	country: "Brazil",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nam-P (Paracetamol and Nimesulide)",
+	name: "Nam-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napa",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napa 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Napadol (Paracetamol and Tramadol)",
+	name: "Napadol",
 	country: "Japan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napa-Extend",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napafen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napaton",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Napran",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Naprex",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naprofebril (Paracetamol and Naproxen)",
+	name: "Naprofebril",
 	country: "Philippines",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naproxeno + Paracetamol (Paracetamol and Naproxen)",
+	name: "Naproxeno + Paracetamol",
 	country: "Peru",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naproxeno compuesto (Paracetamol and Naproxen)",
+	name: "Naproxeno compuesto",
 	country: "Ecuador",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nasamol",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastifrin Compuesto (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nastifrin Compuesto",
 	country: "Indonesia",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastifrin DN (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nastifrin DN",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastigrip (Paracetamol and Caffeine, + Chlorphenamine)",
+	name: "Nastigrip",
 	country: "Chile",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastigrip Dia Noche (Paracetamol and Caffeine, + Chlorphenamine)",
+	name: "Nastigrip Dia Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastizol Compositum (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nastizol Compositum",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastizol Dia-Noche (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nastizol Dia-Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nastul Dia-Noche (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nastul Dia-Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Naxodol Plus (Paracetamol and Tramadol)",
+	name: "Naxodol Plus",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "N-Butilbromuro de Hioscina + Acetaminofen Winthrop (Paracetamol and Scopolamine)",
+	name: "N-Butilbromuro de Hioscina + Acetaminofen Winthrop",
 	country: "Chile",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "NEDAC SORBO Kinderparacetamol (pediatric)",
+	name: "NEDAC SORBO Kinderparacetamol",
 	country: "Colombia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "NEDAC SORBO Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "NEDAC SORBO Paracetamol/Coffeine (Paracetamol and Caffeine)",
+	name: "NEDAC SORBO Paracetamol/Coffeine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neet Plus (Paracetamol and Nimesulide)",
+	name: "Neet Plus",
 	country: "Netherlands",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Neo",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Borocillina Rafreddore e Febbre (Paracetamol and Pseudoephedrine)",
+	name: "Neo Borocillina Rafreddore e Febbre",
 	country: "Greece",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Neo Citran",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Citran Cold & Flu (Paracetamol and Pheniramine, + Phenylephrine)",
+	name: "Neo Citran Cold & Flu",
 	country: "Austria",
+	pair: "(Paracetamol and Pheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Citran Extra Strength for Cough, Cold and Flu (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Chlorphenamine)",
+	name: "Neo Citran Extra Strength for Cough, Cold and Flu",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Citran Extra Strength Sore Thraot and Cough (Paracetamol and Dextromethorphan, + Pseudoephedrine, + Chlorphenamine)",
+	name: "Neo Citran Extra Strength Sore Thraot and Cough",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Michaelon (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Neo Michaelon",
 	country: "Canada",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo Rheumacyl (Paracetamol and Ibuprofen)",
+	name: "Neo Rheumacyl",
 	country: "Egypt",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo-BB (Paracetamol and Chlorphenamine)",
+	name: "Neo-BB",
 	country: "Indonesia",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neocibalgina (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Neocibalgina",
 	country: "Peru",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "NeoCitran Grippe/Erkältung (Paracetamol and Phenylephrine, + Pheniramine, + Ascorbic Acid)",
+	name: "NeoCitran Grippe/Erkältung",
 	country: "Italy",
+	pair: "(Paracetamol and Phenylephrine, + Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "NeoCitran Grippe/Erkältung für Kinder (Paracetamol and Phenylephrine, + Pheniramine, + Ascorbic Acid (pediatric))",
+	name: "NeoCitran Grippe/Erkältung für Kinder",
 	country: "Switzerland",
+	pair: "(Paracetamol and Phenylephrine, + Pheniramine, + Ascorbic Acid (pediatric))",
 	ingredient: "paracetamol"
 },
 {
 	name: "Neogrip",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neogrip (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Neogrip",
 	country: "Portugal",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Neomol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Neomol Plus",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neo-Nevral (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Neo-Nevral",
 	country: "Oman",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neonisidina (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Neonisidina",
 	country: "Italy",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neonisidina C (Paracetamol and Ascorbic Acid, + Acetylsalicylic Acid)",
+	name: "Neonisidina C",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid, + Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neooptalidon (Paracetamol and Propyphenazone, + Caffeine)",
+	name: "Neooptalidon",
 	country: "Italy",
+	pair: "(Paracetamol and Propyphenazone, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neozep (Paracetamol and Phenylephrine (pediatric))",
+	name: "Neozep",
 	country: "Italy",
+	pair: "(Paracetamol and Phenylephrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neucam-P (Paracetamol and Lornoxicam)",
+	name: "Neucam-P",
 	country: "Philippines",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neuralgesic (Paracetamol and Naproxen)",
+	name: "Neuralgesic",
 	country: "India",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neuralgin (Paracetamol andAcetylsalicylsäure)",
+	name: "Neuralgin",
 	country: "Peru",
+	pair: "(Paracetamol andAcetylsalicylsäure)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Neutram-P (Paracetamol and Tramadol)",
+	name: "Neutram-P",
 	country: "Austria",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nevis-P (Paracetamol and Nimesulide)",
+	name: "Nevis-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Niap (Paracetamol and Nimesulide)",
+	name: "Niap",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Night and Day (Paracetamol and Phenylpropanolamine, + Diphenhydramine)",
+	name: "Night and Day",
 	country: "India",
+	pair: "(Paracetamol and Phenylpropanolamine, + Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Night and Day N (Paracetamol and Diphenhydramine, + Pseudoephedrine)",
+	name: "Night and Day N",
 	country: "Egypt",
+	pair: "(Paracetamol and Diphenhydramine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Night Nurse (Paracetamol and Dextromethorphan, + Promethazine)",
+	name: "Night Nurse",
 	country: "Egypt",
+	pair: "(Paracetamol and Dextromethorphan, + Promethazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nighttime Pamprin (Paracetamol and Diphenhydramine)",
+	name: "Nighttime Pamprin",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nilup-P (Paracetamol and Nimesulide)",
+	name: "Nilup-P",
 	country: "United States",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimesel-P (Paracetamol and Nimesulide)",
+	name: "Nimesel-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimica Plus (Paracetamol and Nimesulide)",
+	name: "Nimica Plus",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimidis-P (Paracetamol and Nimesulide)",
+	name: "Nimidis-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimiz-Plus (Paracetamol and Nimesulide)",
+	name: "Nimiz-Plus",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimtech Plus (Paracetamol and Nimesulide)",
+	name: "Nimtech Plus",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimuflex-P (Paracetamol and Nimesulide)",
+	name: "Nimuflex-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimustar-P (Paracetamol and Nimesulide)",
+	name: "Nimustar-P",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nimvista Plus (Paracetamol and Nimesulide)",
+	name: "Nimvista Plus",
 	country: "India",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Niocitran (Paracetamol and Pseudoephedrine)",
+	name: "Niocitran",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ni-P (Paracetamol and Nimesulide)",
+	name: "Ni-P",
 	country: "Belgium",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Niplonac-P (Paracetamol and Aceclofenac)",
+	name: "Niplonac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nirolex Febbre e Dolore",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nirolex Flu Tripla Azione (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Nirolex Flu Tripla Azione",
 	country: "Italy",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nirolex Raffreddore e Influeza (Paracetamol and Pseudoephedrine)",
+	name: "Nirolex Raffreddore e Influeza",
 	country: "Italy",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nodipir",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nodrof (Paracetamol and Phenylpropanolamine)",
+	name: "Nodrof",
 	country: "Argentina",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Noflu (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Noflu",
 	country: "Indonesia",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nogesio",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nogryp (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Nogryp",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nohype",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nokya",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Noma",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nomax Dol (Paracetamol and Naproxen)",
+	name: "Nomax Dol",
 	country: "Taiwan",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Non-Aspirin Extra Strength",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Non-drowsy Sinutab (Paracetamol and Pseudoephedrine)",
+	name: "Non-drowsy Sinutab",
 	country: "United States",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nopain Plus (Paracetamol and Caffeine)",
+	name: "Nopain Plus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nor Plus (Paracetamol and Caffeine)",
+	name: "Nor Plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norco (Paracetamol and Hydrocodone)",
+	name: "Norco",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nordex",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nor-dol (Paracetamol and Tramadol)",
+	name: "Nor-dol",
 	country: "Philippines",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norflex CO (Paracetamol and Orphenadrine)",
+	name: "Norflex CO",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norflex Plus (Paracetamol and Orphenadrine)",
+	name: "Norflex Plus",
 	country: "South Africa",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norgesic (Paracetamol and Orphenadrine)",
+	name: "Norgesic",
 	country: "Peru",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norgetex (Paracetamol and Orphenadrine)",
+	name: "Norgetex",
 	country: "El Salvador",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Normaflu",
 	country: "Myanmar",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Normotemp",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Norphen (Paracetamol and Orphenadrine)",
+	name: "Norphen",
 	country: "Ecuador",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nortemp Children's (pediatric)",
+	name: "Nortemp Children's",
 	country: "Thailand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nortemp Infants' Drops (pediatric)",
+	name: "Nortemp Infants' Drops",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nova C N (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Nova C N",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Novacetol (Paracetamol and Codeine, + Acetylsalicylic Acid)",
+	name: "Novacetol",
 	country: "Egypt",
+	pair: "(Paracetamol and Codeine, + Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Novadol",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Novaldol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Novalgin-NU (Paracetamol and Caffeine)",
+	name: "Novalgin-NU",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Novodol (Paracetamol and Tramadol)",
+	name: "Novodol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Noxpirin (Paracetamol and Phenylephrine)",
+	name: "Noxpirin",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "N-Paracetamol",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nu",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nucoxia-P (Paracetamol and Etoricoxib)",
+	name: "Nucoxia-P",
 	country: "India",
+	pair: "(Paracetamol and Etoricoxib)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nudiclo Plus (Paracetamol and Diclofenac)",
+	name: "Nudiclo Plus",
 	country: "India",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nufadol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Numark Flu All-In-One Chesty Cough & Cold (Paracetamol and Phenylephrine, + Guaifenesin)",
+	name: "Numark Flu All-In-One Chesty Cough & Cold",
 	country: "Indonesia",
+	pair: "(Paracetamol and Phenylephrine, + Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Numark Max Strength Cold & Flu (Paracetamol and Phenylephrine, + Caffeine)",
+	name: "Numark Max Strength Cold & Flu",
 	country: "Malta",
+	pair: "(Paracetamol and Phenylephrine, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nuosic (Paracetamol and Orphenadrine)",
+	name: "Nuosic",
 	country: "Malta",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nupar (Paracetamol and Nimesulide)",
+	name: "Nupar",
 	country: "Thailand",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Nupeldol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nurasic (Paracetamol and Orphenadrine)",
+	name: "Nurasic",
 	country: "Spain",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nurofen Ultima (Paracetamol and Ibuprofen)",
+	name: "Nurofen Ultima",
 	country: "Thailand",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nuromol (Paracetamol and Ibuprofen)",
+	name: "Nuromol",
 	country: "Poland",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nusaid-P (Paracetamol and Aceclofenac)",
+	name: "Nusaid-P",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nutram (Paracetamol and Tramadol)",
+	name: "Nutram",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Nygen (Paracetamol and Caffeine)",
+	name: "Nygen",
 	country: "Philippines",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Octadon P (Paracetamol and Caffeine)",
+	name: "Octadon P",
 	country: "Portugal",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ofirmev",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ol-askofens Olainfarm",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ol-citramons",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Omodol (Paracetamol and Tramadol)",
+	name: "Omodol",
 	country: "Latvia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Omol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Omol Extra (Paracetamol and Caffeine)",
+	name: "Omol Extra",
 	country: "Oman",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "On-Axe (Paracetamol and Lornoxicam)",
+	name: "On-Axe",
 	country: "Oman",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Onexol Duo (Paracetamol and Naproxen)",
+	name: "Onexol Duo",
 	country: "India",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Opara-Semi",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Opatram Duo (Paracetamol and Tramadol)",
+	name: "Opatram Duo",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Opdol (Paracetamol and Tramadol)",
+	name: "Opdol",
 	country: "Tunisia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Opigesic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Optipyrin (Paracetamol and Codeine)",
+	name: "Optipyrin",
 	country: "Philippines",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orano (Paracetamol and Orphenadrine)",
+	name: "Orano",
 	country: "Germany",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orkelax (Paracetamol and Orphenadrine)",
+	name: "Orkelax",
 	country: "Thailand",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ornex (Paracetamol and Pseudoephedrine)",
+	name: "Ornex",
 	country: "Thailand",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orphamol (Paracetamol and Paracetamol)",
+	name: "Orphamol",
 	country: "United States",
+	pair: "(Paracetamol and Paracetamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orphen (Paracetamol and Tramadol)",
+	name: "Orphen",
 	country: "Egypt",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orphenadrine plus (Paracetamol and Orphenadrine)",
+	name: "Orphenadrine plus",
 	country: "South Korea",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orphengesic (Paracetamol and Orphenadrine)",
+	name: "Orphengesic",
 	country: "Egypt",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Orphensic (Paracetamol and Orphenadrine)",
+	name: "Orphensic",
 	country: "Thailand",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ortholoc-P (Paracetamol and Etodolac)",
+	name: "Ortholoc-P",
 	country: "Thailand",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Osa Schmerz- und Fieberzäpfchen",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oskadon (Paracetamol and Caffeine)",
+	name: "Oskadon",
 	country: "Switzerland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Otrivine Mu-Cron (Paracetamol and Pseudoephedrine)",
+	name: "Otrivine Mu-Cron",
 	country: "Indonesia",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ottopan",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxafem (Paracetamol and Diclofenac)",
+	name: "Oxafem",
 	country: "Indonesia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxagesic (Paracetamol and Diclofenac)",
+	name: "Oxagesic",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxagesic CB (Paracetamol and Diclofenac)",
+	name: "Oxagesic CB",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxalgin-DP (Paracetamol and Diclofenac)",
+	name: "Oxalgin-DP",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxycodone and Acetaminophen Actavis (Paracetamol and Oxycodone)",
+	name: "Oxycodone and Acetaminophen Actavis",
 	country: "India",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxycodone Hydrochloride and Acetaminophen Mallinckrodt (Paracetamol and Oxycodone)",
+	name: "Oxycodone Hydrochloride and Acetaminophen Mallinckrodt",
 	country: "United States",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxycodone-Acet Sanis Health (Paracetamol and Oxycodone)",
+	name: "Oxycodone-Acet Sanis Health",
 	country: "United States",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Oxydol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Oxykom Plus (Paracetamol and Oxycodone)",
+	name: "Oxykom Plus",
 	country: "Philippines",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pa La Xin",
 	country: "Guatemala",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pabialgin Neo (Paracetamol and Caffeine)",
+	name: "Pabialgin Neo",
 	country: "China",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pabron Cough & Aches (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Pabron Cough & Aches",
 	country: "Poland",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pac (Paracetamol and Caffeine)",
+	name: "Pac",
 	country: "Malaysia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pacet (Paracetamol and Phenylephrine, + Ascorbic Acid)",
+	name: "Pacet",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacidol",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacimol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pacimol Plus (Paracetamol and Nimesulide)",
+	name: "Pacimol Plus",
 	country: "Oman",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacimol-DS",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pacimol-M (Paracetamol and Metoclopramide)",
+	name: "Pacimol-M",
 	country: "India",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacimol-XP",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacinol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacipik",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pacofen (Paracetamol and Caffeine, + Codeine)",
+	name: "Pacofen",
 	country: "India",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pacol",
 	country: "Singapore",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pactiv",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Padevix (Paracetamol and Dextromethorphan)",
+	name: "Padevix",
 	country: "India",
+	pair: "(Paracetamol and Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Padolten (Paracetamol and Tramadol)",
+	name: "Padolten",
 	country: "Estonia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paediatric Paracetamol (pediatric)",
+	name: "Paediatric Paracetamol",
 	country: "Poland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pai Si Ke (Paracetamol and Pseudoephedrine)",
+	name: "Pai Si Ke",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pain Reliever PM Magno-Humphries (Paracetamol and Diphenhydramine)",
+	name: "Pain Reliever PM Magno-Humphries",
 	country: "China",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painadol-P (Paracetamol and Tramadol)",
+	name: "Painadol-P",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painaid Back Relief (Paracetamol and Salicylic Acid)",
+	name: "Painaid Back Relief",
 	country: "India",
+	pair: "(Paracetamol and Salicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painaid PMF (Paracetamol and Pamabrom)",
+	name: "Painaid PMF",
 	country: "United States",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Painamol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painamol Plus (Paracetamol and Codeine)",
+	name: "Painamol Plus",
 	country: "South Africa",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painfree-AP (Paracetamol and Aceclofenac)",
+	name: "Painfree-AP",
 	country: "South Africa",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painfree-EP (Paracetamol and Etodolac)",
+	name: "Painfree-EP",
 	country: "India",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Painmezone",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Painol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painrelax-EP (Paracetamol and Etodolac)",
+	name: "Painrelax-EP",
 	country: "Lebanon",
+	pair: "(Paracetamol and Etodolac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Painsafe (Paracetamol and Mephenoxalone)",
+	name: "Painsafe",
 	country: "India",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paldolor (Paracetamol and Diclofenac)",
+	name: "Paldolor",
 	country: "Taiwan",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Palgotal (Paracetamol and Tramadol)",
+	name: "Palgotal",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Palotrem (Paracetamol and Tramadol)",
+	name: "Palotrem",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pamol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pamol C (Paracetamol and Phenylephrine, + Ascorbic acid)",
+	name: "Pamol C",
 	country: "Estonia",
+	pair: "(Paracetamol and Phenylephrine, + Ascorbic acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pamol Child (pediatric)",
+	name: "Pamol Child",
 	country: "Estonia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pamol Double Strength",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pamol F",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pamol Flash",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pamol Infant (pediatric)",
+	name: "Pamol Infant",
 	country: "Denmark",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pamol KF (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Pamol KF",
 	country: "Oman",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panacare",
 	country: "Estonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panace-P (Paracetamol and Aceclofenac)",
+	name: "Panace-P",
 	country: "Oman",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panacod (Paracetamol and Codeine)",
+	name: "Panacod",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panacon",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadeine (Paracetamol and Codeine)",
+	name: "Panadeine",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadeine Extra (Paracetamol and Codeine)",
+	name: "Panadeine Extra",
 	country: "Singapore",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panado",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panado Plus (Paracetamol and Ibuprofen)",
+	name: "Panado Plus",
 	country: "South Africa",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol (pediatric)",
+	name: "Panadol",
 	country: "China",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol 0-2 (pediatric)",
+	name: "Panadol 0-2",
 	country: "Lebanon",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol 6-12 (pediatric)",
+	name: "Panadol 6-12",
 	country: "Thailand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol 6-6 (pediatric)",
+	name: "Panadol 6-6",
 	country: "Thailand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Actifast",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Actifast (Paracetamol and Sodium)",
+	name: "Panadol Actifast",
 	country: "Thailand",
+	pair: "(Paracetamol and Sodium)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol advance",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Antigrippine (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Antigrippine",
 	country: "Lebanon",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Baby & Infant (pediatric)",
+	name: "Panadol Baby & Infant",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Baby (pediatric)",
+	name: "Panadol Baby",
 	country: "Oman",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol C (Paracetamol and Ascorbic Acid)",
+	name: "Panadol C",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Children (pediatric)",
+	name: "Panadol Children",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Codeine (Paracetamol and Codeine)",
+	name: "Panadol Codeine",
 	country: "Malaysia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold & Cough (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Panadol Cold & Cough",
 	country: "Belgium",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold & Flu (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Cold & Flu",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold & Flu Day & Night (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Panadol Cold & Flu Day & Night",
 	country: "Malta",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold & Flu Hot Remedy (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Panadol Cold & Flu Hot Remedy",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold & Flu Nasal (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Panadol Cold & Flu Nasal",
 	country: "Singapore",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Cold",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold and Flu (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Panadol Cold and Flu",
 	country: "Malaysia",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold Relief (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Cold Relief",
 	country: "Malta",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Panadol Cold&Flu;",
 	country: "Singapore",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; (Paracetamol and Ascorbic Acid)",
+	name: "Panadol Cold&Flu;",
 	country: "Egypt",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Panadol Cold&Flu;",
 	country: "Ireland",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; all in one (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Panadol Cold&Flu; all in one",
 	country: "Egypt",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; Day (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Panadol Cold&Flu; Day",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cold&Flu; Relief (Paracetamol and Caffeine)",
+	name: "Panadol Cold&Flu; Relief",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Comp (Paracetamol and Caffein)",
+	name: "Panadol Comp",
 	country: "Ireland",
+	pair: "(Paracetamol and Caffein)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Cough & Cold (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Panadol Cough & Cold",
 	country: "Finland",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol dla dzieci (pediatric)",
+	name: "Panadol dla dzieci",
 	country: "Singapore",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Extend",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Extra (Paracetamol and Caffeine)",
+	name: "Panadol Extra",
 	country: "Switzerland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Extra Advance (Paracetamol and Caffeine)",
+	name: "Panadol Extra Advance",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Femina (Paracetamol and Hyoscynamine)",
+	name: "Panadol Femina",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Hyoscynamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Femina (Paracetamol and Scopolamine)",
+	name: "Panadol Femina",
 	country: "Poland",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Fever (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Fever",
 	country: "Slovakia",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Flumax (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Panadol Flumax",
 	country: "Ireland",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol for children",
 	country: "Singapore",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol for Children",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Forte",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Forte (Paracetamol and Caffeine)",
+	name: "Panadol Forte",
 	country: "Finland",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Head Cold (Paracetamol and Ascorbic Acid)",
+	name: "Panadol Head Cold",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Hot",
 	country: "Ireland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Infantil (pediatric)",
+	name: "Panadol Infantil",
 	country: "Finland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol joint",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Junior (pediatric)",
+	name: "Panadol Junior",
 	country: "Hong Kong",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Long Lasting",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Menstrual (Paracetamol and Caffeine)",
+	name: "Panadol Menstrual",
 	country: "New Zealand",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Menstrual (Paracetamol and Pamabrom)",
+	name: "Panadol Menstrual",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Night (Paracetamol and Diphenhydramine)",
+	name: "Panadol Night",
 	country: "Singapore",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Niños (pediatric)",
+	name: "Panadol Niños",
 	country: "New Zealand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Novum",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Osteo",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Period Pain (Paracetamol and Caffeine)",
+	name: "Panadol Period Pain",
 	country: "New Zealand",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Plus (Paracetamol and Caffeine)",
+	name: "Panadol Plus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Plus Grip (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Plus Grip",
 	country: "Belgium",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Pore",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Pronto",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Rapid",
 	country: "Estonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Rapid Extra (Paracetamol and Caffeine)",
+	name: "Panadol Rapid Extra",
 	country: "Serbia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Rapide",
 	country: "Hungary",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Retard",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Sinus (Paracetamol and Pseudoephedrine)",
+	name: "Panadol Sinus",
 	country: "Belgium",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Sinus Max (Paracetamol and Phenylephrine)",
+	name: "Panadol Sinus Max",
 	country: "Oman",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Sinus Relief (Paracetamol andCaffeine, + Phenylephrine)",
+	name: "Panadol Sinus Relief",
 	country: "Singapore",
+	pair: "(Paracetamol andCaffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Ultra (Paracetamol and Codeine)",
+	name: "Panadol Ultra",
 	country: "Ireland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panadol Vitamin C (Paracetamol and Ascorbic Acid)",
+	name: "Panadol Vitamin C",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol Zapp",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol-R Actifast",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panadol-S",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "PanadolTM Baby (pediatric)",
+	name: "PanadolTM Baby",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panaflam-F (Paracetamol and Diclofenac)",
+	name: "Panaflam-F",
 	country: "Georgia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panagesic",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panagesic Periodo Menstrual (Paracetamol and Pamabrom, + Mepyramine)",
+	name: "Panagesic Periodo Menstrual",
 	country: "Chile",
+	pair: "(Paracetamol and Pamabrom, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panamax",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panasorbe",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panatol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panatol (Paracetamol and Caffeine)",
+	name: "Panatol",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panclogesic (Paracetamol and Diclofenac)",
+	name: "Panclogesic",
 	country: "Taiwan",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panocod (Paracetamol and Codeine)",
+	name: "Panocod",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panodil",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panodil Forte",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panodil Junior (pediatric)",
+	name: "Panodil Junior",
 	country: "Sweden",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Panodil Zapp",
 	country: "Iceland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Panoxen (Paracetamol and Diclofenac)",
+	name: "Panoxen",
 	country: "Norway",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pantadolor",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Papaverol Compuesto (Paracetamol and Scopolamine)",
+	name: "Papaverol Compuesto",
 	country: "Portugal",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Par",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Para-4-Kids (pediatric)",
+	name: "Para-4-Kids",
 	country: "Greece",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracap",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracare",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracare Double Strength",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracare Junior (pediatric)",
+	name: "Paracare Junior",
 	country: "New Zealand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracef",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paraceon",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracet",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paraceta",
 	country: "Iceland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "ParacetaMax",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ParacetaMax Kids (pediatric)",
+	name: "ParacetaMax Kids",
 	country: "Bulgaria",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol - 1 A Pharma",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol - 1 A Pharma gegen Fieber und Schmerzen",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol - Ethypharm",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol - Tsiteli A",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol - UBF",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol / coffeïne Samenwerkende Apothekers (Paracetamol and Caffeine)",
+	name: "Paracetamol / coffeïne Samenwerkende Apothekers",
 	country: "Georgia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Cafeína Algik (Paracetamol and Caffeine)",
+	name: "Paracetamol + Cafeína Algik",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Caffeine Galpharm (Paracetamol and Caffeine)",
+	name: "Paracetamol + Caffeine Galpharm",
 	country: "Portugal",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Clorzoxazona (Paracetamol and Chlorzoxazone)",
+	name: "Paracetamol + Clorzoxazona",
 	country: "Poland",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Codeina Pharmakern (Paracetamol and Codeine)",
+	name: "Paracetamol + Codeina Pharmakern",
 	country: "Peru",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Codeine ITF (Paracetamol and Codeine)",
+	name: "Paracetamol + Codeine ITF",
 	country: "Portugal",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Codeine Mylan (Paracetamol and Codeine)",
+	name: "Paracetamol + Codeine Mylan",
 	country: "Greece",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol + Guaifenesin + Phenylephrine Hydrochloride Perrigo (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Paracetamol + Guaifenesin + Phenylephrine Hydrochloride Perrigo",
 	country: "New Zealand",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol 123ratio",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Abamed",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Abex",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol AbZ",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Accel",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Accord",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Actavis",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Actavis",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol adco",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Adipharm",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol adwic",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Aflofarm",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol AFT",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol AHCL",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol AL comp. (Paracetamol and Codeine)",
+	name: "Paracetamol AL comp.",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Alkaloid",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Almus",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Alpharma",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Alter",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Alter",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Alternova",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Amdipharm",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol amriya",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Andromaco",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Antibiotice",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol APceuticals",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Apofri",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol apo-rot",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Apotex",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol APS",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Aptalis",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Apteo Med",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Arena",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Aristo",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Arrow",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Aurobindo",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Azevedos",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol B Braun",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol B. Braun",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol B.P.",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Baby Phs (pediatric)",
+	name: "Paracetamol Baby Phs",
 	country: "Georgia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bakuk",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Basi",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bayer",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol BC",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bell",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Benel",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Biofarm",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Biogaran",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Biomed",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Biopharm",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Biopolus",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bluepharma",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Borisov",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bosnalijek",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Brill",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Bristol",
 	country: "Hungary",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Central",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Cetol",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol CF",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Cherubino",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ciclum",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Cinfa",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Cinfamed",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Arrow (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Arrow",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Biogaran (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Biogaran",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Cristers (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Cristers",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine EG (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine EG",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Mylan (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Mylan",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Sandoz (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Sandoz",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracétamol Codéine Teva (Paracetamol and Codeine)",
+	name: "Paracétamol Codéine Teva",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Codramol",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Color",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Combino",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Combino Pharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Combix",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol comp. Apotex (Paracetamol and Caffeine)",
+	name: "Paracetamol comp. Apotex",
 	country: "Spain",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol comp. Sandoz (Paracetamol and Caffeine)",
+	name: "Paracetamol comp. Sandoz",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol comp. STADA (Paracetamol and Codeine)",
+	name: "Paracetamol comp. STADA",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Crescent",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Cristers",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Cuve",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol DA",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Deva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Disphar",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Dr.Max",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol dura",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ecopharm",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ecuaquimica",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Edigen",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol eep",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol EG",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol EG",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol EG Labo",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Epilix",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Eurofarma",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Europharm",
 	country: "Brazil",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Evolan",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Extra Chemax (Paracetamol and Caffeine)",
+	name: "Paracetamol Extra Chemax",
 	country: "Sweden",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Extra Fort",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Fabiol",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farline",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmalid",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmalider",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmex",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmina",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmo Quimica",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Farmoz",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Fecofar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Filofarm",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Focus",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Fortbenton",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Fresenius",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Fresenius Infant (pediatric)",
+	name: "Paracetamol Fresenius Infant",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Fresenius Kabi",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol G.E.S.",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Galena",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Galenika",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Galpharm",
 	country: "Serbia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Garvai",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Gayoso",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Gelos",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Gener",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol General Drugs House",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Genericon",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Generis",
 	country: "Austria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Genfarma",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Genmed",
 	country: "Austria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Gentle",
 	country: "Estonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol GNR",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Grindeks",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Grünenthal",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Hasco",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Herbapol Wroclaw",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol HEXAL",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol HEXAL bei Fieber und Schmerzen",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Hikma",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Hospira",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol HTP",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Inbiotech",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Infantil (pediatric)",
+	name: "Paracetamol Infantil",
 	country: "Bulgaria",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Infomed",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Infosaúde",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Intrapharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ionfarma",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol IPS",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol IPS pediatrique (pediatric)",
+	name: "Paracetamol IPS pediatrique",
 	country: "Tunisia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol IPS Vitamine C (Paracetamol and Ascorbic Acid)",
+	name: "Paracetamol IPS Vitamine C",
 	country: "Tunisia",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Isomed",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Italfarmaco",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol ITF",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Jadran",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Journeyline",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Jugoremedija",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Kabi",
 	country: "Serbia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Kabi",
 	country: "Austria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Kern Pharma",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Kring",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol L.CH.",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Labesfal",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Lafedar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Larjan",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Lazar",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Leidapharm",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Level",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol LGO",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "ParaCetaMol Lichtenstein",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ParaCetaMol Lichtenstein für Kinder (pediatric)",
+	name: "ParaCetaMol Lichtenstein für Kinder",
 	country: "Germany",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Liderfen",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Life",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol LPH",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Luganskiy",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Luxa",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol M & A",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Mabo",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Macopharma",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Macopharma",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol MAE",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Magistra",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Manston",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Marcmed",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Marel",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Martindale",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol MCC",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Mdq",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Mintlab",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol MK",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Monserrat",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol MosChimPharm",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Mundogen",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Mylan",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Mylan",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Nawal",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Neopharmi",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol NF (Paracetamol and Bromhexine)",
+	name: "Paracetamol NF",
 	country: "Georgia",
+	pair: "(Paracetamol and Bromhexine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Nordic",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Normon",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol oblong",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol OGB Dexa",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Onedose",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Opko",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Orifarm",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Orion",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ozone",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol P & D",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Panfarma",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Panpharma",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Panpharma",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pasteur",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PCH",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Pediatric (pediatric)",
+	name: "Paracetamol Pediatric",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pensa",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pentafarma",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pfizer",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol pharco",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharma",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharma Combix",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharmabart",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharmacin",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharmagenus",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pharmakern",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PharmaMatch",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PharmaS",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PharmaSwiss",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Pinewood",
 	country: "Serbia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Placasod",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Polfa-Lodz",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Polpharma",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PSM",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol PT Copii",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Puntanos",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Q-generics",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Qualigen",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Raffo",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Rampy",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ratio",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ratiopharm",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Ratiopharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Renaudin",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol ReplekFarm",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Rockspring",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Rosemont",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Rotexmedica",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol RPG",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Rth",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol RXT",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol SAM",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Samenwerkende Apothekers",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sandoz",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Sandoz",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Sandoz Conseil",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sanias",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sant Gall",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol Seltzer (Paracetamol and Sodium Bicarbonate)",
+	name: "Paracetamol Seltzer",
 	country: "Argentina",
+	pair: "(Paracetamol and Sodium Bicarbonate)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Serra",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Serra Pamies",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Serraclinics",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sigillata",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sintetica",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sintofarm",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Solacium",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Sopharma",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Spirig HC",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Stada",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol STADA",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Stadagen",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Stelma",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Svan",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Tarbis",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Tatchempharmpreparaty",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Tecnigen",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Teva",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Teva",
 	country: "Sweden",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Teva Conseil",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Teva Sante",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Therapeuticon",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol TIS",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol toLife",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol TP",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Triangle Pharma",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Valma",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Vannier",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Vent-3",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Wemba",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Winthrop",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Wockhardt",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Wynn",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Zada",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Zentiva",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Zentiva",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol Ziska",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracétamol Zydus",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/ Vitamine C/ Pheniramine Mylan Conseil (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Paracetamol/ Vitamine C/ Pheniramine Mylan Conseil",
 	country: "France",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/ Vitamine C/ Pheniramine Sandoz Conseil (Paracetamol and Pheniramine, + Ascorbic Acid)",
+	name: "Paracetamol/ Vitamine C/ Pheniramine Sandoz Conseil",
 	country: "France",
+	pair: "(Paracetamol and Pheniramine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codein Orion (Paracetamol and Codeine)",
+	name: "Paracetamol/Codein Orion",
 	country: "France",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeina Kern Pharma (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeina Kern Pharma",
 	country: "Finland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeina Level (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeina Level",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeina Pensa (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeina Pensa",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeine Vitabalans (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeine Vitabalans",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat Actavis (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat Actavis",
 	country: "Estonia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/codeïnefosfaat Apotex (Paracetamol and Codeine)",
+	name: "Paracetamol/codeïnefosfaat Apotex",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat Aurobindo (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat Aurobindo",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat CF (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat CF",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat HTP (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat HTP",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat Mdq (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat Mdq",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat Mylan (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat Mylan",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/codeïnefosfaat PCH (Paracetamol and Codeine)",
+	name: "Paracetamol/codeïnefosfaat PCH",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat ratiopharm (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat ratiopharm",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Codeïnefosfaat Sandoz (Paracetamol and Codeine)",
+	name: "Paracetamol/Codeïnefosfaat Sandoz",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeine CF (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeine CF",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeïne DA (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeïne DA",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeïne HTP (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeïne HTP",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Coffeïne Kring (Paracetamol and Caffeine)",
+	name: "Paracetamol/Coffeïne Kring",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeïne Mdq (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeïne Mdq",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeine Sameko (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeine Sameko",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/coffeïne SDG (Paracetamol and Caffeine)",
+	name: "Paracetamol/coffeïne SDG",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/Kodein Evolan (Paracetamol and Codeine)",
+	name: "Paracetamol/Kodein Evolan",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol/vitamine C HTP (Paracetamol and Ascorbic Acid)",
+	name: "Paracetamol/vitamine C HTP",
 	country: "Sweden",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamol-C-Hemofarm (Paracetamol and Ascorbic Acid)",
+	name: "Paracetamol-C-Hemofarm",
 	country: "Netherlands",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol-Grindeks",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol-Hanmi",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolio BP",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolio EP",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolis Liuks",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolis Sanitas",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol-Mepha",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamolo + Codeina Alter (Paracetamol and Codeine)",
+	name: "Paracetamolo + Codeina Alter",
 	country: "Switzerland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Alter",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo B. Braun",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Farmakopea",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Kabi",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Mylan Generics Italia",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Ranbaxy",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Ratiopharm",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamolo Teva",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetamolo+Vitamina C ratiopharm (Paracetamol and Ascorbic Acid)",
+	name: "Paracetamolo+Vitamina C ratiopharm",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetamol-ratiopharm",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetanal",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracetol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracetyl (pediatric)",
+	name: "Paracetyl",
 	country: "Portugal",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracip",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ParacodMylan (Paracetamol and Codeine)",
+	name: "ParacodMylan",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracodol (Paracetamol and Codeine)",
+	name: "Paracodol",
 	country: "Belgium",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracof (Paracetamol and Caffeine)",
+	name: "Paracof",
 	country: "Malta",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-Cold",
 	country: "Romania",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracold Codein (Paracetamol and Codeine)",
+	name: "Paracold Codein",
 	country: "Turkey",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracold Extra (Paracetamol and Caffeine)",
+	name: "Paracold Extra",
 	country: "Vietnam",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracold Flu (Paracetamol and Chlorphenamine)",
+	name: "Paracold Flu",
 	country: "Vietnam",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paracold Infants (pediatric)",
+	name: "Paracold Infants",
 	country: "Vietnam",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paraconica",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paracut",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-Denk",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paradolor",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paradoren (Paracetamol and Codeine)",
+	name: "Paradoren",
 	country: "Austria",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paradote (Paracetamol and Methionine)",
+	name: "Paradote",
 	country: "Romania",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paradrine (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Paradrine",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paraextra (Paracetamol and Caffeine)",
+	name: "Paraextra",
 	country: "Singapore",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parafast",
 	country: "Ireland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parafen",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parafizz",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paraflex-an Forte (Paracetamol and Chlorzoxazone)",
+	name: "Paraflex-an Forte",
 	country: "Estonia",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paraflu",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parafludeten",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "ParaFlux",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parafon (Paracetamol and Chlorzoxazone)",
+	name: "Parafon",
 	country: "Estonia",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parafon Forte (Paracetamol and Chlorzoxazone)",
+	name: "Parafon Forte",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paragesic",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-Hot",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-IV",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parakid",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralen",
 	country: "Georgia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen (Paracetamol and Phenylephrine)",
+	name: "Paralen",
 	country: "Slovakia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen (Paracetamol andAcetylsalicylic Acid, Caffeine)",
+	name: "Paralen",
 	country: "Czech Republic",
+	pair: "(Paracetamol andAcetylsalicylic Acid, Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen Extra (Paracetamol and Caffeine)",
+	name: "Paralen Extra",
 	country: "Norway",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen Grip (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Paralen Grip",
 	country: "Slovakia",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen Grip (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Paralen Grip",
 	country: "Poland",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralen Plus (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Paralen Plus",
 	country: "Slovakia",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralex",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralex plus (Paracetamol and Methionine)",
+	name: "Paralex plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralgen",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralgex",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralgil",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralgin Forte (Paracetamol and Codeine)",
+	name: "Paralgin Forte",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralgyl",
 	country: "Norway",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralink",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paralon (Paracetamol and Chlorzoxazone)",
+	name: "Paralon",
 	country: "Ireland",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paralyoc",
 	country: "Brazil",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramacet (Paracetamol and Tramadol)",
+	name: "Paramacet",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramacet Semi (Paracetamol and Tramadol)",
+	name: "Paramacet Semi",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax (Paracetamol and Codein)",
+	name: "Paramax",
 	country: "South Korea",
+	pair: "(Paracetamol and Codein)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax (Paracetamol and Metoclopramide)",
+	name: "Paramax",
 	country: "Slovakia",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax Combi (Paracetamol and Caffeine)",
+	name: "Paramax Combi",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax Comp (Paracetamol and Caffeine)",
+	name: "Paramax Comp",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax Comp (Paracetamol and Codeine)",
+	name: "Paramax Comp",
 	country: "Poland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax Extra (Paracetamol and Caffeine)",
+	name: "Paramax Extra",
 	country: "Norway",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramax Forte",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax Junior (pediatric)",
+	name: "Paramax Junior",
 	country: "Hungary",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramax Rapid",
 	country: "Latvia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramax-Cod (Paracetamol and Codeine)",
+	name: "Paramax-Cod",
 	country: "Poland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramed",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramegal",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramol",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramol (Paracetamol and Dihydrocodeine)",
+	name: "Paramol",
 	country: "Taiwan",
+	pair: "(Paracetamol and Dihydrocodeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramol AF (Paracetamol and Pseudoephedrine)",
+	name: "Paramol AF",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramol for Children (pediatric)",
+	name: "Paramol for Children",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramol Plus (Paracetamol and Caffeine)",
+	name: "Paramol Plus",
 	country: "Israel",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paramolan",
 	country: "Israel",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paramolan C (Paracetamol and Acorbic Acid)",
+	name: "Paramolan C",
 	country: "Portugal",
+	pair: "(Paracetamol and Acorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paranadrine (Paracetamol and Orphenadrine)",
+	name: "Paranadrine",
 	country: "Portugal",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paranox",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paranox (Paracetamol and Phenobarbital)",
+	name: "Paranox",
 	country: "Turkey",
+	pair: "(Paracetamol and Phenobarbital)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paranox Pediyatrik (pediatric)",
+	name: "Paranox Pediyatrik",
 	country: "Turkey",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paranox-S",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paraphar",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parapyrol",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parasedol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parasinus (Paracetamol and Pseudoephedrine)",
+	name: "Parasinus",
 	country: "Turkey",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-Suppo",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paratabs",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Para-Tabs",
 	country: "Iceland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paratabs Retard",
 	country: "Finland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paratram (Paracetamol and Tramadol)",
+	name: "Paratram",
 	country: "Iceland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paratramol (Paracetamol and Tramadol)",
+	name: "Paratramol",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paraxone (Paracetamol and Chlorzoxazone)",
+	name: "Paraxone",
 	country: "Slovakia",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parazobid (Paracetamol and Diclofenac)",
+	name: "Parazobid",
 	country: "Lebanon",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parazone (Paracetamol and Chlormezanone)",
+	name: "Parazone",
 	country: "India",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parclen",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parcodin (Paracetamol and Codeine)",
+	name: "Parcodin",
 	country: "Argentina",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parcoten (Paracetamol and Codeine)",
+	name: "Parcoten",
 	country: "Hungary",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parcotram (Paracetamol and Tramadol)",
+	name: "Parcotram",
 	country: "Malta",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pardale-V (Paracetamol and Codeine (veterinary use))",
+	name: "Pardale-V",
 	country: "Poland",
+	pair: "(Paracetamol and Codeine (veterinary use))",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parexel",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parinmol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parkodin (Paracetamol and Codeine)",
+	name: "Parkodin",
 	country: "Peru",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parkodin forte (Paracetamol and Codeine)",
+	name: "Parkodin forte",
 	country: "Iceland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parmol",
 	country: "Iceland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parnox",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Parofen (Paracetamol and Ibuprofen)",
+	name: "Parofen",
 	country: "Thailand",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parol-Plus",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Paromon",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parox Meltab",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Parsel",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Partamol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Partamol-Codein (Paracetamol and Codeine)",
+	name: "Partamol-Codein",
 	country: "Thailand",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Partemol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pasafe (Paracetamol and Methionine)",
+	name: "Pasafe",
 	country: "Turkey",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Patral (Paracetamol and Tramadol)",
+	name: "Patral",
 	country: "Vietnam",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Patrol (Paracetamol and Tramadol)",
+	name: "Patrol",
 	country: "Indonesia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "PAT-tramadol/acet (Paracetamol and Tramadol)",
+	name: "PAT-tramadol/acet",
 	country: "Italy",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pax Dia (Paracetamol and Phenylephrine)",
+	name: "Pax Dia",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Paxmax (Paracetamol and Tramadol)",
+	name: "Paxmax",
 	country: "Colombia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pazital (Paracetamol and Tramadol)",
+	name: "Pazital",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "PB Poly-650 (Paracetamol and Phenyltoloxamine)",
+	name: "PB Poly-650",
 	country: "Spain",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "P-Dol (Paracetamol and Tramadol)",
+	name: "P-Dol",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pediatric Acetaminophen",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pediatric Aspirin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pediatrix",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pedicetamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pentaflu (Paracetamol and Doxylamine, + Dextromethorphan)",
+	name: "Pentaflu",
 	country: "Poland",
+	pair: "(Paracetamol and Doxylamine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Peraljin (Paracetamol and Caffeine)",
+	name: "Peraljin",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Percocet (Paracetamol and Oxycodone)",
+	name: "Percocet",
 	country: "Turkey",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Percogesic (Paracetamol and Diphenhydramine)",
+	name: "Percogesic",
 	country: "Israel",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Percogesic Extra Strength (Paracetamol and Diphenhydramine)",
+	name: "Percogesic Extra Strength",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Perdolan",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Perdolan Bébé (pediatric)",
+	name: "Perdolan Bébé",
 	country: "Belgium",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Perdolan Enfant (pediatric)",
+	name: "Perdolan Enfant",
 	country: "Belgium",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Perfalgan",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Perfalgan Kinder (pediatric)",
+	name: "Perfalgan Kinder",
 	country: "Egypt",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Perfalgan nourrissons et enfants (pediatric)",
+	name: "Perfalgan nourrissons et enfants",
 	country: "Switzerland",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Perfalgan Paediatric (pediatric)",
+	name: "Perfalgan Paediatric",
 	country: "Tunisia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pe-Tam",
 	country: "South Africa",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pharbetol",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pharbetol Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pharmacare Paracetamol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pharmadol",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pharmagrip (Paracetamol and Phenylephrine)",
+	name: "Pharmagrip",
 	country: "Turkey",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pharmaniaga Paracetamol",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Phen Plus (Paracetamol and Promethazine)",
+	name: "Phen Plus",
 	country: "Malaysia",
+	pair: "(Paracetamol and Promethazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Phenagesic (Paracetamol and Phenyltoloxamine)",
+	name: "Phenagesic",
 	country: "India",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Phenylephrine",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Phenylgesic (Paracetamol and Phenyltoloxamine)",
+	name: "Phenylgesic",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Phil Pharmawealth/Cipla Paracetamol",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Phil Pharmawealth/Oboi Paracetamol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Piant",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Picapan (Paracetamol and Caffeine)",
+	name: "Picapan",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pilinton (Paracetamol and Pseudoephedrine)",
+	name: "Pilinton",
 	country: "Singapore",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pinex",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pinex Comp. Forte (Paracetamol and Codeine)",
+	name: "Pinex Comp. Forte",
 	country: "Netherlands",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pinex Forte (Paracetamol and Codeine)",
+	name: "Pinex Forte",
 	country: "Iceland",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pinex Junior (pediatric)",
+	name: "Pinex Junior",
 	country: "Norway",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pinsu",
 	country: "Iceland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Piraldol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Piretamol (veterinary use)",
+	name: "Piretamol",
 	country: "Portugal",
+	pair: "(veterinary use)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pirigrip (Paracetamol and Chlorphenamine)",
+	name: "Pirigrip",
 	country: "Italy",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pirofen",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pirofen (Paracetamol and Phenobarbital)",
+	name: "Pirofen",
 	country: "Turkey",
+	pair: "(Paracetamol and Phenobarbital)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pirofen Pediatrik (pediatric)",
+	name: "Pirofen Pediatrik",
 	country: "Turkey",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Piros",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pleren (Paracetamol and Orphenadrine)",
+	name: "Pleren",
 	country: "Italy",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pleren Plus (Paracetamol and Orphenadrine)",
+	name: "Pleren Plus",
 	country: "Peru",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Plexicodim (Paracetamol and Oxycodone)",
+	name: "Plexicodim",
 	country: "Peru",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Plicet",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Plovacal",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Plusmol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "PM",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pmol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pmol Plus (Paracetamol and Codeine)",
+	name: "Pmol Plus",
 	country: "Oman",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "PMS-Acetaminophen",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "PMS-Acetaminophen with Codeine (Paracetamol and Codeine)",
+	name: "PMS-Acetaminophen with Codeine",
 	country: "Canada",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "PMS-Mexcold",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "PMS-Tramadol-Acet (Paracetamol and Tramadol)",
+	name: "PMS-Tramadol-Acet",
 	country: "Vietnam",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pokiton (Paracetamol and Chlormezanone)",
+	name: "Pokiton",
 	country: "Canada",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pol Plus (Paracetamol and Caffeine)",
+	name: "Pol Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Polmofen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Polmofen Pediatrik (pediatric)",
+	name: "Polmofen Pediatrik",
 	country: "Turkey",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Poltram Combo (Paracetamol and Tramadol)",
+	name: "Poltram Combo",
 	country: "Turkey",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pontalsic (Paracetamol and Tramadol)",
+	name: "Pontalsic",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pormus (Paracetamol and Orphenadrine)",
+	name: "Pormus",
 	country: "Spain",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Poro",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Poro (Paracetamol and Caffeine)",
+	name: "Poro",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Poro (pediatric)",
+	name: "Poro",
 	country: "Taiwan",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Portem",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Power Cold&Flu; (Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Power Cold&Flu;",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Powernac-L (Paracetamol and Lornoxicam)",
+	name: "Powernac-L",
 	country: "Egypt",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pracetam (veterinary use)",
+	name: "Pracetam",
 	country: "India",
+	pair: "(veterinary use)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pracetam 10% (veterinary use)",
+	name: "Pracetam 10%",
 	country: "United Kingdom",
+	pair: "(veterinary use)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pracetam 20% (veterinary use)",
+	name: "Pracetam 20%",
 	country: "Belgium",
+	pair: "(veterinary use)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pradonal (Paracetamol and Tramadol)",
+	name: "Pradonal",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Praxion",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Precicol (Paracetamol and Butylscopolamine)",
+	name: "Precicol",
 	country: "Indonesia",
+	pair: "(Paracetamol and Butylscopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Predual (Paracetamol and Pamabrom, + Mepyramine)",
+	name: "Predual",
 	country: "Mexico",
+	pair: "(Paracetamol and Pamabrom, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Predual D.I. (Paracetamol and Ibuprofen)",
+	name: "Predual D.I.",
 	country: "Chile",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Prest",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Primadol (Paracetamol and Metoclopramide)",
+	name: "Primadol",
 	country: "Netherlands",
+	pair: "(Paracetamol and Metoclopramide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Primlev (Paracetamol and Oxycodone)",
+	name: "Primlev",
 	country: "Indonesia",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Prindex Neo (Paracetamol and Chlorphenamine, + Phenylephrine)",
+	name: "Prindex Neo",
 	country: "United States",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pro dafalgan",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Prodeine (Paracetamol and Codeine)",
+	name: "Prodeine",
 	country: "Egypt",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Profenal (Paracetamol and Ibuprofen)",
+	name: "Profenal",
 	country: "Lithuania",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Progesic",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Prolop",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Prontalgine (Paracetamol and Caffeine, + Codeine)",
+	name: "Prontalgine",
 	country: "India",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pronto plus (Paracetamol and Caffeine)",
+	name: "Pronto plus",
 	country: "France",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Prontopyrin plus (Paracetamol and Caffeine)",
+	name: "Prontopyrin plus",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Propoxi-66 (Paracetamol and Dextropropoxyphene)",
+	name: "Propoxi-66",
 	country: "Germany",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Propyretic",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Protalgon",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Protamol (Paracetamol and Ibuprofen)",
+	name: "Protamol",
 	country: "Greece",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Proton",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Proton (Paracetamol and Caffeine)",
+	name: "Proton",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Proxalin-Plus (Paracetamol and Naproxen)",
+	name: "Proxalin-Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Proxyvon (Paracetamol and Dextropropoxyphene)",
+	name: "Proxyvon",
 	country: "Mexico",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ptr (Paracetamol and Tramadol)",
+	name: "Ptr",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pu Le Er",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pu Le Ning (Paracetamol and Caffeine)",
+	name: "Pu Le Ning",
 	country: "China",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pylinaton",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pyra Plus (Paracetamol and Caffeine)",
+	name: "Pyra Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyracon",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyral",
 	country: "Thailand",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pyral extra (Paracetamol and Caffeine)",
+	name: "Pyral extra",
 	country: "Oman",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyralgin",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pyredol (Paracetamol and Tramadol)",
+	name: "Pyredol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyremol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pyrenol (Paracetamol and Caffeine)",
+	name: "Pyrenol",
 	country: "Egypt",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyretinol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrex",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrexin",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyridol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrigesic",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrinazin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pyrinin (Paracetamol and Caffeine)",
+	name: "Pyrinin",
 	country: "Japan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrudom",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Pyrudon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Pythene (Paracetamol and Methionine)",
+	name: "Pythene",
 	country: "Taiwan",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Q-Pap",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Q-Pap Children's (pediatric)",
+	name: "Q-Pap Children's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Q-Pap Extra Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Q-Pap Infants (pediatric)",
+	name: "Q-Pap Infants",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Qual (Paracetamol and Dextropropoxyphene, + Diazepam)",
+	name: "Qual",
 	country: "United States",
+	pair: "(Paracetamol and Dextropropoxyphene, + Diazepam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Qualizep (Paracetamol and Salicylamide, + Chlorphenamine, + Phenylpropanolamine)",
+	name: "Qualizep",
 	country: "Mexico",
+	pair: "(Paracetamol and Salicylamide, + Chlorphenamine, + Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Quilnax Duo (Paracetamol and Naproxen)",
+	name: "Quilnax Duo",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Quramol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Racetram (Paracetamol and Tramadol)",
+	name: "Racetram",
 	country: "Sweden",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Racol (Paracetamol and Tramadol)",
+	name: "Racol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Radiflam-P (Paracetamol and Aceclofenac)",
+	name: "Radiflam-P",
 	country: "Portugal",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rampar (Paracetamol and Tramadol)",
+	name: "Rampar",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "RAN-Tramadol/Acet (Paracetamol and Tramadol)",
+	name: "RAN-Tramadol/Acet",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rapat (Paracetamol and Tramadol)",
+	name: "Rapat",
 	country: "Canada",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Rapedon",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rapicet (Paracetamol and Tramadol)",
+	name: "Rapicet",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Rapidol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ratio-Emtec-30 (Paracetamol and Codeine)",
+	name: "ratio-Emtec-30",
 	country: "Lithuania",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ratio-Lenoltec No. 1, 2 & 3 (Paracetamol and Caffeine, + Codeine)",
+	name: "ratio-Lenoltec No. 1, 2 & 3",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ratio-Lenoltec No. 4 (Paracetamol and Codeine)",
+	name: "ratio-Lenoltec No. 4",
 	country: "Canada",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ratio-Oxycocet (Paracetamol and Oxycodone)",
+	name: "ratio-Oxycocet",
 	country: "Canada",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Razimol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Reactive (Paracetamol and Chlorzoxazone)",
+	name: "Reactive",
 	country: "Oman",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Realifast",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Reanima (Paracetamol and Caffeine)",
+	name: "Reanima",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Recomol-A (Paracetamol and Aceclofenac)",
+	name: "Recomol-A",
 	country: "Argentina",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Refrianex (Paracetamol and Phenylephrine)",
+	name: "Refrianex",
 	country: "India",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Reh Nar Tong",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relagesic (Paracetamol and Phenyltoloxamine)",
+	name: "Relagesic",
 	country: "Taiwan",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relax (Paracetamol and Carisoprodol)",
+	name: "Relax",
 	country: "United States",
+	pair: "(Paracetamol and Carisoprodol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relax (Paracetamol and Chlorzoxazone)",
+	name: "Relax",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relaxiged (Paracetamol and Chlorzoxazone)",
+	name: "Relaxiged",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relaxon (Paracetamol and Chlorzoxazone)",
+	name: "Relaxon",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Relaxyl Plus (Paracetamol and Diclofenac)",
+	name: "Relaxyl Plus",
 	country: "Oman",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Relief",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Remedeine (Paracetamol and Dihydrocodeine)",
+	name: "Remedeine",
 	country: "Canada",
+	pair: "(Paracetamol and Dihydrocodeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Remedol",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Remidon (Paracetamol and Caffeine)",
+	name: "Remidon",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Remusdol (Paracetamol and Chlorzoxazone)",
+	name: "Remusdol",
 	country: "Turkey",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Renomet (Paracetamol and Dl-Methionine)",
+	name: "Renomet",
 	country: "Peru",
+	pair: "(Paracetamol and Dl-Methionine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Renova",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Renova Plus (Paracetamol and Caffeine)",
+	name: "Renova Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Renova-XR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Renox-A (Paracetamol and Lornoxicam)",
+	name: "Renox-A",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Resadol (Paracetamol and Tramadol)",
+	name: "Resadol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Reset",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Reset Plus (Paracetamol and Caffeine)",
+	name: "Reset Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Resolvebohm",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Restolax (Paracetamol and Ibuprofen)",
+	name: "Restolax",
 	country: "Spain",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Retherma",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Rexidol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhino C (Paracetamol and Chlorphenamine)",
+	name: "Rhino C",
 	country: "Philippines",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhinobos (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Rhinobos",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhinofebryl (Paracetamol and Chlorphenamine)",
+	name: "Rhinofebryl",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhinomol S (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Rhinomol S",
 	country: "Belgium",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhinostop (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Rhinostop",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhumacort (Paracetamol and Diclofenac)",
+	name: "Rhumacort",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rhumagrip (Paracetamol and Pseudoephedrine)",
+	name: "Rhumagrip",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Riabal (Paracetamol and Prifinium Bromide)",
+	name: "Riabal",
 	country: "Tunisia",
+	pair: "(Paracetamol and Prifinium Bromide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rinoven Compuesto (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Rinoven Compuesto",
 	country: "Indonesia",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ritemed Paracetamol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rivacocet (Paracetamol and Oxycodone)",
+	name: "Rivacocet",
 	country: "Philippines",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robaxacet (Paracetamol and Methocarbamol)",
+	name: "Robaxacet",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robaxacet Extra Strength (Paracetamol and Methocarbamol)",
+	name: "Robaxacet Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robaxacet-8 (Paracetamol and Methocarbamol, + Codeine)",
+	name: "Robaxacet-8",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robaxisal Compuesto (Paracetamol and Methocarbamol)",
+	name: "Robaxisal Compuesto",
 	country: "Canada",
+	pair: "(Paracetamol and Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robitussin Nasal Relief (Paracetamol and Phenylephrine)",
+	name: "Robitussin Nasal Relief",
 	country: "Spain",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robitussin Total Cough, Cold and Flu (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Robitussin Total Cough, Cold and Flu",
 	country: "United States",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Robitussin Total Cough, Cold and Flu Extra Strength (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Robitussin Total Cough, Cold and Flu Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rodinac Gesic (Paracetamol and Diclofenac)",
+	name: "Rodinac Gesic",
 	country: "Canada",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rosel (Paracetamol and Amantadine, + Chlorphenamine)",
+	name: "Rosel",
 	country: "Argentina",
+	pair: "(Paracetamol and Amantadine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rosel-T (Paracetamol and Amantadine, + Chlorphenamine)",
+	name: "Rosel-T",
 	country: "Mexico",
+	pair: "(Paracetamol and Amantadine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "ROTER Paracetamol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "ROTER Paracetamol Junior (pediatric)",
+	name: "ROTER Paracetamol Junior",
 	country: "Netherlands",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "ROTER Paracof (Paracetamol and Caffeine)",
+	name: "ROTER Paracof",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Roxicet (Paracetamol and Oxycodone)",
+	name: "Roxicet",
 	country: "Netherlands",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Roxilox (Paracetamol and Oxycodone)",
+	name: "Roxilox",
 	country: "United States",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Rubophen",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rubophen Thermo (Paracetamol and Phenylephrine)",
+	name: "Rubophen Thermo",
 	country: "Hungary",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rugby Aceta-Gesic (Paracetamol and Diphenhydramine)",
+	name: "Rugby Aceta-Gesic",
 	country: "Hungary",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Rugby Pain and Fever",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rugby Pain and Fever Children's (pediatric)",
+	name: "Rugby Pain and Fever Children's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Rugby Pain and Fever Relief Children's (pediatric)",
+	name: "Rugby Pain and Fever Relief Children's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sanador",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sanador Plus (Paracetamol and Caffeine)",
+	name: "Sanador Plus",
 	country: "Romania",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sanaflu (Paracetamol and Phenylpropanolamine)",
+	name: "Sanaflu",
 	country: "Romania",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sanalgin (Paracetamol and Caffeine)",
+	name: "Sanalgin",
 	country: "Indonesia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sanalgin N (Paracetamol and Caffeine)",
+	name: "Sanalgin N",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sandoz Oxycodone/Acetaminophen (Paracetamol and Oxycodone)",
+	name: "Sandoz Oxycodone/Acetaminophen",
 	country: "Switzerland",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sanicopyrine",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sanipirina",
 	country: "Belgium",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sanmol",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sanmol Child (pediatric)",
+	name: "Sanmol Child",
 	country: "Indonesia",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sanmol Forte",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sara",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Saridon (Paracetamol and Propyphenazone, + Caffeine)",
+	name: "Saridon",
 	country: "Vietnam",
+	pair: "(Paracetamol and Propyphenazone, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Saridon (Paracetamol and Propyphenazone)",
+	name: "Saridon",
 	country: "Spain",
+	pair: "(Paracetamol and Propyphenazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Saridon-N (Paracetamol and Propyphenazone, + Caffeine)",
+	name: "Saridon-N",
 	country: "Latvia",
+	pair: "(Paracetamol and Propyphenazone, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sarutu",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sarutu 2%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sarutu 20%",
 	country: "Japan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Satoncon (Paracetamol and Chlormezanone)",
+	name: "Satoncon",
 	country: "Japan",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Scanlon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Scopamin Plus (Paracetamol and Scopolamine)",
+	name: "Scopamin Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Scopma Plus (Paracetamol and Scopolamine)",
+	name: "Scopma Plus",
 	country: "Indonesia",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sedalmerck (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sedalmerck",
 	country: "Indonesia",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sedalmerck Flu (Paracetamol and Caffeine, + Brompheniramine)",
+	name: "Sedalmerck Flu",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine, + Brompheniramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sedalmerck Infantil",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sedalmerck Max (Paracetamol and Caffeine)",
+	name: "Sedalmerck Max",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sediton",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sedoloris (Paracetamol and Tramadol)",
+	name: "Sedoloris",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sensamol",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sensamol Junior (pediatric)",
+	name: "Sensamol Junior",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sensibit D (Paracetamol and Loratadine (pediatric))",
+	name: "Sensibit D",
 	country: "Israel",
+	pair: "(Paracetamol and Loratadine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sensibit D NF (Paracetamol and Loratadine, + Phenylephrine)",
+	name: "Sensibit D NF",
 	country: "El Salvador",
+	pair: "(Paracetamol and Loratadine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sensibit D NF Pediatrico (Paracetamol and Loratadine, + Phenylephrine (pediatric))",
+	name: "Sensibit D NF Pediatrico",
 	country: "Mexico",
+	pair: "(Paracetamol and Loratadine, + Phenylephrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sensidol-P (Paracetamol and Aceclofenac)",
+	name: "Sensidol-P",
 	country: "Mexico",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Serimol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Servigesic",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Setamol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Setopen",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sevedol (Paracetamol and Caffeine)",
+	name: "Sevedol",
 	country: "South Korea",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Shi Ning",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Shikenuoh",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Shinnac Plus (Paracetamol and Aceclofenac)",
+	name: "Shinnac Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Shu-Shan",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Silapap Children's (pediatric)",
+	name: "Silapap Children's",
 	country: "Taiwan",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Silapap Infants (pediatric)",
+	name: "Silapap Infants",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Simba-A (Paracetamol and Aceclofenac)",
+	name: "Simba-A",
 	country: "United States",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinalgen (Paracetamol and Hydrocodone)",
+	name: "Sinalgen",
 	country: "India",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sin-Algin (Paracetamol and Chlormezanone)",
+	name: "Sin-Algin",
 	country: "Colombia",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinapol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinaspril paracetamol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinebriv",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinebriv Analgesico e Antipiretico",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinebriv Febbre e Dolore",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinegrip (Paracetamol and Ascorbic Acid)",
+	name: "Sinegrip",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sine-Off (Paracetamol and Phenylephrine)",
+	name: "Sine-Off",
 	country: "Italy",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinergix (Paracetamol and Tramadol)",
+	name: "Sinergix",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinflu",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Singrips",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinmol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinofree (Paracetamol and Pseudoephedrine)",
+	name: "Sinofree",
 	country: "Spain",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sinomol",
 	country: "Oman",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinsolax (Paracetamol and Orphenadrine)",
+	name: "Sinsolax",
 	country: "Philippines",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinuclear (Paracetamol and Phenylpropanolamine)",
+	name: "Sinuclear",
 	country: "Taiwan",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinugesic (Paracetamol and Pseudoephedrine)",
+	name: "Sinugesic",
 	country: "South Africa",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinumax (Paracetamol and Pseudoephedrine)",
+	name: "Sinumax",
 	country: "South Africa",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinustat (Paracetamol and Phenylpropanolamine)",
+	name: "Sinustat",
 	country: "South Africa",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab (Paracetamol and Phenylpropanolamine, + Phenyltoloxamine)",
+	name: "Sinutab",
 	country: "South Africa",
+	pair: "(Paracetamol and Phenylpropanolamine, + Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab (Paracetamol and Pseudoephedrine)",
+	name: "Sinutab",
 	country: "Egypt",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Forte (Paracetamol and Pseudoephedrine)",
+	name: "Sinutab Forte",
 	country: "Belgium",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Nightime (Paracetamol and Pseudoephedrine, + Diphenhydramine)",
+	name: "Sinutab Nightime",
 	country: "Belgium",
+	pair: "(Paracetamol and Pseudoephedrine, + Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab NS (Paracetamol and Pseudoephedrine)",
+	name: "Sinutab NS",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Plus (Paracetamol and Phenylephrine)",
+	name: "Sinutab Plus",
 	country: "Peru",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Sinus (Paracetamol and Phenylephrine)",
+	name: "Sinutab Sinus",
 	country: "Colombia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Sinus (Paracetamol and Pseudoephedrine)",
+	name: "Sinutab Sinus",
 	country: "United States",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Sinus and Allergy (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Sinutab Sinus and Allergy",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab Sinus and Pain Relief (Paracetamol and Pseudoephedrine)",
+	name: "Sinutab Sinus and Pain Relief",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinutab with Codeine (Paracetamol and Pseudoephedrine, + Chlorphenamine, + Codeine)",
+	name: "Sinutab with Codeine",
 	country: "New Zealand",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sinuzip (Paracetamol and Phenylpropanolamine)",
+	name: "Sinuzip",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sistenol (Paracetamol and Acetylcysteine)",
+	name: "Sistenol",
 	country: "Philippines",
+	pair: "(Paracetamol and Acetylcysteine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Six Plus Parapaed",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Six Plus Parapaed (pediatric)",
+	name: "Six Plus Parapaed",
 	country: "New Zealand",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Skelaxine (Paracetamol and Chlorzoxazone)",
+	name: "Skelaxine",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Skelin (Paracetamol and Chlormezanone)",
+	name: "Skelin",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Snaplets-FR",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Socaine (Paracetamol and Chlormezanone)",
+	name: "Socaine",
 	country: "China",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Solax",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solax (Paracetamol and Chlorzoxazone)",
+	name: "Solax",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solfu (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Solfu",
 	country: "Taiwan",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Solikin",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadeine (Paracetamol and Caffeine, + Codeine)",
+	name: "Solpadeine",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadeine Headache (Paracetamol and Caffeine)",
+	name: "Solpadeine Headache",
 	country: "Estonia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadeine Max (Paracetamol and Caffeine, + Codeine)",
+	name: "Solpadeine Max",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadeine Max (Paracetamol and Codeine)",
+	name: "Solpadeine Max",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadeine Plus (Paracetamol and Caffeine, + Codeine)",
+	name: "Solpadeine Plus",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpadol (Paracetamol and Codeine)",
+	name: "Solpadol",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Solpasinus (Paracetamol and Pseudoephedrine)",
+	name: "Solpasinus",
 	country: "Malta",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sominex Pain Relief (Paracetamol and Diphenhydramine)",
+	name: "Sominex Pain Relief",
 	country: "Ireland",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sonchi",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sonchi (Paracetamol and Orphenadrine)",
+	name: "Sonchi",
 	country: "Taiwan",
+	pair: "(Paracetamol and Orphenadrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Soonansin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spasact (Paracetamol and Dicycloverine)",
+	name: "Spasact",
 	country: "Taiwan",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spashi Plus (Paracetamol and Scopolamine)",
+	name: "Spashi Plus",
 	country: "India",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spasmacine (Paracetamol and Scopolamine)",
+	name: "Spasmacine",
 	country: "Indonesia",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spasmend (Paracetamol and Mephenesin)",
+	name: "Spasmend",
 	country: "Indonesia",
+	pair: "(Paracetamol and Mephenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "SpasmHalt-8 (Paracetamol and Codeine, + Methocarbamol)",
+	name: "SpasmHalt-8",
 	country: "South Africa",
+	pair: "(Paracetamol and Codeine, + Methocarbamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spazmol (Paracetamol and Butylscopolamine)",
+	name: "Spazmol",
 	country: "Canada",
+	pair: "(Paracetamol and Butylscopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spazmol Plus (Paracetamol and Scopolamine)",
+	name: "Spazmol Plus",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Spazmotek Plus (Paracetamol and Scopolamine)",
+	name: "Spazmotek Plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Splentir (Paracetamol and Acetylsalicylic Acid, + Caffeine)",
+	name: "Splentir",
 	country: "Turkey",
+	pair: "(Paracetamol and Acetylsalicylic Acid, + Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "St Luke's Fever",
 	country: "Greece",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Staflex (Paracetamol and Phenyltoloxamine)",
+	name: "Staflex",
 	country: "Thailand",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Stagesic (Paracetamol and Hydrocodone)",
+	name: "Stagesic",
 	country: "United States",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Staricet (Paracetamol and Tramadol)",
+	name: "Staricet",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Starmol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Stednac (Paracetamol and Aceclofenac)",
+	name: "Stednac",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Stomax Compuesto (Paracetamol and Scopolamine)",
+	name: "Stomax Compuesto",
 	country: "India",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Stopalic",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Strenduo (Paracetamol and Tramadol)",
+	name: "Strenduo",
 	country: "Tunisia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "STS (Paracetamol and Alprazolam)",
+	name: "STS",
 	country: "Poland",
+	pair: "(Paracetamol and Alprazolam)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Su Ting",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed (Paracetamol and Pseudoephedrine)",
+	name: "Sudafed",
 	country: "China",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Congestion & Headache Relief Day & Night (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sudafed Congestion & Headache Relief Day & Night",
 	country: "Lithuania",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Congestion & Headache Relief Max Strength (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sudafed Congestion & Headache Relief Max Strength",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Day & Night (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sudafed Day & Night",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Head Cold and Sinus Extra Strength (Paracetamol and Pseudoephedrine)",
+	name: "Sudafed Head Cold and Sinus Extra Strength",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Mucus Relief Day & Night (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sudafed Mucus Relief Day & Night",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Mucus Relief Triple Action Cold & Flu (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Sudafed Mucus Relief Triple Action Cold & Flu",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed PE Sinus + Pain Relief (Paracetamol and Phenylephrine)",
+	name: "Sudafed PE Sinus + Pain Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed PE Sinus Headache (Paracetamol and Phenylephrine)",
+	name: "Sudafed PE Sinus Headache",
 	country: "New Zealand",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Sinus Max Strength (Paracetamol and Caffeine, + Phenylephrine)",
+	name: "Sudafed Sinus Max Strength",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudafed Sinus Pain Relief (Paracetamol and Pseudephedrine)",
+	name: "Sudafed Sinus Pain Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Pseudephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudaplus (Paracetamol and Pseudoephedrine)",
+	name: "Sudaplus",
 	country: "South Africa",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudhinol (Paracetamol and Dextropropoxyphene)",
+	name: "Sudhinol",
 	country: "Ireland",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sudo Flucet (Paracetamol and Ascorbic Acid, + Pseudoephedrine)",
+	name: "Sudo Flucet",
 	country: "India",
+	pair: "(Paracetamol and Ascorbic Acid, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Sufucon",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Suldex B",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Suldex-A",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sumo (Paracetamol and Nimesulide)",
+	name: "Sumo",
 	country: "Lebanon",
+	pair: "(Paracetamol and Nimesulide)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sunet Hton (Paracetamol and Codeine)",
+	name: "Sunet Hton",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Sunflu (Paracetamol and Caffeine, + Chlorphenamine, + Phenylephrine)",
+	name: "Sunflu",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine, + Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suntonin (Paracetamol and Chlormezanone)",
+	name: "Suntonin",
 	country: "Singapore",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suplax (Paracetamol and Mephenoxalone)",
+	name: "Suplax",
 	country: "Taiwan",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Supofen",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Suppol",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suppol Baby (pediatric)",
+	name: "Suppol Baby",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suppol Child (pediatric)",
+	name: "Suppol Child",
 	country: "India",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Supracalm",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Supracalm Duo (Paracetamol and Tramadol)",
+	name: "Supracalm Duo",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Supradol (Paracetamol and Tramadol)",
+	name: "Supradol",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Supramol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Supramol M Pediatric (pediatric)",
+	name: "Supramol M Pediatric",
 	country: "Israel",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suring (Paracetamol and Codeine)",
+	name: "Suring",
 	country: "Israel",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Suspen comp. (Paracetamol and Methionine)",
+	name: "Suspen comp.",
 	country: "Taiwan",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Suspen ER",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Su-Ton (Paracetamol and Mephenoxalone)",
+	name: "Su-Ton",
 	country: "South Korea",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Swispara (Paracetamol and Phenylephrine)",
+	name: "Swispara",
 	country: "Taiwan",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Symptomed Wick (Paracetamol and Phenylephrine)",
+	name: "Symptomed Wick",
 	country: "Estonia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Symtram (Paracetamol and Tramadol)",
+	name: "Symtram",
 	country: "Hungary",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Synalgesic (Paracetamol and Dicycloverine)",
+	name: "Synalgesic",
 	country: "Poland",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Syncol (Paracetamol and Mepyramine, + Pamabrom)",
+	name: "Syncol",
 	country: "India",
+	pair: "(Paracetamol and Mepyramine, + Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Syncol Max (Paracetamol and Caffeine, + Mepyramine)",
+	name: "Syncol Max",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Syncol Nocturno (Paracetamol and Diphenhydramine)",
+	name: "Syncol Nocturno",
 	country: "Mexico",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Syncol Teen (Paracetamol and Pamabrom (pediatric))",
+	name: "Syncol Teen",
 	country: "Mexico",
+	pair: "(Paracetamol and Pamabrom (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Syndol Headache Relief (Paracetamol and Caffeine, + Codeine)",
+	name: "Syndol Headache Relief",
 	country: "Mexico",
+	pair: "(Paracetamol and Caffeine, + Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Synerjet (Paracetamol and Tramadol)",
+	name: "Synerjet",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Synerjet ER (Paracetamol and Tramadol)",
+	name: "Synerjet ER",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Synerjet Semi (Paracetamol and Tramadol)",
+	name: "Synerjet Semi",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Synerjet-ER (Paracetamol and Tramadol)",
+	name: "Synerjet-ER",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tabcin (Paracetamol and Phenylephrine)",
+	name: "Tabcin",
 	country: "South Korea",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tabcin Caliente",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tachicaf (Paracetamol and Caffeine)",
+	name: "Tachicaf",
 	country: "Argentina",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tachifludec (Paracetamol and Ascorbic Acid, + Phenylephrine)",
+	name: "Tachifludec",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tachinotte (Paracetamol and Promethazine, + Dextromethorphan)",
+	name: "Tachinotte",
 	country: "Italy",
+	pair: "(Paracetamol and Promethazine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tachipirina",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tafirol",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tafirol (pediatric)",
+	name: "Tafirol",
 	country: "Argentina",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tafirol Artro (Paracetamol and Diclofenac)",
+	name: "Tafirol Artro",
 	country: "Argentina",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tafirol Forte",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tafirol Mujer (Paracetamol and Scopolamine)",
+	name: "Tafirol Mujer",
 	country: "Argentina",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tai Ke (Paracetamol and Amantadine)",
+	name: "Tai Ke",
 	country: "Argentina",
+	pair: "(Paracetamol and Amantadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tailening (Paracetamol and Oxycodone)",
+	name: "Tailening",
 	country: "China",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Takipirina",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Talgo",
 	country: "Portugal",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Talgo Codeina (Paracetamol and Codeine)",
+	name: "Talgo Codeina",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tallsea (Paracetamol and Mephenoxalone)",
+	name: "Tallsea",
 	country: "Spain",
+	pair: "(Paracetamol and Mephenoxalone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Talvosilen (Paracetamol and Codeine)",
+	name: "Talvosilen",
 	country: "Taiwan",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "talvosilen (Paracetamol and Codeine)",
+	name: "talvosilen",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Talvosilen Forte (Paracetamol and Codeine)",
+	name: "Talvosilen Forte",
 	country: "Germany",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "talvosilen für Kleinkinder (Paracetamol and Codeine (pediatric))",
+	name: "talvosilen für Kleinkinder",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Codeine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "talvosilen für Schulkinder (Paracetamol and Codeine (pediatric))",
+	name: "talvosilen für Schulkinder",
 	country: "Germany",
+	pair: "(Paracetamol and Codeine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tamen",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tamen-X (Paracetamol and Caffeine)",
+	name: "Tamen-X",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tamol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tamol pediatrik (pediatric)",
+	name: "Tamol pediatrik",
 	country: "Turkey",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tamol Plus",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tamol Plus (Paracetamol and Caffeine)",
+	name: "Tamol Plus",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tamoliv",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tandamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "T-Apracur",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin (Paracetamol and Caffeine)",
+	name: "Tapsin",
 	country: "Argentina",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Dia (Paracetamol and Ascorbic Acid, + Caffeine, + Noscapine)",
+	name: "Tapsin Dia",
 	country: "Peru",
+	pair: "(Paracetamol and Ascorbic Acid, + Caffeine, + Noscapine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Forte (Paracetamol and Caffeine)",
+	name: "Tapsin Forte",
 	country: "Chile",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Infantil (pediatric)",
+	name: "Tapsin Infantil",
 	country: "Chile",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Infantil sin Cafeina (pediatric)",
+	name: "Tapsin Infantil sin Cafeina",
 	country: "Chile",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Nocturno (Paracetamol and Chlorphenamine)",
+	name: "Tapsin Nocturno",
 	country: "Peru",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsin Periodo (Paracetamol and Mepyramine, + Pamabrom)",
+	name: "Tapsin Periodo",
 	country: "Chile",
+	pair: "(Paracetamol and Mepyramine, + Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tapsin Puro Paracetamol",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsininstaflu (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Tapsininstaflu",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tapsininstaflu Dia Y Noche (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Tapsininstaflu Dia Y Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Taramol-DT (Paracetamol and Tramadol)",
+	name: "Taramol-DT",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Taspen ER",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tatanol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tatanol Children (pediatric)",
+	name: "Tatanol Children",
 	country: "Vietnam",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tatanol Forte",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Teedex (Paracetamol and Diphenhydramine)",
+	name: "Teedex",
 	country: "Vietnam",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Temen",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Temol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tempgesic (Paracetamol and Methionine)",
+	name: "Tempgesic",
 	country: "Vietnam",
+	pair: "(Paracetamol and Methionine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tempidol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tempol",
 	country: "Estonia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tempol Plus (Paracetamol and Caffeine)",
+	name: "Tempol Plus",
 	country: "Malaysia",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Temporal",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tempra",
 	country: "Egypt",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tempra Forte",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tempte",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Temrif Plus (Paracetamol and Caffeine)",
+	name: "Temrif Plus",
 	country: "Taiwan",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tencon (Paracetamol and Butalbital)",
+	name: "Tencon",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Butalbital)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tendorex (Paracetamol and Chlorzoxazone)",
+	name: "Tendorex",
 	country: "United States",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tensiflex (Paracetamol and Chlorzoxazone)",
+	name: "Tensiflex",
 	country: "Peru",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tenzonine (Paracetamol and Chlormezanone)",
+	name: "Tenzonine",
 	country: "Ecuador",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Teralgex NF",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Teramol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termacet",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termacet Plus",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termagon",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Termaldina Codeina (Paracetamol and Codeine)",
+	name: "Termaldina Codeina",
 	country: "Indonesia",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termalgin",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Termalgin Codeina (Paracetamol and Codeine)",
+	name: "Termalgin Codeina",
 	country: "Spain",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Termalgin Infantil (pediatric)",
+	name: "Termalgin Infantil",
 	country: "Spain",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Termalgine Plus (Paracetamol and Caffeine)",
+	name: "Termalgine Plus",
 	country: "Spain",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termifen",
 	country: "Turkey",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termofin",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termofren",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termolin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Termo-Niofen (Paracetamol and Ibuprofen)",
+	name: "Termo-Niofen",
 	country: "Peru",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Termorex",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tespamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Teva-Tramadol/Acetaminophen (Paracetamol and Tramadol)",
+	name: "Teva-Tramadol/Acetaminophen",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tevitamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "T-Gesic (Paracetamol and Hydrocodone)",
+	name: "T-Gesic",
 	country: "Slovenia",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Théinol (Paracetamol and Caffeine)",
+	name: "Théinol",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Thera lo",
 	country: "France",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Theraflu",
 	country: "Egypt",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Daytime (Paracetamol and Phenylephrine)",
+	name: "Theraflu Daytime",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu ExtraGRIP (Paracetamol and Pheniramine, + Phenylephrine)",
+	name: "Theraflu ExtraGRIP",
 	country: "South Korea",
+	pair: "(Paracetamol and Pheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Flu & Chest Congestion (Paracetamol and Guaifenesin)",
+	name: "Theraflu Flu & Chest Congestion",
 	country: "Poland",
+	pair: "(Paracetamol and Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Theraflu Grip",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu ND (Paracetamol and Pseudoephedrine, + Dextromethorphan)",
+	name: "Theraflu ND",
 	country: "Poland",
+	pair: "(Paracetamol and Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Nighttime (Paracetamol and Pheniramine, + Phenylephrine)",
+	name: "Theraflu Nighttime",
 	country: "Estonia",
+	pair: "(Paracetamol and Pheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu NT (Paracetamol and Chlorphenamine, + Pseudoephedrine, + Dextromethorphan)",
+	name: "Theraflu NT",
 	country: "South Korea",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "TheraFlu prechladnutie a chrípka (Paracetamol and Ascorbic Acid, + Phenylephrine, + Pheniramine)",
+	name: "TheraFlu prechladnutie a chrípka",
 	country: "Estonia",
+	pair: "(Paracetamol and Ascorbic Acid, + Phenylephrine, + Pheniramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Przeziebienie (Paracetamol and Pseudoephedrine)",
+	name: "Theraflu Przeziebienie",
 	country: "Slovakia",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Sinus (Paracetamol and Phenylephrine)",
+	name: "Theraflu Sinus",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu SN (Paracetamol and Pseudoephedrine)",
+	name: "Theraflu SN",
 	country: "Romania",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Theraflu Zatoki (Paracetamol and Phenylephrine)",
+	name: "Theraflu Zatoki",
 	country: "Estonia",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Therimin",
 	country: "Poland",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Thomapyrin (Paracetamol and Acetylsalicylic Acid)",
+	name: "Thomapyrin",
 	country: "Sweden",
+	pair: "(Paracetamol and Acetylsalicylic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tianruite (Paracetamol and Caffeine)",
+	name: "Tianruite",
 	country: "Germany",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tilderol Forte (Paracetamol and Chlorzoxazone)",
+	name: "Tilderol Forte",
 	country: "China",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Timarol-Par (Paracetamol and Tramadol)",
+	name: "Timarol-Par",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tinten",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tipol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tiptipot Novimol",
 	country: "Malta",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Titretta (Paracetamol and Codeine)",
+	name: "Titretta",
 	country: "Israel",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tizafen (Paracetamol and Tizanidine)",
+	name: "Tizafen",
 	country: "Germany",
+	pair: "(Paracetamol and Tizanidine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tolydol (Paracetamol and Tramadol)",
+	name: "Tolydol",
 	country: "Colombia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tomim (Paracetamol and Tramadol)",
+	name: "Tomim",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tomin (Paracetamol and Tramadol)",
+	name: "Tomin",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tong Li Tuo (Paracetamol and Dextropropoxyphene)",
+	name: "Tong Li Tuo",
 	country: "Portugal",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tong-Well (Paracetamol and Dextropropoxyphene)",
+	name: "Tong-Well",
 	country: "China",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Toniker",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tonoflex (Paracetamol and Chlorzoxazone)",
+	name: "Tonoflex",
 	country: "Taiwan",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tonphen",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Topnac-P (Paracetamol and Aceclofenac)",
+	name: "Topnac-P",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Topras (Paracetamol and Phenylpropanolamine)",
+	name: "Topras",
 	country: "India",
+	pair: "(Paracetamol and Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Totamol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tozy (Paracetamol andCaffeine)",
+	name: "Tozy",
 	country: "Thailand",
+	pair: "(Paracetamol andCaffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tracan (Paracetamol and Tramadol)",
+	name: "Tracan",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tracemol (Paracetamol and Tramadol)",
+	name: "Tracemol",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tracet (Paracetamol and Tramadol)",
+	name: "Tracet",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traceta (Paracetamol and Tramadol)",
+	name: "Traceta",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tradiol (Paracetamol and Tramadol)",
+	name: "Tradiol",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tradocomp (Paracetamol and Tramadol)",
+	name: "Tradocomp",
 	country: "Panama",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tral P (Paracetamol and Tramadol)",
+	name: "Tral P",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tralex (Paracetamol and Tramadol)",
+	name: "Tralex",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tralidar Genfar (Paracetamol and Tramadol)",
+	name: "Tralidar Genfar",
 	country: "Colombia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tralino (Paracetamol and Tramadol)",
+	name: "Tralino",
 	country: "Ecuador",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramacet (Paracetamol and Tramadol)",
+	name: "Tramacet",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Abbott (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Abbott",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Actavis France (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Actavis France",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Arrow (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Arrow",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Biogaran (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Biogaran",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Cristers (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Cristers",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracetamol EG (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracetamol EG",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol EG Labo (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol EG Labo",
 	country: "Belgium",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Evolugen (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Evolugen",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Krka (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Krka",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracetamol Mylan (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracetamol Mylan",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Mylan Pharma (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Mylan Pharma",
 	country: "Belgium",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Ranbaxy Pharmacie Generiques (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Ranbaxy Pharmacie Generiques",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Sandoz (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Sandoz",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracetamol Teva (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracetamol Teva",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Teva (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Teva",
 	country: "Belgium",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Zentiva (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Zentiva",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol / Paracétamol Zydus (Paracetamol and Tramadol)",
+	name: "Tramadol / Paracétamol Zydus",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Acetaminofén MK (Paracetamol and Tramadol)",
+	name: "Tramadol + Acetaminofén MK",
 	country: "France",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Actavis (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Actavis",
 	country: "Colombia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Apotex (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Apotex",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Aurobindo (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Aurobindo",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Bene (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Bene",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Bluepharma (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Bluepharma",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Bluescience (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Bluescience",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Brown (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Brown",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Ciclum (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Ciclum",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Codramol (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Codramol",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Farmalider (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Farmalider",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Generis (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Generis",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Genoptim (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Genoptim",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Krka (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Krka",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Labesfal (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Labesfal",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Litexil (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Litexil",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Mepha (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Mepha",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Mer (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Mer",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Mylan (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Mylan",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Pharmakern (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Pharmakern",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Sandoz (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Sandoz",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Stada (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Stada",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Substipharm (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Substipharm",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Tad (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Tad",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol toLife (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol toLife",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol + Paracetamol Zentiva (Paracetamol and Tramadol)",
+	name: "Tramadol + Paracetamol Zentiva",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Aurobindo (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol Aurobindo",
 	country: "Portugal",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol CF (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol CF",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Mylan (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol Mylan",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol ratiopharm (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol ratiopharm",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Sandoz (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol Sandoz",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Teva (Paracetamol and Tramadol)",
+	name: "Tramadol HCl/Paracetamol Teva",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol Hydrochloride + Paracetamol Bristol Laboratories (Paracetamol and Tramadol)",
+	name: "Tramadol Hydrochloride + Paracetamol Bristol Laboratories",
 	country: "Netherlands",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol hydrochloride/Paracetamol (Paracetamol and Tramadol)",
+	name: "Tramadol hydrochloride/Paracetamol",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol Plus Helvepharm (Paracetamol and Tramadol)",
+	name: "Tramadol Plus Helvepharm",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol plus Spirig HC (Paracetamol and Tramadol)",
+	name: "Tramadol plus Spirig HC",
 	country: "Switzerland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Acet (Paracetamol and Tramadol)",
+	name: "Tramadol/Acet",
 	country: "Switzerland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Abamed (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Abamed",
 	country: "Canada",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Actavis (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Actavis",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Alter (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Alter",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Apotex (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Apotex",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Aurobindo (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Aurobindo",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Cinfa (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Cinfa",
 	country: "Malta",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Combix (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Combix",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Davur (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Davur",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Disphar (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Disphar",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Farmalider (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Farmalider",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Kern Pharma (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Kern Pharma",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Krka (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Krka",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Mabo (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Mabo",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Mundogen (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Mundogen",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Mylan (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Mylan",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Normon (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Normon",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Pensa (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Pensa",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol PharmaS (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol PharmaS",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol PharmaSwiss (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol PharmaSwiss",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Qualigen (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Qualigen",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Ratiopharm (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Ratiopharm",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Sandoz (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Sandoz",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Saneca (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Saneca",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Stada (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Stada",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Stadagen (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Stadagen",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Tarbis (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Tarbis",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Tecnigen (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Tecnigen",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol/Paracetamol Teva (Paracetamol and Tramadol)",
+	name: "Tramadol/Paracetamol Teva",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadolhydrochlorid/Paracetamol STADA (Paracetamol and Tramadol hydrochloride)",
+	name: "Tramadolhydrochlorid/Paracetamol STADA",
 	country: "Spain",
+	pair: "(Paracetamol and Tramadol hydrochloride)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadolor Plus (Paracetamol and Tramadol)",
+	name: "Tramadolor Plus",
 	country: "Germany",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol-Paracetamol Sandoz (Paracetamol and Tramadol)",
+	name: "Tramadol-Paracetamol Sandoz",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadol-Paracetamol-Mepha (Paracetamol and Tramadol)",
+	name: "Tramadol-Paracetamol-Mepha",
 	country: "Switzerland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadolten Plus (Paracetamol and Tramadol)",
+	name: "Tramadolten Plus",
 	country: "Switzerland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramadox (Paracetamol and Tramadol)",
+	name: "Tramadox",
 	country: "Argentina",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramagesic (Paracetamol and Tramadol)",
+	name: "Tramagesic",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramalex-P (Paracetamol and Tramadol)",
+	name: "Tramalex-P",
 	country: "Vietnam",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramapar (Paracetamol and Tramadol)",
+	name: "Tramapar",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramapran (Paracetamol and Tramadol)",
+	name: "Tramapran",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramarol ER (Paracetamol and Tramadol)",
+	name: "Tramarol ER",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramarol Semi ER (Paracetamol and Tramadol)",
+	name: "Tramarol Semi ER",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramateg Plus (Paracetamol and Tramadol)",
+	name: "Tramateg Plus",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramazac Co (Paracetamol and Tramadol)",
+	name: "Tramazac Co",
 	country: "El Salvador",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramcet (Paracetamol and Tramadol)",
+	name: "Tramcet",
 	country: "South Africa",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramedif Compuesto (Paracetamol and Tramadol)",
+	name: "Tramedif Compuesto",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramil (Paracetamol and Caffeine)",
+	name: "Tramil",
 	country: "Peru",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traminofenol (Paracetamol and Tramadol)",
+	name: "Traminofenol",
 	country: "Ireland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramp (Paracetamol and Tramadol)",
+	name: "Tramp",
 	country: "Peru",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trampar (Paracetamol and Tramadol)",
+	name: "Trampar",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramset (Paracetamol and Tramadol)",
+	name: "Tramset",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tramylpa (Paracetamol and Tramadol)",
+	name: "Tramylpa",
 	country: "Indonesia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Transic-P (Paracetamol and Tramadol)",
+	name: "Transic-P",
 	country: "Slovakia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trapalin (Paracetamol and Tramadol)",
+	name: "Trapalin",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trapar (Paracetamol and Tramadol)",
+	name: "Trapar",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traphen ER (Paracetamol and Tramadol)",
+	name: "Traphen ER",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traphen Semi ER (Paracetamol and Tramadol)",
+	name: "Traphen Semi ER",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trapsure-P (Paracetamol and Tramadol)",
+	name: "Trapsure-P",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traspen (Paracetamol and Tramadol)",
+	name: "Traspen",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traspen Semi (Paracetamol and Tramadol)",
+	name: "Traspen Semi",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Traumobol (Paracetamol and Tramadol)",
+	name: "Traumobol",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "TRD-P (Paracetamol and Tramadol)",
+	name: "TRD-P",
 	country: "Romania",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Trekpleister Kinderparacetamol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Trekpleister Paracetamol",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trekpleister Paracetamol met coffeine (Paracetamol and Caffeine)",
+	name: "Trekpleister Paracetamol met coffeine",
 	country: "Netherlands",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Treupel NF",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Triaminic Cold, Cough & Fever (Paracetamol and Dextromethorphan, + Chlorphenamine, + Pseudoephedrine)",
+	name: "Triaminic Cold, Cough & Fever",
 	country: "Peru",
+	pair: "(Paracetamol and Dextromethorphan, + Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Triaminic Cough & Sore Throat (Paracetamol and Dextromethorphan)",
+	name: "Triaminic Cough & Sore Throat",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Triaminic Flu (Paracetamol and Pheniramine, + Phenylephrine)",
+	name: "Triaminic Flu",
 	country: "Canada",
+	pair: "(Paracetamol and Pheniramine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Triaminic Infants' Fever Reducer/Pain Reliever (pediatric)",
+	name: "Triaminic Infants' Fever Reducer/Pain Reliever",
 	country: "Italy",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Trifen",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "TriFlunex (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "TriFlunex",
 	country: "Brazil",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trigan-D (Paracetamol and Dicycloverine)",
+	name: "Trigan-D",
 	country: "Estonia",
+	pair: "(Paracetamol and Dicycloverine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trilat (Paracetamol and Tramadol)",
+	name: "Trilat",
 	country: "Georgia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trimed Flu (Paracetamol and Pseudoephedrine, + Loratadine)",
+	name: "Trimed Flu",
 	country: "Peru",
+	pair: "(Paracetamol and Pseudoephedrine, + Loratadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trioval (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Trioval",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trioval Dia y Noche (Paracetamol and Chlorphenamine, + Pseudoephedrine)",
+	name: "Trioval Dia y Noche",
 	country: "Chile",
+	pair: "(Paracetamol and Chlorphenamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Trofel Plus (Paracetamol and Tramadol)",
+	name: "Trofel Plus",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tro-P (Paracetamol and Etoricoxib)",
+	name: "Tro-P",
 	country: "India",
+	pair: "(Paracetamol and Etoricoxib)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tsufonlol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tuflam (Paracetamol and Aceclofenac)",
+	name: "Tuflam",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Turpan",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tuseran Forte (Paracetamol and Dextromethorphan, + Phenylpropanolamine)",
+	name: "Tuseran Forte",
 	country: "Indonesia",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylpropanolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tutus (Paracetamol and Tramadol)",
+	name: "Tutus",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "TWC (Paracetamol and Codeine)",
+	name: "TWC",
 	country: "Czech Republic",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ty",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tycolene P.M. (Paracetamol and Diphenhydramine)",
+	name: "Tycolene P.M.",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylen",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylen Plus (Paracetamol and Caffeine)",
+	name: "Tylen Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Acetaminophen",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Allergy Extra Strength (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Tylenol Allergy Extra Strength",
 	country: "China",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Arthritis Pain",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Arthritis Pain Extended Release",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Chest Congestion (Paracetamol and Guaifenesin)",
+	name: "Tylenol Chest Congestion",
 	country: "Canada",
+	pair: "(Paracetamol and Guaifenesin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol child. (pediatric)",
+	name: "Tylenol child.",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's (pediatric)",
+	name: "Tylenol Children's",
 	country: "Egypt",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Cold & Cough Nighttime (Paracetamol and Diphenhydramine, + Dextromethorphan (pediatric))",
+	name: "Tylenol Children's Cold & Cough Nighttime",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine, + Dextromethorphan (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Cold & Stuffy Nose (Paracetamol and Pseudoephedrine (pediatric))",
+	name: "Tylenol Children's Cold & Stuffy Nose",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Cold (Paracetamol and Pseudoephedrine, + Chlorphenamine (pediatric))",
+	name: "Tylenol Children's Cold",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Cold and Cough (Paracetamol and Pseudoephedrine, + Chlorphenamine, + Dextromethorphan (pediatric))",
+	name: "Tylenol Children's Cold and Cough",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine, + Dextromethorphan (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Complete Cold, Cough & Fever (Paracetamol and Pseudoephedrine, + Chlorphenamine, + Dextromethorphan (pediatric))",
+	name: "Tylenol Children's Complete Cold, Cough & Fever",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine, + Dextromethorphan (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Children's Complete Cold, Cough & Fever Nighttime (Paracetamol and Diphenhydramine, + Dextromethorphan (pediatric))",
+	name: "Tylenol Children's Complete Cold, Cough & Fever Nighttime",
 	country: "Canada",
+	pair: "(Paracetamol and Diphenhydramine, + Dextromethorphan (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cold & Sinus Daytime Extra Strength (Paracetamol and Pseudoephedrine)",
+	name: "Tylenol Cold & Sinus Daytime Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cold & Sinus Nighttime Extra Strength (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Tylenol Cold & Sinus Nighttime Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cold (Paracetamol and Dextromethorphan, + Pseudoephedrine)",
+	name: "Tylenol Cold",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cold Extra Strength Daytime (Paracetamol and Dextromethorphan, + Phenylephrine)",
+	name: "Tylenol Cold Extra Strength Daytime",
 	country: "Egypt",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cold Extra Strength Nighttime (Paracetamol and Dextromethorphan, + Phenylephrine, + Chlorphenamine)",
+	name: "Tylenol Cold Extra Strength Nighttime",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Cough (Paracetamol and Dextromethorphan)",
+	name: "Tylenol Cough",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol DC (Paracetamol and Caffeine)",
+	name: "Tylenol DC",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Extra Strength",
 	country: "Brazil",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Extra Strength Nighttime (Paracetamol and Diphenhydramine)",
+	name: "Tylenol Extra Strength Nighttime",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Extra Strength Rapid Release",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Flu Extra Strength Daytime (Paracetamol and Dextromethorphan, + Phenylephrine)",
+	name: "Tylenol Flu Extra Strength Daytime",
 	country: "United States",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Flu Extra Strength Nighttime (Paracetamol and Dextromethorphan, + Phenylephrine, + Chlorphenamine)",
+	name: "Tylenol Flu Extra Strength Nighttime",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Forte",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol infant (pediatric)",
+	name: "Tylenol infant",
 	country: "Oman",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Infants' (Paracetamol and Phenylephrine)",
+	name: "Tylenol Infants'",
 	country: "Egypt",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Infant's (pediatric)",
+	name: "Tylenol Infant's",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Infants' (pediatric)",
+	name: "Tylenol Infants'",
 	country: "Canada",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Jr. (pediatric)",
+	name: "Tylenol Jr.",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Junior (pediatric)",
+	name: "Tylenol Junior",
 	country: "United States",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Kinder (pediatric)",
+	name: "Tylenol Kinder",
 	country: "Canada",
+	pair: "(pediatric)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Menstrual Extra Strength (Paracetamol and Pamabrom, + Mepyramine)",
+	name: "Tylenol Menstrual Extra Strength",
 	country: "Switzerland",
+	pair: "(Paracetamol and Pamabrom, + Mepyramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Migraine Pain (Paracetamol and Caffeine)",
+	name: "Tylenol Migraine Pain",
 	country: "Canada",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Muscle Aches & Body Pain Extended Release",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol PM (Paracetamol and Diphenhydramine)",
+	name: "Tylenol PM",
 	country: "Canada",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Regular Strength",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Severe Allergy (Paracetamol and Diphenhydramine)",
+	name: "Tylenol Severe Allergy",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Congestion & Pain (Paracetamol and Phenylephrine)",
+	name: "Tylenol Sinus Congestion & Pain",
 	country: "United States",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Extra Strength Daytime (Paracetamol and Phenylephrine)",
+	name: "Tylenol Sinus Extra Strength Daytime",
 	country: "United States",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Extra Strength Nighttime (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Tylenol Sinus Extra Strength Nighttime",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Non-Drowsy (Paracetamol andPseudoephedrine)",
+	name: "Tylenol Sinus Non-Drowsy",
 	country: "Canada",
+	pair: "(Paracetamol andPseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Pain and Congestion Daytime Extra Strength (Paracetamol and Pseudoephedrine)",
+	name: "Tylenol Sinus Pain and Congestion Daytime Extra Strength",
 	country: "United States",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sinus Pain and Congestion Nighttime Extra Strength (Paracetamol and Pseudoephedrine, + Chlorphenamine)",
+	name: "Tylenol Sinus Pain and Congestion Nighttime Extra Strength",
 	country: "Canada",
+	pair: "(Paracetamol and Pseudoephedrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylenol Sore Throat",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol Sore Throat Nighttime (Paracetamol and Diphenhydramine)",
+	name: "Tylenol Sore Throat Nighttime",
 	country: "United States",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylenol with Codeine (Paracetamol and Codeine)",
+	name: "Tylenol with Codeine",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylephen",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylex",
 	country: "Brazil",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylex (Paracetamol and Codeine)",
+	name: "Tylex",
 	country: "Mexico",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylicol ER",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylol Cold (Paracetamol and Dextromethorphan, + Chlorphenamin, + Pseudoephedrine)",
+	name: "Tylol Cold",
 	country: "Bulgaria",
+	pair: "(Paracetamol and Dextromethorphan, + Chlorphenamin, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylol Hot (Paracetamol and Chlorphenamin, + Pseudoephedrine)",
+	name: "Tylol Hot",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Chlorphenamin, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylol Hot Pediatric (Paracetamol and Chlorphenamin, + Pseudoephedrine (pediatric))",
+	name: "Tylol Hot Pediatric",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Chlorphenamin, + Pseudoephedrine (pediatric))",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylol Plus (Paracetamol and Caffeine)",
+	name: "Tylol Plus",
 	country: "Bosnia & Herzegowina",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Tylol-6 Plus",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tylox (Paracetamol and Oxycodone)",
+	name: "Tylox",
 	country: "Turkey",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Tynol-MF (Paracetamol and Mefenamic Acid)",
+	name: "Tynol-MF",
 	country: "United States",
+	pair: "(Paracetamol and Mefenamic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ty-Plus (Paracetamol and Caffeine)",
+	name: "Ty-Plus",
 	country: "India",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "U Chiu Analgesic (Paracetamol and Caffeine)",
+	name: "U Chiu Analgesic",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ucetamol",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "U-comphen (Paracetamol and Dextropropoxyphene)",
+	name: "U-comphen",
 	country: "Georgia",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultinac (Paracetamol and Aceclofenac)",
+	name: "Ultinac",
 	country: "Taiwan",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultinac-P (Paracetamol and Aceclofenac)",
+	name: "Ultinac-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultracet (Paracetamol and Tramadol)",
+	name: "Ultracet",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultracod (Paracetamol and Codeine)",
+	name: "Ultracod",
 	country: "China",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultracod (Paracetamol and Pracetamol)",
+	name: "Ultracod",
 	country: "Romania",
+	pair: "(Paracetamol and Pracetamol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultraflam (Paracetamol and Diclofenac)",
+	name: "Ultraflam",
 	country: "Latvia",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ultragesic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Ultragin",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultram (Paracetamol and Tramadol)",
+	name: "Ultram",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultra-Met (Paracetamol and Tramadol)",
+	name: "Ultra-Met",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultra-Met Semi (Paracetamol and Tramadol)",
+	name: "Ultra-Met Semi",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Ultrazac (Paracetamol and Tramadol)",
+	name: "Ultrazac",
 	country: "South Korea",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Umbral",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "UN-Aspirin Extra Strength",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Unebril",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Uni-Febrin",
 	country: "Spain",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Unigan (Paracetamol and Scopolamine)",
+	name: "Unigan",
 	country: "Hong Kong",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Unimol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Unisom PM Pain (Paracetamol and Diphenhydramine)",
+	name: "Unisom PM Pain",
 	country: "Thailand",
+	pair: "(Paracetamol and Diphenhydramine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Uphadol Extra (Paracetamol and Caffeine)",
+	name: "Uphadol Extra",
 	country: "United States",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Uphamol",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Urgendol-P (Paracetamol and Tramadol)",
+	name: "Urgendol-P",
 	country: "Malaysia",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Valorin",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Valuca Plus (Paracetamol and Diclofenac)",
+	name: "Valuca Plus",
 	country: "United States",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Value Health Cold Relief",
 	country: "Argentina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Value Health Cold Relief (Paracetamol and Ascorbic Acid)",
+	name: "Value Health Cold Relief",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Valus-AP (Paracetamol and Aceclofenac)",
+	name: "Valus-AP",
 	country: "United Kingdom",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vardol-Plus (Paracetamol and Tramadol)",
+	name: "Vardol-Plus",
 	country: "India",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Varfen-Plus (Paracetamol and Aceclofenac)",
+	name: "Varfen-Plus",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vegaskine (Paracetamol and Phenylpropanolamine, + Phenobarbital, + Chlorphenamine)",
+	name: "Vegaskine",
 	country: "India",
+	pair: "(Paracetamol and Phenylpropanolamine, + Phenobarbital, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Veloss (Paracetamol and Chlorzoxazone)",
+	name: "Veloss",
 	country: "Egypt",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Velpro-P (Paracetamol and Promethazine)",
+	name: "Velpro-P",
 	country: "Peru",
+	pair: "(Paracetamol and Promethazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Veramon (Paracetamol and Propyphenazone)",
+	name: "Veramon",
 	country: "India",
+	pair: "(Paracetamol and Propyphenazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Vermidon",
 	country: "Italy",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vermidon (Paracetamol and Caffeine)",
+	name: "Vermidon",
 	country: "Turkey",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vesalion Gesic (Paracetamol and Diclofenac)",
+	name: "Vesalion Gesic",
 	country: "Turkey",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vestil-A (Paracetamol and Prochlorperazine)",
+	name: "Vestil-A",
 	country: "Argentina",
+	pair: "(Paracetamol and Prochlorperazine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vetory-P (Paracetamol and Aceclofenac)",
+	name: "Vetory-P",
 	country: "India",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Vick Vitapyrena",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks Cold & Flu Care Medinite (Paracetamol and Dextromethorphan, + Doxylamine, + Pseudoephedrine)",
+	name: "Vicks Cold & Flu Care Medinite",
 	country: "Argentina",
+	pair: "(Paracetamol and Dextromethorphan, + Doxylamine, + Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks DayQuil (Paracetamol and Dextromethorphan, + Phenylephrine)",
+	name: "Vicks DayQuil",
 	country: "Malta",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks DayQuil Complete (Paracetamol and Guaifenesin, + Dextromethorphan, + Phenylephrine)",
+	name: "Vicks DayQuil Complete",
 	country: "Canada",
+	pair: "(Paracetamol and Guaifenesin, + Dextromethorphan, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks DayQuil Sinex (Paracetamol and Phenylephrine)",
+	name: "Vicks DayQuil Sinex",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks DayQuil Sinus (Paracetamol and Phenylephrine)",
+	name: "Vicks DayQuil Sinus",
 	country: "United States",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks Flu Tripla Azione (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Vicks Flu Tripla Azione",
 	country: "Canada",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks Grippal C (Paracetamol and Ascorbic Acid)",
+	name: "Vicks Grippal C",
 	country: "Italy",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks MediNait (Paracetamol and Dextromethorphan, + Doxylamine, + Ephedrine)",
+	name: "Vicks MediNait",
 	country: "Switzerland",
+	pair: "(Paracetamol and Dextromethorphan, + Doxylamine, + Ephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks Medinait (Paracetamol and Dextromethorphan, + Doxylamine)",
+	name: "Vicks Medinait",
 	country: "Switzerland",
+	pair: "(Paracetamol and Dextromethorphan, + Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks NyQuil Cold & Flu Nighttime Relief (Paracetamol and Dextromethorphan, + Doxylamine)",
+	name: "Vicks NyQuil Cold & Flu Nighttime Relief",
 	country: "Italy",
+	pair: "(Paracetamol and Dextromethorphan, + Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks NyQuil Complete (Paracetamol and Dextromethorphan, + Phenylephrine, Doxylamine)",
+	name: "Vicks NyQuil Complete",
 	country: "Canada",
+	pair: "(Paracetamol and Dextromethorphan, + Phenylephrine, Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks NyQuil Sinus (Paracetamol and Phenylephrine, + Doxylamine)",
+	name: "Vicks NyQuil Sinus",
 	country: "Canada",
+	pair: "(Paracetamol and Phenylephrine, + Doxylamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Vicks Paracetamol",
 	country: "Canada",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks SymptoMed (Paracetamol and Guaifenesin, + Phenylephrine)",
+	name: "Vicks SymptoMed",
 	country: "Netherlands",
+	pair: "(Paracetamol and Guaifenesin, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicks SymptoMed Max (Paracetamol and Phenylephrine, + Chlorphenamine)",
+	name: "Vicks SymptoMed Max",
 	country: "Poland",
+	pair: "(Paracetamol and Phenylephrine, + Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vicodin (Paracetamol and Hydrocodone)",
+	name: "Vicodin",
 	country: "Poland",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Virulex Forte (Paracetamol and Moroxydine, + Atropine, + Scopolamine)",
+	name: "Virulex Forte",
 	country: "United States",
+	pair: "(Paracetamol and Moroxydine, + Atropine, + Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Vitapyrena",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vitapyrena Forte (Paracetamol and Phenylephrine)",
+	name: "Vitapyrena Forte",
 	country: "Peru",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vitapyrena Plus (Paracetamol and Phenylephrine)",
+	name: "Vitapyrena Plus",
 	country: "Peru",
+	pair: "(Paracetamol and Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vivimed (Paracetamol and Caffeine)",
+	name: "Vivimed",
 	country: "Peru",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vivimed mit Coffein (Paracetamol and Caffeine)",
+	name: "Vivimed mit Coffein",
 	country: "Austria",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Vivimed N",
 	country: "Germany",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vivogesic Plus (Paracetamol and Diclofenac)",
+	name: "Vivogesic Plus",
 	country: "Germany",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vopac (Paracetamol and Codeine)",
+	name: "Vopac",
 	country: "India",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Vovenac Plus (Paracetamol and Diclofenac)",
+	name: "Vovenac Plus",
 	country: "United States",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Wick (Paracetamol and Doxylamine, + Ephedrine, + Dextromethorphan)",
+	name: "Wick",
 	country: "India",
+	pair: "(Paracetamol and Doxylamine, + Ephedrine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Winace (Paracetamol and Aceclofenac)",
+	name: "Winace",
 	country: "Austria",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Winadeine (Paracetamol and Codein)",
+	name: "Winadeine",
 	country: "India",
+	pair: "(Paracetamol and Codein)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Winadeine F (Paracetamol and Codein)",
+	name: "Winadeine F",
 	country: "Peru",
+	pair: "(Paracetamol and Codein)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Winadol",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Winadol Forte (Paracetamol and Codein)",
+	name: "Winadol Forte",
 	country: "Colombia",
+	pair: "(Paracetamol and Codein)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Winasorb",
 	country: "Colombia",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Winasorb Flex (Paracetamol and Chlorzoxazone)",
+	name: "Winasorb Flex",
 	country: "El Salvador",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Witte Kruis (Paracetamol and Caffeine)",
+	name: "Witte Kruis",
 	country: "Chile",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Womankit (Paracetamol and Pamabrom)",
+	name: "Womankit",
 	country: "Netherlands",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Women's Tylenol Menstrual Relief (Paracetamol and Pamabrom)",
+	name: "Women's Tylenol Menstrual Relief",
 	country: "Egypt",
+	pair: "(Paracetamol and Pamabrom)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Wygesic (Paracetamol and Dextropropoxyphene)",
+	name: "Wygesic",
 	country: "United States",
+	pair: "(Paracetamol and Dextropropoxyphene)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xcel",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xcel (Paracetamol and Tramadol)",
+	name: "Xcel",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xcel DT",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xcel Plus (Paracetamol and Caffeine)",
+	name: "Xcel Plus",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xedenol Gesic (Paracetamol and Diclofenac)",
+	name: "Xedenol Gesic",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Diclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xelita (Paracetamol and Tramadol)",
+	name: "Xelita",
 	country: "Argentina",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xenodol (Paracetamol and Aceclofenac)",
+	name: "Xenodol",
 	country: "Ecuador",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xenoplus (Paracetamol and Naproxen)",
+	name: "Xenoplus",
 	country: "India",
+	pair: "(Paracetamol and Naproxen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xepamol",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xilor-P (Paracetamol and Lornoxicam)",
+	name: "Xilor-P",
 	country: "Indonesia",
+	pair: "(Paracetamol and Lornoxicam)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xin Ai De (Paracetamol and Pseudoephedrine)",
+	name: "Xin Ai De",
 	country: "India",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xing Le Ning",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "XL-3 (Paracetamol and Chlorphenamine, + Phenylephrine)",
+	name: "XL-3",
 	country: "China",
+	pair: "(Paracetamol and Chlorphenamine, + Phenylephrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "XL-3 Vr (Paracetamol and Chlorphenamine, + Amantadine)",
+	name: "XL-3 Vr",
 	country: "Mexico",
+	pair: "(Paracetamol and Chlorphenamine, + Amantadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "XL-3 Xtra (Paracetamol and Chlorphenamine, + Dextromethorphan)",
+	name: "XL-3 Xtra",
 	country: "Mexico",
+	pair: "(Paracetamol and Chlorphenamine, + Dextromethorphan)",
 	ingredient: "paracetamol"
 },
 {
 	name: "XL-Dol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xodol (Paracetamol and Hydrocodone)",
+	name: "Xodol",
 	country: "Mexico",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xolox (Paracetamol and Oxycodone)",
+	name: "Xolox",
 	country: "United States",
+	pair: "(Paracetamol and Oxycodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xpa",
 	country: "United States",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "XPA-C (Paracetamol and Caffeine)",
+	name: "XPA-C",
 	country: "Myanmar",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xpa-XR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "X-Ray Dol (Paracetamol and Ascorbic Acid, + Chondroitin)",
+	name: "X-Ray Dol",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Ascorbic Acid, + Chondroitin)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Xtragesic-A.F. (Paracetamol and Ibuprofen)",
+	name: "Xtragesic-A.F.",
 	country: "Mexico",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Xumadol",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Yi Di Qing",
 	country: "Chile",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Yi Li Miao",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Yi Shang",
 	country: "China",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "You Ka Dan (Paracetamol and Amantadine)",
+	name: "You Ka Dan",
 	country: "China",
+	pair: "(Paracetamol and Amantadine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Your Pharmacy Paracetamol Plus (Paracetamol and Codeine)",
+	name: "Your Pharmacy Paracetamol Plus",
 	country: "China",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Yu An Li Ke (Paracetamol and Pseudoephedrine)",
+	name: "Yu An Li Ke",
 	country: "New Zealand",
+	pair: "(Paracetamol and Pseudoephedrine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Yu-Min (Paracetamol and Chlormezanone)",
+	name: "Yu-Min",
 	country: "China",
+	pair: "(Paracetamol and Chlormezanone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zafin (Paracetamol and Tramadol)",
+	name: "Zafin",
 	country: "Taiwan",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zafor (Paracetamol and Chlorzoxazone)",
+	name: "Zafor",
 	country: "Peru",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zaldiar (Paracetamol and Tramadol)",
+	name: "Zaldiar",
 	country: "Oman",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zaledor-P (Paracetamol and Tramadol)",
+	name: "Zaledor-P",
 	country: "Poland",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zamadol-P (Paracetamol and Tramadol)",
+	name: "Zamadol-P",
 	country: "Chile",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zamicet (Paracetamol and Hydrocodone)",
+	name: "Zamicet",
 	country: "India",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zapain (Paracetamol and Codeine)",
+	name: "Zapain",
 	country: "United States",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zaracet (Paracetamol and Tramadol)",
+	name: "Zaracet",
 	country: "Malta",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Zatrin",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zatrin Compositum (Paracetamol and Scopolamine)",
+	name: "Zatrin Compositum",
 	country: "Peru",
+	pair: "(Paracetamol and Scopolamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zatrin Rexal (Paracetamol and Chlorzoxazone)",
+	name: "Zatrin Rexal",
 	country: "Peru",
+	pair: "(Paracetamol and Chlorzoxazone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Zerin",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zerinoflu (Paracetamol and Chlorphenamine, + Ascorbic Acid)",
+	name: "Zerinoflu",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Chlorphenamine, + Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zerinol (Paracetamol and Chlorphenamine)",
+	name: "Zerinol",
 	country: "Italy",
+	pair: "(Paracetamol and Chlorphenamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zerin-XP (Paracetamol and Caffeine)",
+	name: "Zerin-XP",
 	country: "Italy",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zerodol-P (Paracetamol and Aceclofenac)",
+	name: "Zerodol-P",
 	country: "Bangladesh",
+	pair: "(Paracetamol and Aceclofenac)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Zestagesic",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zeuseff (Paracetamol and Codeine)",
+	name: "Zeuseff",
 	country: "Philippines",
+	pair: "(Paracetamol and Codeine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zflex (Paracetamol and Phenyltoloxamine)",
+	name: "Zflex",
 	country: "Italy",
+	pair: "(Paracetamol and Phenyltoloxamine)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zilpen (Paracetamol and Tramadol)",
+	name: "Zilpen",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zita (Paracetamol and Caffeine)",
+	name: "Zita",
 	country: "Portugal",
+	pair: "(Paracetamol and Caffeine)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Z-Mol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
 	name: "Zolben",
 	country: "Peru",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zolben C (Paracetamol and Ascorbic Acid)",
+	name: "Zolben C",
 	country: "Switzerland",
+	pair: "(Paracetamol and Ascorbic Acid)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zolvit (Paracetamol and Hydrocodone)",
+	name: "Zolvit",
 	country: "Switzerland",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zotramid (Paracetamol and Tramadol)",
+	name: "Zotramid",
 	country: "United States",
+	pair: "(Paracetamol and Tramadol)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zupar (Paracetamol and Ibuprofen)",
+	name: "Zupar",
 	country: "Croatia (Hrvatska)",
+	pair: "(Paracetamol and Ibuprofen)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Zuton",
 	country: "India",
+	pair: "",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
-	name: "Zydone (Paracetamol and Hydrocodone)",
+	name: "Zydone",
 	country: "Taiwan",
+	pair: "(Paracetamol and Hydrocodone)",
 	ingredient: "paracetamol"
 },
 {
 	name: "Acugesic",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Acuvin (Tramadol and Paracetamol)",
+	name: "Acuvin",
 	country: "Pakistan",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Adamon",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Alkafen (Tramadol and Paracetamol)",
+	name: "Alkafen",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Amadol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Amadol SR",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Amanda",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Analgan Tram (Tramadol and Paracetamol)",
+	name: "Analgan Tram",
 	country: "Thailand",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Analtram (Tramadol and Paracetamol)",
+	name: "Analtram",
 	country: "Colombia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Apolus (Tramadol and Paracetamol)",
+	name: "Apolus",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Apo-Tramadol/Acet (Tramadol and Paracetamol)",
+	name: "Apo-Tramadol/Acet",
 	country: "Ecuador",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Aproxol Plus (Tramadol and Paracetamol)",
+	name: "Aproxol Plus",
 	country: "Hong Kong",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Astradol",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Astradol LP",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Bestodol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Calmic (Tramadol and Paracetamol)",
+	name: "Calmic",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Cetradol (Tramadol and Paracetamol)",
+	name: "Cetradol",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Clocinol (Tramadol and Paracetamol)",
+	name: "Clocinol",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal SR",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Didol-P (Tramadol and Paracetamol)",
+	name: "Didol-P",
 	country: "Egypt",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolantag (Tramadol and Paracetamol)",
+	name: "Dolantag",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Doliprane Pro (Tramadol and Paracetamol)",
+	name: "Doliprane Pro",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolmeri-P (Tramadol and Paracetamol)",
+	name: "Dolmeri-P",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolnix forte (Tramadol and Ketorolac)",
+	name: "Dolnix forte",
 	country: "India",
+	pair: "(Tramadol and Ketorolac)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolocet (Tramadol and Paracetamol)",
+	name: "Dolocet",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolocet Extra (Tramadol and Paracetamol)",
+	name: "Dolocet Extra",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Dologesic (Tramadol and Paracetamol)",
+	name: "Dologesic",
 	country: "Lebanon",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolsic",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Doreta (Tramadol and Paracetamol)",
+	name: "Doreta",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Duodol (Tramadol and Paracetamol)",
+	name: "Duodol",
 	country: "Slovakia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Esgipyrin-T (Tramadol and Paracetamol)",
+	name: "Esgipyrin-T",
 	country: "Colombia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Fada Tramadol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Fortadol (Tramadol and Paracetamol)",
+	name: "Fortadol",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Freze (Tramadol and Paracetamol)",
+	name: "Freze",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Glimadol (Tramadol and Paracetamol)",
+	name: "Glimadol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Lodam",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Mabron retard",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Madol",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Madol-P (Tramadol and Paracetamol)",
+	name: "Madol-P",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Madol-SR",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Murtrum",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Napadol (Tramadol and Paracetamol)",
+	name: "Napadol",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Nomal",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Nonalges",
 	country: "Oman",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Novodol (Tramadol and Paracetamol)",
+	name: "Novodol",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Omodol (Tramadol and Paracetamol)",
+	name: "Omodol",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Opatram",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Opatram Duo (Tramadol and Paracetamol)",
+	name: "Opatram Duo",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Opdol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Opdol (Tramadol and Paracetamol)",
+	name: "Opdol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Painadol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Painadol-P (Tramadol and Paracetamol)",
+	name: "Painadol-P",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paratramol (Tramadol and Paracetamol)",
+	name: "Paratramol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Patral (Tramadol and Paracetamol)",
+	name: "Patral",
 	country: "Slovakia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paxmax (Tramadol and Paracetamol)",
+	name: "Paxmax",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ptr (Tramadol and Paracetamol)",
+	name: "Ptr",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Pyredol (Tramadol and Paracetamol)",
+	name: "Pyredol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Racetram (Tramadol and Paracetamol)",
+	name: "Racetram",
 	country: "Vietnam",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Resadol (Tramadol and Paracetamol)",
+	name: "Resadol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Sensitram",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Sinergix (Tramadol and Paracetamol)",
+	name: "Sinergix",
 	country: "Brazil",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Souladol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Supracalm Duo (Tramadol and Paracetamol)",
+	name: "Supracalm Duo",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Supradol (Tramadol and Paracetamol)",
+	name: "Supradol",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tamol",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Taramol-DT (Tramadol and Paracetamol)",
+	name: "Taramol-DT",
 	country: "Egypt",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Taxidol (Tramadol and Aceclofenac)",
+	name: "Taxidol",
 	country: "India",
+	pair: "(Tramadol and Aceclofenac)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tolydol (Tramadol and Paracetamol)",
+	name: "Tolydol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tomin (Tramadol and Paracetamol)",
+	name: "Tomin",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Toram",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tracet (Tramadol and Paracetamol)",
+	name: "Tracet",
 	country: "Croatia (Hrvatska)",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Traceta (Tramadol and Paracetamol)",
+	name: "Traceta",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tralex (Tramadol and Paracetamol)",
+	name: "Tralex",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralgit SR",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trama SR",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramabene",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramacat",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramacet (Tramadol and Paracetamol)",
+	name: "Tramacet",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramacontin",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadis",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Alkaloid",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol amriya",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Farmal",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Farmal retard",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Farmindustria",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Genfar",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Indo Farma",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Jaka",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Lek",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Memphis",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol MK",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Normon",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol october",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Actavis",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Slovakofarma",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Synteza",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Vitalis",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Winthrop",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol PharmaSwiss (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol PharmaSwiss",
 	country: "Colombia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolio EP",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-M",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo ABC",
 	country: "Georgia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolor",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadolor Plus (Tramadol and Paracetamol)",
+	name: "Tramadolor Plus",
 	country: "Serbia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Zdorovie",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadox (Tramadol and Paracetamol)",
+	name: "Tramadox",
 	country: "Georgia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramaflash",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramafort",
 	country: "Serbia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramagit",
 	country: "Serbia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal Rapide",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal Retard",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal retard",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramalex-P (Tramadol and Paracetamol)",
+	name: "Tramalex-P",
 	country: "Tunisia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramalex-SR",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramax",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramazac",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramcet (Tramadol and Paracetamol)",
+	name: "Tramcet",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Traminofenol (Tramadol and Paracetamol)",
+	name: "Traminofenol",
 	country: "Slovakia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Trampar (Tramadol and Paracetamol)",
+	name: "Trampar",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tram-Proxyvon",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundin retard",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramylpa (Tramadol and Paracetamol)",
+	name: "Tramylpa",
 	country: "Egypt",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Transic",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Transic-P (Tramadol and Paracetamol)",
+	name: "Transic-P",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Trany",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Trapalin (Tramadol and Paracetamol)",
+	name: "Trapalin",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Trapar (Tramadol and Paracetamol)",
+	name: "Trapar",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Traumasik",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Traumobol (Tramadol and Paracetamol)",
+	name: "Traumobol",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Trilat (Tramadol and Paracetamol)",
+	name: "Trilat",
 	country: "Romania",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Trodon",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Trofel Plus (Tramadol and Paracetamol)",
+	name: "Trofel Plus",
 	country: "Bosnia & Herzegowina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Typhon",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultracet (Tramadol and Paracetamol)",
+	name: "Ultracet",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Ultradol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ultram",
 	country: "Egypt",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultram (Tramadol and Paracetamol)",
+	name: "Ultram",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Urgendol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Urgendol-XL",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Vardol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Xcel (Tramadol and Paracetamo)",
+	name: "Xcel",
 	country: "India",
+	pair: "(Tramadol and Paracetamo)",
 	ingredient: "tramadol"
 },
 {
-	name: "Xelita (Tramadol and Paracetamol)",
+	name: "Xelita",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Zafin (Tramadol and Paracetamol)",
+	name: "Zafin",
 	country: "Ecuador",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Zaldiar (Tramadol and Paracetamol)",
+	name: "Zaldiar",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Zaracet (Tramadol and Paracetamol)",
+	name: "Zaracet",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zodol",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zotramid (Tramadol and Paracetamol)",
+	name: "Zotramid",
 	country: "Ecuador",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Acetram (Tramadol and Paracetamol)",
+	name: "Acetram",
 	country: "Bosnia & Herzegowina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Acugesic",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Acutral (Tramadol and Paracetamol)",
+	name: "Acutral",
 	country: "Malaysia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Acutral Effervescent (Tramadol and Paracetamol)",
+	name: "Acutral Effervescent",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Adamon",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Adamon long retard",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Adamon SR",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Admadol",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Adolan",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Adolonta",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Adolonta Retard",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Adorlan (Tramadol and Diclofenac)",
+	name: "Adorlan",
 	country: "Spain",
+	pair: "(Tramadol and Diclofenac)",
 	ingredient: "tramadol"
 },
 {
 	name: "Akedolox",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Algesia (Tramadol and Paracetamol)",
+	name: "Algesia",
 	country: "Bulgaria",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Algotra (Tramadol and Paracetamol)",
+	name: "Algotra",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Altadol (veterinary use)",
+	name: "Altadol",
 	country: "Belgium",
+	pair: "(veterinary use)",
 	ingredient: "tramadol"
 },
 {
-	name: "Amacet (Tramadol and Paracetamol)",
+	name: "Amacet",
 	country: "Italy",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Amadol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Amadol SR",
 	country: "Trinidad & Tobago",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Amaryll",
 	country: "Kenya",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "An Tian",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Anadol",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Anadol-SR",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Analab",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Analgex",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Analgex SAP (Tramadol and Paracetamol)",
+	name: "Analgex SAP",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Anangor",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ana-Q",
 	country: "Brazil",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Anatra (Tramadol and Paracetamol)",
+	name: "Anatra",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "ApoPatram (Tramadol and Paracetamol)",
+	name: "ApoPatram",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Apo-Tramadol/Acet (Tramadol and Paracetamol)",
+	name: "Apo-Tramadol/Acet",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Arrow Tramadol",
 	country: "Canada",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Austell-Tramadol",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Bei Pin",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Betram",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Bing Ning",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Biodalgic",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Boldol",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Calmador",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Calmador Plus (Tramadol and Paracetamol)",
+	name: "Calmador Plus",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Calmador-calmardor",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Camadol",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Camigesik",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Centrasic",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ceparidin",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Cetadol (Tramadol and Paracetamol (pediatric))",
+	name: "Cetadol",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol (pediatric))",
 	ingredient: "tramadol"
 },
 {
-	name: "Cetamadol (Tramadol and Paracetamol)",
+	name: "Cetamadol",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Cetodol (Tramadol and Paracetamol)",
+	name: "Cetodol",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Cetra (Tramadol and Paracetamol)",
+	name: "Cetra",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Chemmart Tramadol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Clocinol (Tramadol and Paracetamol)",
+	name: "Clocinol",
 	country: "Australia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Clomadol",
 	country: "Latvia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Cloq",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Cloq plus (Tramadol and Paracetamol)",
+	name: "Cloq plus",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Contram",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal LP",
 	country: "Hungary",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal retard",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Contramal Uno",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "ConZip",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Corsadol",
 	country: "United States",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Cronus (Tramadol and Paracetamol)",
+	name: "Cronus",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Curidol (Tramadol and Paracetamol)",
+	name: "Curidol",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Da Ma Err",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Dalmatrol Plus (Tramadol and Paracetamol)",
+	name: "Dalmatrol Plus",
 	country: "China",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Delparan (Tramadol and Paracetamol)",
+	name: "Delparan",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Diliban (Tramadol and Paracetamol)",
+	name: "Diliban",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolan",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolana",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolcet (Tramadol and Paracetamol)",
+	name: "Dolcet",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Doletam (Tramadol and Paracetamol)",
+	name: "Doletam",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolgesik",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolinof (Tramadol and Paracetamol)",
+	name: "Dolinof",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolmal",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolocap",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolodol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolol",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Dolonat (Tramadol and Paracetamol)",
+	name: "Dolonat",
 	country: "Denmark",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolonil",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolonil-SR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Doloran",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolorex",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Doloten (Tramadol and Paracetamol)",
+	name: "Doloten",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolotral",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolotram",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolozide",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolpar",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolpaz",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Doltrahex",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolzam",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolzam Retard",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Dolzam Uno",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Domadol",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Domatra Plus (Tramadol and Paracetamol)",
+	name: "Domatra Plus",
 	country: "South Africa",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Doreta (Tramadol and Paracetamol)",
+	name: "Doreta",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Dorless",
 	country: "Slovenia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Dotramol (Tramadol and Paracetamol)",
+	name: "Dotramol",
 	country: "Brazil",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Duocetz (Tramadol and Paracetamol)",
+	name: "Duocetz",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Durela",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Exbol (Tramadol and Paracetamol)",
+	name: "Exbol",
 	country: "Canada",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Fastdol (Tramadol and Paracetamol)",
+	name: "Fastdol",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Fastfen (Tramadol and Paracetamol)",
+	name: "Fastfen",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Feng Tong Ding",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Flamotram-P (Tramadol and Paracetamol)",
+	name: "Flamotram-P",
 	country: "China",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Forcedol (Tramadol and Ketorolac)",
+	name: "Forcedol",
 	country: "India",
+	pair: "(Tramadol and Ketorolac)",
 	ingredient: "tramadol"
 },
 {
 	name: "Forgesic",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Fortradol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Foxis (Tramadol and Paracetamol)",
+	name: "Foxis",
 	country: "Italy",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Gelotradol",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Gelotralib",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Gemadol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Gemadol Retard",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Gesidol",
 	country: "Denmark",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Gesitram",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Hantracet (Tramadol and Paracetamol)",
+	name: "Hantracet",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Hua Jie Wei",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Hua Qu",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Hycephen (Tramadol and Paracetamol)",
+	name: "Hycephen",
 	country: "China",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ibudol (Tramadol and Ibuprofen)",
+	name: "Ibudol",
 	country: "Hong Kong",
+	pair: "(Tramadol and Ibuprofen)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ibudol+ (Tramadol and Paracetamol)",
+	name: "Ibudol+",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ibudol-MR (Tramadol and Chlorzoxazone)",
+	name: "Ibudol-MR",
 	country: "India",
+	pair: "(Tramadol and Chlorzoxazone)",
 	ingredient: "tramadol"
 },
 {
 	name: "Imadol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Indol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Ixprim (Tramadol and Paracetamol)",
+	name: "Ixprim",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "K-Alma",
 	country: "Ireland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Kamadol",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Katrasic",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Kolibri (Tramadol and Paracetamol)",
+	name: "Kolibri",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Koridol",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Le Shi Pu Kang",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Limadol",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Linerol (Tramadol and Paracetamol)",
+	name: "Linerol",
 	country: "Taiwan",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Lucidol",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Lumidol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Lumidol retard",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Lupratac (Tramadol and Paracetamol)",
+	name: "Lupratac",
 	country: "Croatia (Hrvatska)",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Mabron",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Mabron MR",
 	country: "Singapore",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Mabron retard",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Mandolgin",
 	country: "Malta",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Manol",
 	country: "Denmark",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Manol Plus (Tramadol and Paracetamol)",
+	name: "Manol Plus",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Matradol",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Maxitram SR",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Megacet (Tramadol and Paracetamol)",
+	name: "Megacet",
 	country: "United Kingdom",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Metagesic (Tramadol and Paracetamol)",
+	name: "Metagesic",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Milador",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Minidol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Minidol Plus (Tramadol and Paracetamol)",
+	name: "Minidol Plus",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "MNS",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Monoalgic LP",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Monocrixo LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Monotramal LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Morphine Hydrochloride NBCD",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Muaction",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Muzox (Tramadol and Chlorzoxazone)",
+	name: "Muzox",
 	country: "Taiwan",
+	pair: "(Tramadol and Chlorzoxazone)",
 	ingredient: "tramadol"
 },
 {
 	name: "Nao Tai",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Naxodol",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Naxodol Plus (Tramadol and Paracetamol)",
+	name: "Naxodol Plus",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Neutram",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Neutram-P (Tramadol and Paracetamol)",
+	name: "Neutram-P",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Nidesef (Tramadol and Gabapentin)",
+	name: "Nidesef",
 	country: "India",
+	pair: "(Tramadol and Gabapentin)",
 	ingredient: "tramadol"
 },
 {
 	name: "Noax",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Noax uno",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Nobligan",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Nobligan retard",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Nor-dol (Tramadol and Paracetamol)",
+	name: "Nor-dol",
 	country: "Sweden",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Novadol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Nutram (Tramadol and Paracetamol)",
+	name: "Nutram",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Opidol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Orasic",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Oratram",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Orozamudol",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Orphen (Tramadol and Paracetamol)",
+	name: "Orphen",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Oxxalgan PR",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Padolten (Tramadol and Paracetamol)",
+	name: "Padolten",
 	country: "Greece",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Painlax",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Palgotal (Tramadol and Paracetamol)",
+	name: "Palgotal",
 	country: "Taiwan",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Palotrem (Tramadol and Paracetamol)",
+	name: "Palotrem",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paramacet (Tramadol and Paracetamol)",
+	name: "Paramacet",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paramacet Semi (Tramadol and Paracetamol)",
+	name: "Paramacet Semi",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paratram (Tramadol and Paracetamol)",
+	name: "Paratram",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Paratramol (Tramadol and Paracetamol)",
+	name: "Paratramol",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Parcotram (Tramadol and Paracetamol)",
+	name: "Parcotram",
 	country: "Bulgaria",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Patrol (Tramadol and Paracetamol)",
+	name: "Patrol",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "PAT-tramadol/acet (Tramadol and Paracetamol)",
+	name: "PAT-tramadol/acet",
 	country: "Italy",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Paxilfar",
 	country: "Canada",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Paxmax",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Pazital (Tramadol and Paracetamol)",
+	name: "Pazital",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "P-Dol (Tramadol and Paracetamol)",
+	name: "P-Dol",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Pengesic",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Pengesic SR",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Penimadol",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Peptrad",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Phil Pharmawealth/Karnataka Tramadol Hydrochloride",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Pinorec",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "PMS-Tramadol-Acet (Tramadol and Paracetamol)",
+	name: "PMS-Tramadol-Acet",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Poltram",
 	country: "Canada",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Poltram Combo (Tramadol and Paracetamol)",
+	name: "Poltram Combo",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Poltram Retard",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Pontalsic (Tramadol and Paracetamol)",
+	name: "Pontalsic",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Postadol",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Pradonal (Tramadol and Paracetamol)",
+	name: "Pradonal",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Prontalgin",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Prontofort",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Protradon",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Pyredol (Tramadol and Paracetamol)",
+	name: "Pyredol",
 	country: "Lithuania",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Qi Zhi",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Qimaite",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Qu Feng",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Qu Ming (pediatric)",
+	name: "Qu Ming",
 	country: "China",
+	pair: "(pediatric)",
 	ingredient: "tramadol"
 },
 {
 	name: "Qu Teng",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Qu Tong Kang",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Qutong",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Racetram",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Racol (Tramadol and Paracetamol)",
+	name: "Racol",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Radol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ralgen",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ralgen SR",
 	country: "Hungary",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ralivia",
 	country: "Hungary",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Rampar (Tramadol and Paracetamol)",
+	name: "Rampar",
 	country: "Canada",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "RAN-Tramadol/Acet (Tramadol and Paracetamol)",
+	name: "RAN-Tramadol/Acet",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Rapat (Tramadol and Paracetamol)",
+	name: "Rapat",
 	country: "Canada",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Rapicet (Tramadol and Paracetamol)",
+	name: "Rapicet",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Rapidol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Recalm",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Relidol",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Rui Li Ping",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Rybix ODT",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ryzolt",
 	country: "United States",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Sedoloris (Tramadol and Paracetamol)",
+	name: "Sedoloris",
 	country: "United States",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Sefmal",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Seminac",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Seminac Continus",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Simatral",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Sinergix (Tramadol and Ketorolac)",
+	name: "Sinergix",
 	country: "Indonesia",
+	pair: "(Tramadol and Ketorolac)",
 	ingredient: "tramadol"
 },
 {
 	name: "Siverol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Staricet (Tramadol and Paracetamol)",
+	name: "Staricet",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Stemadol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Strenduo (Tramadol and Paracetamol)",
+	name: "Strenduo",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Sylador",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Symtram (Tramadol and Paracetamol)",
+	name: "Symtram",
 	country: "Brazil",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Syndol",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Synerjet (Tramadol and Paracetamol)",
+	name: "Synerjet",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Synerjet ER (Tramadol and Paracetamol)",
+	name: "Synerjet ER",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Synerjet Semi (Tramadol and Paracetamol)",
+	name: "Synerjet Semi",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Synerjet-ER (Tramadol and Paracetamol)",
+	name: "Synerjet-ER",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tadol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tai Mei Ding",
 	country: "Denmark",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Takadol",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tamolan",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tandol",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "TDL",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tendia",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Terry White Chemists Tramadol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Teva-Tramadol/Acetaminophen (Tramadol and Paracetamol)",
+	name: "Teva-Tramadol/Acetaminophen",
 	country: "Australia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Theradol",
 	country: "Canada",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ti Ma Er",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tilodol SR",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Timarol",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Timarol-Par (Tramadol and Paracetamol)",
+	name: "Timarol-Par",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Timasen",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tioner",
 	country: "Brazil",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tioner Retard",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tiparol",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tlusic",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tomim (Tramadol and Paracetamol)",
+	name: "Tomim",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tong Ting",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Topalgic",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Topalgic LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trabar",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trabilin",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trabilín",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tracaine",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tracan (Tramadol and Paracetamol)",
+	name: "Tracan",
 	country: "Philippines",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tracemol (Tramadol and Paracetamol)",
+	name: "Tracemol",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradef",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tradiol (Tramadol and Paracetamol)",
+	name: "Tradiol",
 	country: "Czech Republic",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tradocomp (Tramadol and Paracetamol)",
+	name: "Tradocomp",
 	country: "Panama",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradol",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradol Retard",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradolan",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradolan Retard",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradolex",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradolgesic",
 	country: "Turkey",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradomal",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradomed",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradonal",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradonal ONE",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradonal Retard",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradonal SR",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradorec XL",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradosik",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradoxil",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tradyl",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Traflash",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tragesik",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tral",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tral P (Tramadol and Paracetamol)",
+	name: "Tral P",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralgit",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralgit Orotab",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralgit SR",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralic",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tralidar Genfar (Tramadol and Paracetamol)",
+	name: "Tralidar Genfar",
 	country: "Mexico",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tralino (Tramadol and Paracetamol)",
+	name: "Tralino",
 	country: "Ecuador",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tralodie",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trama",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trama Klosidol",
 	country: "Israel",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramabene",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramabeta",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramabeta long",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramacalm",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramacap",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramacet (Tramadol and Paracetamol)",
+	name: "Tramacet",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramactil Uno",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramacur",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramada",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadex",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadil",
 	country: "Israel",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadin",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol - 1 A Pharma",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol - Salutas Pharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Abbott (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Abbott",
 	country: "China",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Actavis France (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Actavis France",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Arrow (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Arrow",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Biogaran (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Biogaran",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Cristers (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Cristers",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracetamol EG (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracetamol EG",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol EG Labo (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol EG Labo",
 	country: "Belgium",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Evolugen (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Evolugen",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Krka (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Krka",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracetamol Mylan (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracetamol Mylan",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Mylan Pharma (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Mylan Pharma",
 	country: "Belgium",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Ranbaxy Pharmacie Generiques (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Ranbaxy Pharmacie Generiques",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Sandoz (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Sandoz",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracetamol Teva (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracetamol Teva",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Teva (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Teva",
 	country: "Belgium",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Zentiva (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Zentiva",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol / Paracétamol Zydus (Tramadol and Paracetamol)",
+	name: "Tramadol / Paracétamol Zydus",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Acetaminofén MK (Tramadol and Paracetamol)",
+	name: "Tramadol + Acetaminofén MK",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Actavis (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Actavis",
 	country: "Colombia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Apotex (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Apotex",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Aurobindo",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Bene (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Bene",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Bluepharma (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Bluepharma",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Bluescience (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Bluescience",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Brown (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Brown",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Ciclum (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Ciclum",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Codramol (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Codramol",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Farmalider (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Farmalider",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Generis (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Generis",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Genoptim (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Genoptim",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Krka (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Krka",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Labesfal (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Labesfal",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Litexil (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Litexil",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Mepha (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Mepha",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Mer (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Mer",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Mylan (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Mylan",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Pharmakern (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Pharmakern",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Richter (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Richter",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Sandoz (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Sandoz",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Stada (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Stada",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Substipharm (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Substipharm",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Tad (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Tad",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol toLife (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol toLife",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol + Paracetamol Zentiva (Tramadol and Paracetamol)",
+	name: "Tramadol + Paracetamol Zentiva",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol 1A Pharma",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol AbZ",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol acis",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Actavis",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol AL",
 	country: "Iceland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Alpharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Amdipharm",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Arena",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Arrow",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Arrow LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Asta Medica",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Aurobindo",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Azevedos",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Basi",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Beacon",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Bexal",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Biogaran",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Biogaran LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Biosano",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Blaskov",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Bristol",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Brown",
 	country: "Malta",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Cherubino",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Ciclum",
 	country: "Malta",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Cinfa",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Clorhidrato Genfar",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Clorhidrato Ryan",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Clorhidrato Sanderson",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Colmed",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Cristers LP",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Diasa",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Edigen",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol EEL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol EG",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol EG LP",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Evolugen",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Farmalider",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Farmasierra",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Generis",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Genfar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Actavis",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Actavis Retard",
 	country: "Singapore",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Apotex",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Aurobindo",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl CF",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Duiven retard",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl GenRx",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Hanall",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Mylan",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl PCH",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl ratiopharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Retard A",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl retard CF",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Retard ICC",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Retard Meda",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Retard Mylan",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Retard Teva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Sandoz",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HCl Sandoz retard",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol Aurobindo",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol CF (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol CF",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Mylan (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol Mylan",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol ratiopharm (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol ratiopharm",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Sandoz (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol Sandoz",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol HCl/Paracetamol Teva (Tramadol and Paracetamol)",
+	name: "Tramadol HCl/Paracetamol Teva",
 	country: "Netherlands",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Helvepharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HemoPharm",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol HEXAL",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hexpharm",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol Hydrochloride + Paracetamol Bristol Laboratories (Tramadol and Paracetamol)",
+	name: "Tramadol Hydrochloride + Paracetamol Bristol Laboratories",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride Accord",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride Actavis",
 	country: "Malta",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride AFT",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride hameln",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride Kent",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Hydrochloride Zentiva",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol hydrochloride/Paracetamol (Tramadol and Paracetamol)",
+	name: "Tramadol hydrochloride/Paracetamol",
 	country: "United Kingdom",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Kern Pharma",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Krka",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Labesfal",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Lanalget",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Lannacher",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Lavoisier",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Librapharm",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol LPH",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Mabo",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Meda",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Medley",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Metropolis",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Mintlab",
 	country: "Malta",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Mylan",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Mylan Generiques LP",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Normon",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Parke-Davis",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol Plus Helvepharm (Tramadol and Paracetamol)",
+	name: "Tramadol Plus Helvepharm",
 	country: "Portugal",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol plus Spirig HC (Tramadol and Paracetamol)",
+	name: "Tramadol plus Spirig HC",
 	country: "Switzerland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Ranbaxy",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Ranbaxy LP",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Raslafar",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Ratiopharm",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Actavis",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Combix",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard EG",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol retard Helvepharm",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Hexal",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Meda",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Medartuum",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Mylan",
 	country: "Sweden",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Normon",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Ratiopharm",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Stada Genericos",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Retard Teva",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Rotexmedica",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Sandoz",
 	country: "Israel",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Sandoz LP",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Sandoz retard",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Saneca",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Sanitas",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Stada",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol STADA",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Streuli",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Synteza",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Teva",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Teva LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Uno Sandoz",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Vir",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Vitabalans",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Vitalis",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Zentiva",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Zentiva LP",
 	country: "Romania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Zydus",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol Zydus LP",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Acet (Tramadol and Paracetamol)",
+	name: "Tramadol/Acet",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Abamed (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Abamed",
 	country: "Canada",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Actavis (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Actavis",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Alter (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Alter",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Apotex (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Apotex",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Aurobindo (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Aurobindo",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Cinfa (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Cinfa",
 	country: "Malta",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Combix (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Combix",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Davur (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Davur",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Disphar (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Disphar",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Farmalider (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Farmalider",
 	country: "Czech Republic",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Kern Pharma (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Kern Pharma",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Krka (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Krka",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Mabo (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Mabo",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Mundogen (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Mundogen",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Mylan (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Mylan",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Normon (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Normon",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Pensa (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Pensa",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol PharmaS (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol PharmaS",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Qualigen (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Qualigen",
 	country: "Croatia (Hrvatska)",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Ratiopharm (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Ratiopharm",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Sandoz (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Sandoz",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Saneca (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Saneca",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Stada (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Stada",
 	country: "Slovakia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Stadagen (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Stadagen",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Tarbis (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Tarbis",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Tecnigen (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Tecnigen",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol/Paracetamol Teva (Tramadol and Paracetamol)",
+	name: "Tramadol/Paracetamol Teva",
 	country: "Spain",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-CT",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Dolgit",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolhydrochlorid Actavis",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadolhydrochlorid/Paracetamol STADA (Tramadol and Paracetamol)",
+	name: "Tramadolhydrochlorid/Paracetamol STADA",
 	country: "Austria",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolhydrochloride",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolis Sanitas",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Mepha",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Mepha retard",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo Angenerico",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo EG",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo Germed",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo HCL Sandoz",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo Hexal",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo Hexal AG",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolo Viatris",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolor",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolor ID",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolor long",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolor retard",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol-Paracetamol Sandoz (Tramadol and Paracetamol)",
+	name: "Tramadol-Paracetamol Sandoz",
 	country: "Croatia (Hrvatska)",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadol-Paracetamol-Mepha (Tramadol and Paracetamol)",
+	name: "Tramadol-Paracetamol-Mepha",
 	country: "Switzerland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Q",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-ratiopharm",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadol-Rotexmedica",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadolten",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramadolten Plus (Tramadol and Paracetamol)",
+	name: "Tramadolten Plus",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramadura",
 	country: "Argentina",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramag",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramagesic (Tramadol and Paracetamol)",
+	name: "Tramagesic",
 	country: "Romania",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramagetic",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramagetic Retard",
 	country: "Norway",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramagit",
 	country: "Norway",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "TramaHexal",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramajuna",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal Long",
 	country: "Greece",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal long",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal Rapid",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal Retard",
 	country: "Oman",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal retard",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramal SR",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramalgic",
 	country: "Greece",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramalgin",
 	country: "Hungary",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramalin",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramamed",
 	country: "Italy",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramanil",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramanovag",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramapar (Tramadol and Paracetamol)",
+	name: "Tramapar",
 	country: "Argentina",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramapran (Tramadol and Paracetamol)",
+	name: "Tramapran",
 	country: "Poland",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramarol ER (Tramadol and Paracetamol)",
+	name: "Tramarol ER",
 	country: "Slovakia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramarol Semi ER (Tramadol and Paracetamol)",
+	name: "Tramarol Semi ER",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramasindol",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramaspen",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramastad",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramateg Plus (Tramadol and Paracetamol)",
+	name: "Tramateg Plus",
 	country: "Austria",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramazac",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramazac Co (Tramadol and Paracetamol)",
+	name: "Tramazac Co",
 	country: "South Africa",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramazac XL",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trambax",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramcet (Tramadol and Paracetamol)",
+	name: "Tramcet",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramcontin",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramed",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramedif",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramedif Compuesto (Tramadol and Paracetamol)",
+	name: "Tramedif Compuesto",
 	country: "Peru",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramgesic",
 	country: "Peru",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramid",
 	country: "South Africa",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramium",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramkor",
 	country: "Belgium",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramo",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramofal",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramol-L",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramox",
 	country: "Iceland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramp (Tramadol and Paracetamol)",
+	name: "Tramp",
 	country: "Malaysia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Trampalgin",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramquel",
 	country: "Norway",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tramset (Tramadol and Paracetamol)",
+	name: "Tramset",
 	country: "United Kingdom",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramtor",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramulief",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundal",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundal retard",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundin",
 	country: "Austria",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundin N",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramundin retard",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tram-u-ron OD",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tramxl",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tranal",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Traphen ER (Tramadol and Paracetamol)",
+	name: "Traphen ER",
 	country: "Bangladesh",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Traphen Semi ER (Tramadol and Paracetamol)",
+	name: "Traphen Semi ER",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Trapsure-P (Tramadol and Paracetamol)",
+	name: "Trapsure-P",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Trasik",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Traspen (Tramadol and Paracetamol)",
+	name: "Traspen",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Traspen Semi (Tramadol and Paracetamol)",
+	name: "Traspen Semi",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Travex",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Travex Long",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "TRAVEX ONE",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Travex Rapid",
 	country: "Germany",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trazodona Clorhidrato Genfar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "TRD-Contin",
 	country: "Colombia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "TRD-MD",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "TRD-P (Tramadol and Paracetamol)",
+	name: "TRD-P",
 	country: "India",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Tremepen (Tramadol and Gabapentin)",
+	name: "Tremepen",
 	country: "India",
+	pair: "(Tramadol and Gabapentin)",
 	ingredient: "tramadol"
 },
 {
 	name: "Trest",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trexol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tridol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tridol SR",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tridural",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trodon",
 	country: "Canada",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trofel",
 	country: "Serbia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trol",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tropium",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trosic",
 	country: "Greece",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trumen",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trunal DX",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Trunal-DX Retard",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Tugesal",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Tutus (Tramadol and Paracetamol)",
+	name: "Tutus",
 	country: "Indonesia",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultracet (Tramadol and Paracetamol)",
+	name: "Ultracet",
 	country: "Czech Republic",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Ultram",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Ultram ER",
 	country: "United States",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultra-Met (Tramadol and Paracetamol)",
+	name: "Ultra-Met",
 	country: "United States",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultra-Met Semi (Tramadol and Paracetamol)",
+	name: "Ultra-Met Semi",
 	country: "South Korea",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Ultramex",
 	country: "South Korea",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Ultrazac (Tramadol and Paracetamol)",
+	name: "Ultrazac",
 	country: "Turkey",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Unitral",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Unitrama",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Urgendol-P (Tramadol and Paracetamol)",
+	name: "Urgendol-P",
 	country: "Italy",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Utramal",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Valgion CLT (Tramadol and Clonixin)",
+	name: "Valgion CLT",
 	country: "Bangladesh",
+	pair: "(Tramadol and Clonixin)",
 	ingredient: "tramadol"
 },
 {
-	name: "Vardol-Plus (Tramadol and Paracetamol)",
+	name: "Vardol-Plus",
 	country: "Mexico",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Varulin",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Vesnon-V",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Vheradol",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Vibralis",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Vitral",
 	country: "Greece",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Volcidol",
 	country: "Philippines",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Winpain",
 	country: "Thailand",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Winpain ER",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Xi Li Xi Meng",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Xiang Yang",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Xtrapel-MR",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Yi Bang",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Yi Nuo Xing",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Yin Jia",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Yu Tong",
 	country: "China",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zafin (Tramadol and Paracetamol)",
+	name: "Zafin",
 	country: "China",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
-	name: "Zaldiar (Tramadol and Paracetamol)",
+	name: "Zaldiar",
 	country: "Ecuador",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zaledor",
 	country: "Poland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zaledor XR",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zaledor-P (Tramadol and Paracetamol)",
+	name: "Zaledor-P",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zamadol",
 	country: "Chile",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zamadol SR",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zamadol-P (Tramadol and Paracetamol)",
+	name: "Zamadol-P",
 	country: "United Kingdom",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zamudol LP",
 	country: "India",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zaracet (Tramadol and Paracetamol)",
+	name: "Zaracet",
 	country: "France",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zephanal",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zeridame",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zeridame SR",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zilpen (Tramadol and Paracetamol)",
+	name: "Zilpen",
 	country: "United Kingdom",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zodol",
 	country: "Portugal",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
-	name: "Zotramid (Tramadol and Paracetamol)",
+	name: "Zotramid",
 	country: "Chile",
+	pair: "(Tramadol and Paracetamol)",
 	ingredient: "tramadol"
 },
 {
 	name: "Zumalgic",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zydol",
 	country: "France",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zydol SR",
 	country: "Ireland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zydol XL",
 	country: "Ireland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram Bid",
 	country: "Iceland",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "Zytram XL",
 	country: "Spain",
+	pair: "",
 	ingredient: "tramadol"
 },
 {
 	name: "4x4",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Addamo",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Aggra",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Akabar",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Aladin",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Alclimax",
 	country: "Oman",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Almaximo",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Alsigra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Altus",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Amfidor",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Assurans",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Avixar",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Belfil",
 	country: "Latvia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Bifort-M",
 	country: "Slovenia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Bison",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Blugral",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Brilliant",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Cagno 50",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Caverta",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Circulass",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Circulass Rapid",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Corsenile",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "D Lira",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Davigor",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Daygra",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Defil",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Dirtop",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ecriten",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Egomax",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Enegra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Enthusia",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erec",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erecta",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erectol Plus",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erecton",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erector",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erevit",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erexesil",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ernafil",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erosfil",
 	country: "Singapore",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erotil",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Eroxim",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Exifol",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Expit",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ezequel",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Faro Viga",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Fildlata",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "File",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Filigra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Firmel",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Fortera",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Fulfeel",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Gimonte Sildenafil",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Gladium",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Helpin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Hepil",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Immense",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Integra",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Inventum",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Juvigor",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Kamagra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Katora",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Kemagra",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Labsamax",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lekap",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Licosil",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lorbinafil",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Mamagra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Maxigra",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Medovigor",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Modrasil",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Napifit",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Nexofil",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Niagra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Nitro",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Olvion",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ontop Sildenafil Citrate",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Oragawell",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Orgodenafil",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Palpal",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Panagra",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Peak",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Penegra",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Permitil",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Phragra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Pluspen",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Pramil",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Renedema",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Revatio",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Rezum",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ripol",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Rocky",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Romento",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Rosytona",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Salinil",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Segurex",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Seldan",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Senagra",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sex-up",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sil - ON",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silagra",
 	country: "Israel",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silanil",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildava",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildegra",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silden",
 	country: "Turkey",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildena",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Accord",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Actavis",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Anglopharma",
 	country: "Slovenia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Aurobindo",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Axxon",
 	country: "Malta",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Biodental",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Bluefish",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Bussié",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Clonmel",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Doc Generici",
 	country: "Malta",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Doc Generics",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil EG",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Farmandina",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Genfar",
 	country: "Guatemala",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Genoptim",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Hasco",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Ilab",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil La Santé",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Liconsa",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Macleods",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Medana",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Medreg",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Mylan",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil netpharma",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Nifa",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pensa Pharma",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pfizer",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil PharmaS",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Ranbaxy",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil ratiopharm",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Rth",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Sandoz",
 	country: "Latvia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Saneca",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil SymPhar",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Tauro",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Teva",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Vannier",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Winthrop",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Zentiva",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Genfar",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilum Farmacom",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silfeldrem",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Siltegra",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silvagra",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silvigo",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Stimu Max",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sundinafit",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Super Vega",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Taxier",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tornetis",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "V Gone",
 	country: "Slovenia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vega",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vega Plus",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Venux",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "V-Gra",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viadis",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagra",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viara",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viasin",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viatec",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viavag",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigadol",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigor",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigorama",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigoran",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigorex",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigoril",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigrande",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vimax",
 	country: "Turkey",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viner",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Virecta",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vitarfil",
 	country: "Egypt",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vizarsin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vorst-M",
 	country: "Serbia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Willmon",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Yextor",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zerect",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zoltan",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zumbar",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Activil",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Adagrin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Adegra",
 	country: "Vietnam",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Adonix",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Afilon",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Aladin",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Alfin",
 	country: "Oman",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Amfidor",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Andros",
 	country: "Czech Republic",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Androz",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Apo-Sildenafil",
 	country: "Singapore",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Avigra",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Avixar",
 	country: "South Africa",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Azulsix",
 	country: "Estonia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Bamirac",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Bifort",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Blugral",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Caverta",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Cilafil",
 	country: "Peru",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Degra",
 	country: "Austria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Dinamico",
 	country: "Turkey",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Direktan",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Disilden",
 	country: "Austria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Dragul",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "duraviril",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Duroval",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Dynafil",
 	country: "Venezuela",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Dynamico",
 	country: "South Africa",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ecriten",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Elonza",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Emposil",
 	country: "Thailand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Enafilzil",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Entranin",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erasilton",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erecta",
 	country: "Hungary",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erectol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erefil",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "EREQ",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erexesil",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Erilin",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ernafil",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Eroton",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Eroxim",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Eroxim-fast Instantab Lafrancol",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Esantop",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Expit",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Falic",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Falsigra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Fexion",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Fildlata",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Firmel",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "For Mr.",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Forzak",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Galotam",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Gedena",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Gelpin Colmed",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Go",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Happigra",
 	country: "Mexico",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Hippigra",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Idilico",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ignis",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Ilyang Sildenafil",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Incresil",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Isurec",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Juvena",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Kamagra",
 	country: "JscGeorgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Katora",
 	country: "Tanzania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lerk",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Libigran",
 	country: "Mexico",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lifter",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lovex",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lubagra",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Lumix",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Luvagra",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Magnus",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Maxifort-Zimax",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Maxigra",
 	country: "Mexico",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Maxigra ODT",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Neo-Gra",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Neo-Up",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Nipatra",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Novalif",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Novigra",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Olvion",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Oximum",
 	country: "Singapore",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Pahtension",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Palpal",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Paramen Vent3",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Patrex",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Pefomax",
 	country: "Mexico",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Plegra",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Plusefec",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "PMS-Sildenafil",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Potenza",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Powergra",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Prescofil",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "RAN-Sildenafil",
 	country: "Italy",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "ratio-Sildenafil R",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Remenafil",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Revatio",
 	country: "Singapore",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Rosytona",
 	country: "United States",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Rozgra",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sandoz Sildenafil",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Segurex",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Siafil",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sidegra",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sidenafil AL",
 	country: "Thailand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silagra",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silaxa",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silda",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildaristo",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildeagil",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildegra",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "SildeHEXAL",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "SildeHexal SF",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silden",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildena",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafi Pfizer",
 	country: "Serbia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil",
 	country: "Greece",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil - 1 A Pharma",
 	country: "Ireland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil 1A Pharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil AbZ",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Accord",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Accord",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Actavis",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Actavis",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Adair",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Ajanta Pharma",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil AL",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Apotex",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Arpedex",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Aspen",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Aurobindo",
 	country: "Denmark",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Axapharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Azevedos",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Biogaran",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Bluefish",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil BMM",
 	country: "Denmark",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil CF",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Ciclum",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Citrate Actavis",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Cristers",
 	country: "United States",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Doc Generici",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Dr. Reddy's",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Eclonirta",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil EG",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil EG",
 	country: "Belgium",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Epilix",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Fantex",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Farmoz",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Fildanex",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Fildefi",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Garvai",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Genepharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Genericon",
 	country: "Greece",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Generis",
 	country: "Austria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Genfar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Germed",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil GMP",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Hameln",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Hasco",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Helm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Helvepharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Hemofarm",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Hennig",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil HEXAL",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Jubilant",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Krka",
 	country: "Malta",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Labesfal",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Leugim",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Liconsa",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil medac",
 	country: "Greece",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Medana",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Medical Valley",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Medley",
 	country: "Denmark",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Mer",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil MK",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Mylan",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Mylan",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Navamedic",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Normon",
 	country: "Sweden",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Orifarm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Orion",
 	country: "Denmark",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Osir",
 	country: "Sweden",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Oxdual",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pentafarma",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pfizer",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Pfizer",
 	country: "Sweden",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pharmakern",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Pharmathen",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Portfarma",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Qualimed",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Ranbaxy",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil ratiopharm",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Reconir",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Rilpermir",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Rodinal",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Sandoz",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Sandoz",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Sanofi Aventis",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Sidefarma",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Sigillata",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Spirig HC",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil STADA",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Stada",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Strami",
 	country: "Austria",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Terapia",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Teva",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Teva",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Tolife",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Torrent",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Upfil",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Uropharm",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil West Pharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Wynn",
 	country: "Greece",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil Zentiva",
 	country: "Portugal",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildénafil Zentiva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil-Hormosan",
 	country: "France",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil-Mepha",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafil-neuraxpharm",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Actavis",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Alter",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Apotex",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Bluefish",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Cinfa",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Kern Pharma",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Mylan",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Normon",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Oxdual",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Pensa",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Qualigen",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Ratiopharm",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Salutas",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Sandoz",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Stada",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Tecnigen",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Teva",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenafilo Zentiva",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenamed",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenax",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildenon",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silderec",
 	country: "Belgium",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silderm",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildex",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildora",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Sildrem",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silfeldrem",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Silvasta",
 	country: "Poland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Slider",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Supergra",
 	country: "Israel",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Super-O",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tarim",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Taxier",
 	country: "Israel",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Teva-Sildenafil",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tigerfil",
 	country: "Canada",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tonafil",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tornetis",
 	country: "Thailand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Tranky",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Valedonis",
 	country: "Colombia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Varofil",
 	country: "Germany",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vedafil",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Verventi",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Via-avenir",
 	country: "Belgium",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagra",
 	country: "Israel",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagra BCNFarma",
 	country: "United States",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagra Gervasi",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagra L",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viagrasan",
 	country: "South Korea",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigorex",
 	country: "Georgia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigorplus",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigrande",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vigro",
 	country: "Romania",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vilgendra",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vimax",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viner",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Virilon",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Viripotens",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Virtus",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vizarsin",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Vorst",
 	country: "Iceland",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Xex",
 	country: "Argentina",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zeagra",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zenera",
 	country: "India",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zeus",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zilden",
 	country: "Israel",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zilfic",
 	country: "Philippines",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zuandol",
 	country: "Chile",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Zygora",
 	country: "Spain",
+	pair: "",
 	ingredient: "sildenafil"
 },
 {
 	name: "Aleve",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Aleve Sinus & Headache (Naproxen and Pseudoephedrine)",
+	name: "Aleve Sinus & Headache",
 	country: "Turkey",
+	pair: "(Naproxen and Pseudoephedrine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Alidase",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Alpoxen",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anaflex",
 	country: "Iceland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anaflex SR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Analper Nax",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anapran EC",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anex",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "A-Nox",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Ao Pu Li",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apo-Napro",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apo-Naproxen",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apo-Naproxen SR",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apraljin",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apranax",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apraxin",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aprol",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apromed",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apronax",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aproxen",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Arthopan (Naproxen and Pantoprazole)",
+	name: "Arthopan",
 	country: "Pakistan",
+	pair: "(Naproxen and Pantoprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Aspen Naproxen",
 	country: "India",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Bloxen",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Bonyl",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Boots Period Pain Relief",
 	country: "Denmark",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Brunadol (Naproxen and Paracetamol)",
+	name: "Brunadol",
 	country: "United Kingdom",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Bruproxen",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Bumaflex N",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Congex",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Contraxen (Naproxen and Carisoprodol)",
+	name: "Contraxen",
 	country: "Argentina",
+	pair: "(Naproxen and Carisoprodol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Debril",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Demovo (Naproxen and Esomeprazole)",
+	name: "Demovo",
 	country: "Argentina",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Deproxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Dinovo (Naproxen and Esomeprazole)",
+	name: "Dinovo",
 	country: "Bangladesh",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Diproxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Diproxen CR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Dolonex",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Doloprotec (Naproxen and Esomeprazole)",
+	name: "Doloprotec",
 	country: "Ecuador",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Dolormin",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Dolormin mit Naproxen",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Doprox",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Dozin",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Durafex",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Durafex (Naproxen and Caffeine)",
+	name: "Durafex",
 	country: "Colombia",
+	pair: "(Naproxen and Caffeine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Dysmenalgit",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "EC-Naprosyn",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Emox",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Emoxen",
 	country: "Estonia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Equiproxen (veterinary use)",
+	name: "Equiproxen",
 	country: "Czech Republic",
+	pair: "(veterinary use)",
 	ingredient: "naproxen"
 },
 {
-	name: "Equiproxen 10% (veterinary use)",
+	name: "Equiproxen 10%",
 	country: "United States",
+	pair: "(veterinary use)",
 	ingredient: "naproxen"
 },
 {
-	name: "Esona (Naproxen and Esomeprazole)",
+	name: "Esona",
 	country: "United States",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Etrixenal",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Eurogesic",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Eurogesic Forte",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Fabralgina",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Febrax (Naproxen and Paracetamol)",
+	name: "Febrax",
 	country: "Argentina",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Feminax Ultra",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Flogotone",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Honlow",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Hui Ke",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Ilgesin",
 	country: "LtdChina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Inza",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Iraxen",
 	country: "Hong Kong",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Jinkangpuli",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Keldor",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Laser",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Lundiran",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Maxipan (Naproxen and Diflunisal)",
+	name: "Maxipan",
 	country: "Spain",
+	pair: "(Naproxen and Diflunisal)",
 	ingredient: "naproxen"
 },
 {
 	name: "Megalivio",
 	country: "Egypt",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Melgar",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Messelxen",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Momendol",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Momendol (Naproxen and Sulodexide)",
+	name: "Momendol",
 	country: "Lithuania",
+	pair: "(Naproxen and Sulodexide)",
 	ingredient: "naproxen"
 },
 {
 	name: "Monochroton",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Movibon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Mylan Naproxen",
 	country: "India",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Myoprox",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Na Pu Xing",
 	country: "Egypt",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nafasol",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nafxen",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naixan",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naldorex",
 	country: "Japan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgedol",
 	country: "Romania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin",
 	country: "Latvia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin Forte",
 	country: "Romania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin S",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naloxen",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Nameso (Naproxen and Esomeprazole)",
+	name: "Nameso",
 	country: "Taiwan",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Napec",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napflam",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napmel",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naponal",
 	country: "Hungary",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naposin",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napoton",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napoxen",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napradol",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Napratec (Naproxen and Misoprostol)",
+	name: "Napratec",
 	country: "Turkey",
+	pair: "(Naproxen and Misoprostol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Napreben",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napren-E",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprius",
 	country: "Norway",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napro",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napro-A",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Napro-A Plus (Naproxen and Esomeprazole)",
+	name: "Napro-A Plus",
 	country: "Bangladesh",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprobene",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprocur",
 	country: "Austria",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naprodom (Naproxen and Domperidone)",
+	name: "Naprodom",
 	country: "Sweden",
+	pair: "(Naproxen and Domperidone)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprofen",
 	country: "India",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproff",
 	country: "Egypt",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprogen",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprogesic",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproksen",
 	country: "Egypt",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproksens",
 	country: "Serbia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napromed",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprometin",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprontag",
 	country: "Finland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naprontag Protect (Naproxen and Esomeprazole)",
+	name: "Naprontag Protect",
 	country: "Argentina",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Napropain",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprorex",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosian",
 	country: "Tanzania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproson",
 	country: "Thailand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprossene EG",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn 10%",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn CR",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn EC",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn EC Fort",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn Entero",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyn SR",
 	country: "Sweden",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprosyne",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprox",
 	country: "Belgium",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naprox Plus (Naproxen and Esomeprazole)",
+	name: "Naprox Plus",
 	country: "Tunisia",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen - 1 A Pharma",
 	country: "Australia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen - Shyndec Pharm",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Accord",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen acis",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Actavis",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Actavis EC",
 	country: "Bulgaria",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen AL",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Alpharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Apotex",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Aristo",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Astar",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Aurobindo",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen BasicPharma",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen beta",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Bluefish",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Central",
 	country: "Sweden",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen CF",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Community Pharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen CP",
 	country: "Thailand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Disphar",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Disphar EC",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Douglas Pharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen EC Mylan",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen EC Sanis Health",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Genericon",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Hasco",
 	country: "Austria",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen HEXAL",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Johnson",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Li Ta",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen MSR Teva",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Mylan",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen New Chemical",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Orifarm",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen PCH",
 	country: "Sweden",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Pharmacin",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Polfa",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Polfarmex",
 	country: "Lithuania",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Royal",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Saft Infectopharm",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sandoz",
 	country: "Austria",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sandoz EC",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sanis Health",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sinphar",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sinton",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Siu Guan",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Srbolek",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen STADA",
 	country: "Serbia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Teva",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen TioFarma",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Winthrop",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Wockhardt",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Yang Sheng",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Yung Chi",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Zetpil CF",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-C-Dragon Pharmacy",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-CT",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxene EG",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxene Germed",
 	country: "Belgium",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-E Mylan",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-Mepha",
 	country: "Norway",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno",
 	country: "Switzerland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naproxeno + Paracetamol (Naproxen and Paracetamol)",
+	name: "Naproxeno + Paracetamol",
 	country: "Peru",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Andromaco",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Aristo",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Colmed",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naproxeno compuesto (Naproxen and Paracetamol)",
+	name: "Naproxeno compuesto",
 	country: "Colombia",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Generis",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Genfar",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Germed",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno GP",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno La Santé",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Medley",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno MK",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Nifa",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Normon",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Ratiopharm",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Vannier",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprozen",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprux",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naprux Disten (Naproxen and Carisoprodol)",
+	name: "Naprux Disten",
 	country: "Argentina",
+	pair: "(Naproxen and Carisoprodol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Napryn",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Napsec (Naproxen and Esomeprazole)",
+	name: "Napsec",
 	country: "Bangladesh",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Napsod",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napsyn",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napton",
 	country: "Slovakia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napton SR",
 	country: "LtdChina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napusin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naputon",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Natoxen",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Natrax",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxen",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naxen S (Naproxen and Esomeprazole)",
+	name: "Naxen S",
 	country: "Mexico",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxin",
 	country: "South Korea",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxo",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naxodol (Naproxen and Carisoprodol)",
+	name: "Naxodol",
 	country: "Bangladesh",
+	pair: "(Naproxen and Carisoprodol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxyn",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Nebilet Plus (Naproxen and Hydrochlorothiazide)",
+	name: "Nebilet Plus",
 	country: "Israel",
+	pair: "(Naproxen and Hydrochlorothiazide)",
 	ingredient: "naproxen"
 },
 {
 	name: "Neoxen",
 	country: "Bosnia & Herzegowina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Neso (Naproxen and Esomeprazole)",
+	name: "Neso",
 	country: "Poland",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
-	name: "Neuralgesic (Naproxen and Paracetamol)",
+	name: "Neuralgesic",
 	country: "Bangladesh",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Noflam",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Novoxen (Naproxen and Esomeprazole)",
+	name: "Novoxen",
 	country: "New Zealand",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Noxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Noyan",
 	country: "Tunisia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nuprafen",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nupralgin",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Nupralgin Plus (Naproxen and Esomeprazole)",
+	name: "Nupralgin Plus",
 	country: "Bangladesh",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Nuprax",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Opokan",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Opraks",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Orquinaprox",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Pabi-Naproxen",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Pairox",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Papasine (Naproxen and Tetracycline)",
+	name: "Papasine",
 	country: "Bangladesh",
+	pair: "(Naproxen and Tetracycline)",
 	ingredient: "naproxen"
 },
 {
 	name: "Pediapharm Naproxen",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Period Pain Reliever",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "PMS-Naproxen",
 	country: "United Kingdom",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "PMS-Naproxen EC",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Prazona",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "PREVACID NapraPAC (Naproxen and Lansoprazole)",
+	name: "PREVACID NapraPAC",
 	country: "Netherlands",
+	pair: "(Naproxen and Lansoprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Prexan",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Priaxen",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Prodexin",
 	country: "Malta",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Progesic (Naproxen and Esomeprazole)",
+	name: "Progesic",
 	country: "Egypt",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Promizem",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Pronaxen",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Proxalin-Plus (Naproxen and Paracetamol)",
+	name: "Proxalin-Plus",
 	country: "Sweden",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Proxen",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Proxen SR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Releve",
 	country: "Australia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Relokap Forte",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Repro",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Reuxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Riproxen",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Riva-Naproxen",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Salvis",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Seladin",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Servinaprox",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Shi Luo Te",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Sinton",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Sumigran (Naproxen and Sumatriptan)",
+	name: "Sumigran",
 	country: "Taiwan",
+	pair: "(Naproxen and Sumatriptan)",
 	ingredient: "naproxen"
 },
 {
 	name: "Synax",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Synax fort",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Teva-Naproxen",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Teva-Naproxen SR",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Teva-Naproxen-EC",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Ticoflex",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Ticoflex SR",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Ultrabengue (Naproxen and Menthol, + Lidocaine, + Methyl Salicylate)",
+	name: "Ultrabengue",
 	country: "Bangladesh",
+	pair: "(Naproxen and Menthol, + Lidocaine, + Methyl Salicylate)",
 	ingredient: "naproxen"
 },
 {
 	name: "U-Ritis",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Vimovo (Naproxen and Esomeprazole)",
+	name: "Vimovo",
 	country: "Taiwan",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Winpron",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Xenadom (Naproxen and Domperidone)",
+	name: "Xenadom",
 	country: "Taiwan",
+	pair: "(Naproxen and Domperidone)",
 	ingredient: "naproxen"
 },
 {
-	name: "Xenole (Naproxen and Esomeprazole)",
+	name: "Xenole",
 	country: "India",
+	pair: "(Naproxen and Esomeprazole)",
 	ingredient: "naproxen"
 },
 {
-	name: "Xi Tai Meng (Naproxen and Codeine)",
+	name: "Xi Tai Meng",
 	country: "Bangladesh",
+	pair: "(Naproxen and Codeine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Xpro",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Fluimucil Gola",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprocet",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nitens",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Proxagol",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Acroxen",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aflamax",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aksen Fort",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aleve",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Aleve Cold & Sinus (Naproxen and Pseudoephedrine)",
+	name: "Aleve Cold & Sinus",
 	country: "Germany",
+	pair: "(Naproxen and Pseudoephedrine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Alevetabs",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Alidase",
 	country: "France",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Alli-Viax",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Analgen",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Analgesin",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Analgesin Forte",
 	country: "Hungary",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anapran",
 	country: "Hungary",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anapran Neo",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anaprox",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Anaprox DS",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Annoxen-S",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Antalgin",
 	country: "Thailand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Antalnox",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apo-Napro-Na",
 	country: "France",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apranax",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aprelax",
 	country: "France",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Apronax",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aprowell",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aproxen",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Aproxil",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Arthrox",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Atac",
 	country: "Pakistan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Aterpin (Naproxen and Paracetamol)",
+	name: "Aterpin",
 	country: "Chile",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Bai Tong",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Beckanflam",
 	country: "Ltd.China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Bei Li",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Bifardol (Naproxen and Paracetamol)",
+	name: "Bifardol",
 	country: "China",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Brax (Naproxen and Paracetamol)",
+	name: "Brax",
 	country: "Mexico",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Brunadol (Naproxen and Paracetamol)",
+	name: "Brunadol",
 	country: "Mexico",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Colfem Forte (Naproxen and Scopolamine)",
+	name: "Colfem Forte",
 	country: "Mexico",
+	pair: "(Naproxen and Scopolamine)",
 	ingredient: "naproxen"
 },
 {
 	name: "DA Naproxennatrium",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Dafloxen",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Dafloxen F (Naproxen and Paracetamol)",
+	name: "Dafloxen F",
 	country: "Mexico",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Decosil (Naproxen and Paracetamol)",
+	name: "Decosil",
 	country: "Mexico",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Deflamox Plus (Naproxen and Paracetamol)",
+	name: "Deflamox Plus",
 	country: "Mexico",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Desinflam",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Deucoval",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Deucoval Forte",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Dolo Apranax (Naproxen and Paracetamol)",
+	name: "Dolo Apranax",
 	country: "Chile",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Dolotandax (Naproxen and Paracetamol)",
+	name: "Dolotandax",
 	country: "El Salvador",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
-	name: "Dolumbar (Naproxen and Caffeine)",
+	name: "Dolumbar",
 	country: "Ecuador",
+	pair: "(Naproxen and Caffeine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Etos Naproxennatrium",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Eurogesic",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Eurogesic Forte",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Eurogesic Infantil (pediatric)",
+	name: "Eurogesic Infantil",
 	country: "Chile",
+	pair: "(pediatric)",
 	ingredient: "naproxen"
 },
 {
 	name: "Exvile",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Febrax (Naproxen and Paracetamol)",
+	name: "Febrax",
 	country: "Turkey",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Flanax",
 	country: "Mexico",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Flanax Forte",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Gao Di (Naproxen and Pseudoephedrine)",
+	name: "Gao Di",
 	country: "Philippines",
+	pair: "(Naproxen and Pseudoephedrine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Gynestrel",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Infatop Fort",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Jia Dan",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Jie Jie",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Karoksen",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Kruidvat Naproxennatrium",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Leidapharm Naproxennatrium",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Liotondol Action",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Lumbal Lafrancol (Naproxen and Caffeine)",
+	name: "Lumbal Lafrancol",
 	country: "Italy",
+	pair: "(Naproxen and Caffeine)",
 	ingredient: "naproxen"
 },
 {
-	name: "Mafidol Compuesto (Naproxen and Paracetamol)",
+	name: "Mafidol Compuesto",
 	country: "Colombia",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Mai Er",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Maxidol",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Maxiflam",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Mednap",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Midol Extended Relief",
 	country: "Turkey",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Miranax",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Momen",
 	country: "Finland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Momendol",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Mox 12 HS",
 	country: "Greece",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Mox Forte",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin Forte",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nalgesin S",
 	country: "Russian Federation",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprelan",
 	country: "Serbia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naprofebril (Naproxen and Paracetamol)",
+	name: "Naprofebril",
 	country: "Canada",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproff",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproflex",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprogesic",
 	country: "Thailand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproksen PharmaS",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprovite",
 	country: "Croatia (Hrvatska)",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxavi",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Aflofarm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Aurobindo",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Emo",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Hasco",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Krka",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Na PCH",
 	country: "Austria",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Na Teva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Schwörer",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sodium",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sodium Amneal",
 	country: "Israel",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sodium Sanis Health",
 	country: "Georgia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen Sodium Shou Chan",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-CT",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxene Forte EG",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxene sodico Doc Generici",
 	country: "Belgium",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxene sodico Dorom",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxène Sodique EG",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxène Sodique Teva",
 	country: "France",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Apotex",
 	country: "France",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Aurobindo",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Banner",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium DA",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Disphar",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium HTP",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Leidapharm",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Nordic",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Sandoz",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxennatrium Teva",
 	country: "Netherlands",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Naproxeno + Paracetamol (Naproxen and Paracetamol)",
+	name: "Naproxeno + Paracetamol",
 	country: "Netherlands",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Cinfa",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Ecuaquimica",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Krka",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Opko",
 	country: "Portugal",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sódico",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico Bussiè",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico Cinfa",
 	country: "Colombia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico Kronos",
 	country: "Spain",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico L.CH.",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico Mintlab",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sodico MK",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxeno Sódico Nifa",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxen-ratiopharm",
 	country: "Ecuador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naproxpharma",
 	country: "Germany",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naprux Rapid",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Napton",
 	country: "Argentina",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Narocin",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxen",
 	country: "Israel",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Naxii",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Neoproxen",
 	country: "Poland",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Noflam-N",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Nomax Dol (Naproxen and Paracetamol)",
+	name: "Nomax Dol",
 	country: "Hong Kong",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Nopain",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nopain DS",
 	country: "Oman",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nopen",
 	country: "Lebanon",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Nopraxin",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Odontogesic",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Onexol Duo (Naproxen and Paracetamol)",
+	name: "Onexol Duo",
 	country: "Peru",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Pamprin All Day Relief Max",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Pharex Naproxen",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "PMS-Naproxen Sodium",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Point",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Ponstan RD",
 	country: "Israel",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "PP Naproxen",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Promaxx Farma",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Proxidol",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Pu Sen Ou Ke (Naproxen and Pseudoephedrine)",
+	name: "Pu Sen Ou Ke",
 	country: "Peru",
+	pair: "(Naproxen and Pseudoephedrine)",
 	ingredient: "naproxen"
 },
 {
 	name: "Qi Gu Ke",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Quilnax Duo (Naproxen and Paracetamol)",
+	name: "Quilnax Duo",
 	country: "China",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "Riva-Naproxen Sodium",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Safrosyn S",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Skelan",
 	country: "Malaysia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Skelan Protect (Naproxen and Omeprazole)",
+	name: "Skelan Protect",
 	country: "Philippines",
+	pair: "(Naproxen and Omeprazole)",
 	ingredient: "naproxen"
 },
 {
 	name: "Soden",
 	country: "Philippines",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Sonaflam",
 	country: "Singapore",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Sonap",
 	country: "New Zealand",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Soproxen",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Sunprox",
 	country: "Singapore",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Sutolin",
 	country: "Singapore",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Synflex",
 	country: "Taiwan",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Tai Guk Narexsin",
 	country: "South Africa",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Tai Ze",
 	country: "South Korea",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Teva-Naproxen Sodium",
 	country: "China",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Teva-Naproxen Sodium DS",
 	country: "Canada",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Tolestan (Naproxen and Sumatriptan)",
+	name: "Tolestan",
 	country: "Canada",
+	pair: "(Naproxen and Sumatriptan)",
 	ingredient: "naproxen"
 },
 {
 	name: "Trekpleister Naproxennatrium",
 	country: "El Salvador",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Treximet (Naproxen and Sumatriptan)",
+	name: "Treximet",
 	country: "Netherlands",
+	pair: "(Naproxen and Sumatriptan)",
 	ingredient: "naproxen"
 },
 {
 	name: "Triox N.F.",
 	country: "United States",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Uninapro",
 	country: "Chile",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Xenapro",
 	country: "Italy",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Xenifar",
 	country: "Bangladesh",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "Xenodol",
 	country: "Indonesia",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
-	name: "Xenoplus (Naproxen and Paracetamol)",
+	name: "Xenoplus",
 	country: "Peru",
-	ingredient: "naproxen"
-},
-{
-	name: "YuanQi",
-	country: "Peru",
-	ingredient: "naproxen"
-},
-{
-	name: "YuanQi",
-	country: "Peru",
+	pair: "(Naproxen and Paracetamol)",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 {
 	name: "YuanQi",
 	country: "Peru",
+	pair: "",
+	ingredient: "naproxen"
+},
+{
+	name: "YuanQi",
+	country: "Peru",
+	pair: "",
+	ingredient: "naproxen"
+},
+{
+	name: "YuanQi",
+	country: "Peru",
+	pair: "",
 	ingredient: "naproxen"
 },
 ];

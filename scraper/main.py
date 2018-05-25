@@ -48,21 +48,11 @@ def returnRegexMatchesFromText(text, regExp):
         return matches
 
 def getStringsWithinBrackets(line):
-    bracketCount = 0
-    charCount = 0
-    newcharcount = 0
     stringInBrackets = ""
-    for l in line:
-        if l == '(':
-            bracketCount += 1
-    for l in line:
-        charCount += 1
-        if l == '(':
-            break
-    charCount -= 1
+    bracketCount = line.count('(')
+    charCount = line.find('(')
     for l in line[charCount:]:
         if bracketCount != 0:
-            newcharcount += 1
             stringInBrackets += l
             if l == ')':
                 bracketCount -= 1

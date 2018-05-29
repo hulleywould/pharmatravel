@@ -48,16 +48,7 @@ def returnRegexMatchesFromText(text, regExp):
         return matches
 
 def getStringsWithinBrackets(line):
-    stringInBrackets = ""
-    bracketCount = line.count('(')
-    charCount = line.find('(')
-    for l in line[charCount:]:
-        if bracketCount != 0:
-            stringInBrackets += l
-            if l == ')':
-                bracketCount -= 1
-    print stringInBrackets
-    return stringInBrackets
+    return line[line.find('('):line.rfind(')') + 1]
 
 def getProduct(url, productname, file):
     string = ""

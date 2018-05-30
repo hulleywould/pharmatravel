@@ -3,6 +3,8 @@ import re
 import fileinput
 import os
 import json
+import string
+import time
 from bs4 import BeautifulSoup
 
 def soupInit(url):
@@ -19,10 +21,10 @@ def createFileDelim(filename, iterable, isText, delimeter):
             file.write(i + delimeter)
     file.close()
 
-def createFile(filename, string):
+def createFile(filename, extention, string):
     if not os.path.exists('../output'):
         os.makedirs('../output')
-    file = open(os.path.join('../output','%s.js'%(filename)), 'wb')
+    file = open(os.path.join('../output','%s.%s'%(filename, extention)), 'wb')
     file.write(string)
     file.close()
 
@@ -74,15 +76,39 @@ def getAllProducts(uri, productList, filename):
             string += getProduct(uri, product, filename)
         return string
 
+
+def getIngredient(index):
+    list_of_ingredients = []    
+    soup = soupInit('https://www.medicines.org.uk/emc/browse-ingredients/%s'%(index))
+    ingredient_box = soup.find_all(attrs={'class': 'key'})
+    for i in ingredient_box:
+        list_of_ingredients.append(i)
+    return list_of_ingredients
+
+
+def getAllIngredients():
+    ingredients = []
+    letters = list(string.ascii_uppercase)
+    for l in letters:
+        ingredients.append(getIngredient(l))
+    ingredients = reduce(lambda x, y: x + y, ingredients)
+    createFileDelim('ingredients', ingredients, True, '\n')
+
 def main():
+    products = []
     data = "exports.data = ["
     filename = 'drugResults'    
     url = 'https://www.drugs.com/international/'
-    products = ['cyclizine', 'amitriptyline', 'paracetamol', 'tramadol', 'sildenafil', 'naproxen']
+    f = open('ingredients.txt')
+    products = f.readlines()
+    f.close()
     data += getAllProducts(url, products, filename)
     data += '];'
-    createFile('output', data)
+    createFile('output', 'js', data)
     deleteFile(filename)
 
 main()
+
+# getAllIngredients()
+
 # getStringsWithinBrackets("he(y (is(a be) a) and that)'s all")

@@ -54,6 +54,7 @@ def getStringsWithinBrackets(line):
 
 def getProduct(url, productname, file):
     string = ""
+    print '%s%s.html'%(url, productname)
     soup = soupInit('%s%s.html'%(url, productname))
     name_box = soup.find_all('li')
     createFileDelim(file, name_box, True, '>>')
@@ -73,6 +74,7 @@ def getProduct(url, productname, file):
 def getAllProducts(uri, productList, filename):
         string = ""    
         for product in productList:
+            print product
             string += getProduct(uri, product, filename)
         return string
 
@@ -96,13 +98,16 @@ def getAllIngredients():
 
 def main():
     products = []
+    prod = []
     data = "exports.data = ["
     filename = 'drugResults'    
     url = 'https://www.drugs.com/international/'
     f = open('ingredients.txt')
     products = f.readlines()
+    for p in products:
+        prod.append(p.replace('\n', '').strip())
     f.close()
-    data += getAllProducts(url, products, filename)
+    data += getAllProducts(url, prod, filename)
     data += '];'
     createFile('output', 'js', data)
     deleteFile(filename)

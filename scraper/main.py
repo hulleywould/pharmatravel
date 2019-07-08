@@ -32,7 +32,7 @@ def createFile(filename, extention, string):
 
 
 def openFile(filename):
-    file = open('%s.txt'%(filename), "r")
+    file = open('%s.txt'%(filename), "r", encoding="utf8")
     text = file.read()
     file.close()
     return text
@@ -112,7 +112,7 @@ if __name__ == '__main__':
     prod = []
     filename = 'drugResults'
     url = 'https://www.drugs.com/international/'
-    f = open('ingredients2.txt')
+    f = open('ingredients.txt')
     for p in f.readlines():
         prod.append(p.strip())
     f.close()

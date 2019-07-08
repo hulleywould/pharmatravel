@@ -1,4 +1,3 @@
-import urllib2
 import re
 import fileinput
 import os
@@ -6,19 +5,29 @@ import json
 import string
 import time
 from bs4 import BeautifulSoup
+from urllib.error import URLError, HTTPError
+from urllib.request import Request, urlopen
 
 def soupInit(url):
-    req = urllib2.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    page = urllib2.urlopen(req).read()
-    return BeautifulSoup(page, 'html.parser')
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        page = urlopen(req).read()
+    except HTTPError as e:
+        print('Error Code', e.code)
+        return False
+    except URLError as e:
+        print('Reason', e.reason)
+        return False
+    else:
+        return BeautifulSoup(page, 'html.parser')
 
 def createFileDelim(filename, iterable, isText, delimeter):
-    file = open('%s.txt'%(filename), 'w')
+    file = open('%s.txt'%(filename), 'wb')
     for i in iterable:
         if isText:
-            file.write(i.text.encode('utf-8') + delimeter)
+            file.write(i.text.encode('utf-8') + delimeter.encode('ascii'))
         else:
-            file.write(i + delimeter)
+            file.write(i.encode('ascii') + delimeter.encode('ascii'))
     file.close()
 
 def createFile(filename, extention, string):
@@ -29,7 +38,7 @@ def createFile(filename, extention, string):
     file.close()
 
 def openFile(filename):
-    file = open('%s.txt'%(filename), "r")
+    file = open('%s.txt'%(filename), "r", encoding="utf8")
     text = file.read()
     file.close()
     return text
@@ -38,7 +47,7 @@ def deleteFile(filename):
     if os.path.exists('%s.txt'%(filename)):
         os.remove('%s.txt'%(filename))
     else:
-        print 'file does not exist'
+        print('file does not exist')
 
 def returnRegexMatchesFromText(text, regExp):
     pattern = re.compile(regExp)
@@ -54,27 +63,33 @@ def getStringsWithinBrackets(line):
 
 def getProduct(url, productname, file):
     string = ""
-    print '%s%s.html'%(url, productname)
+    name = ""
+    country = ""
+    pair = ""
+    print('%s%s.html'%(url, productname))
     soup = soupInit('%s%s.html'%(url, productname))
-    name_box = soup.find_all('li')
-    createFileDelim(file, name_box, True, '>>')
-    text = openFile(file)
-    matches = returnRegexMatchesFromText(text, r'(.*)>>(.*)')
-    for match in matches:
+    if not soup:
+        return ""
+    else:
+        name_box = soup.find_all('li')
+        createFileDelim(file, name_box, True, '>>')
+        text = openFile(file)
+        matches = returnRegexMatchesFromText(text, r'(.*)>>(.*)')
         pattern = re.compile(r'(,([\s\S]*?);|,([\s\S]*?)$)')
-        find = pattern.findall(match[0])
-        if '>>' not in match[0]:
-            for f in find:
-                name = match[1]
-                country = f[0].replace(', ', '')
-                pair = getStringsWithinBrackets(name)
-            string += "{\n\tname: \"%s\",\n\tcountry: \"%s\",\n\tpair: \"%s\",\n\tingredient: \"%s\"\n},\n"%(name.replace(pair, '').strip(), country, pair, productname)    
-    return string  
+        for match in matches:
+            find = pattern.findall(match[0])
+            if '>>' not in match[0]:
+                for f in find:
+                    name = match[1]
+                    country = f[0].replace(', ', '')
+                    pair = getStringsWithinBrackets(name)
+                string += "{\n\tname: \"%s\",\n\tcountry: \"%s\",\n\tpair: \"%s\",\n\tingredient: \"%s\"\n},\n"%(name.replace(pair, '').strip(), country, pair, productname)    
+        return string
 
 def getAllProducts(uri, productList, filename):
         string = ""    
         for product in productList:
-            print product
+            print(product)
             string += getProduct(uri, product, filename)
         return string
 

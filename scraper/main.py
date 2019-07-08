@@ -34,7 +34,7 @@ def createFile(filename, extention, string):
     if not os.path.exists('../output'):
         os.makedirs('../output')
     file = open(os.path.join('../output','%s.%s'%(filename, extention)), 'wb')
-    file.write(string)
+    file.write(string.encode())
     file.close()
 
 def openFile(filename):
@@ -117,7 +117,7 @@ def main():
     data = "exports.data = ["
     filename = 'drugResults'    
     url = 'https://www.drugs.com/international/'
-    f = open('ingredients.txt')
+    f = open('ingredients2.txt')
     products = f.readlines()
     for p in products:
         prod.append(p.replace('\n', '').strip())

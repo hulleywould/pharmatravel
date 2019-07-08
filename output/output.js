@@ -857,6 +857,102 @@ exports.data = [{
 	ingredient: "abacavir"
 },
 {
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abacavir sulfate"
+},
+{
 	name: "Old test med-test URL",
 	country: "Ireland",
 	pair: "",
@@ -965,7 +1061,7 @@ exports.data = [{
 	ingredient: "abciximab"
 },
 {
-	name: "Réopro",
+	name: "RÃ©opro",
 	country: "Singapore",
 	pair: "",
 	ingredient: "abciximab"
@@ -1029,6 +1125,102 @@ exports.data = [{
 	country: "Switzerland",
 	pair: "",
 	ingredient: "abciximab"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abietis oil"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "abiraterone acetate"
 },
 {
 	name: "Campral EC",
@@ -1149,6 +1341,54 @@ exports.data = [{
 	country: "Argentina",
 	pair: "",
 	ingredient: "acamprosate"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acamprosate calcium"
 },
 {
 	name: "Acabose",
@@ -1793,6 +2033,54 @@ exports.data = [{
 	ingredient: "acarbose"
 },
 {
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
+	name: "",
+	country: "",
+	pair: "",
+	ingredient: "acebutolol hydrochloride"
+},
+{
 	name: "Abate-SR",
 	country: "India",
 	pair: "",
@@ -2051,7 +2339,7 @@ exports.data = [{
 	ingredient: "aceclofenac"
 },
 {
-	name: "Acéclofénac Accord 100 mg",
+	name: "AcÃ©clofÃ©nac Accord 100 mg",
 	country: "Slovakia",
 	pair: "",
 	ingredient: "aceclofenac"
@@ -2069,7 +2357,7 @@ exports.data = [{
 	ingredient: "aceclofenac"
 },
 {
-	name: "Acéclofénac Biogaran 100 mg",
+	name: "AcÃ©clofÃ©nac Biogaran 100 mg",
 	country: "Portugal",
 	pair: "",
 	ingredient: "aceclofenac"
@@ -2093,7 +2381,7 @@ exports.data = [{
 	ingredient: "aceclofenac"
 },
 {
-	name: "Acéclofénac EG 100 mg",
+	name: "AcÃ©clofÃ©nac EG 100 mg",
 	country: "Luxembourg",
 	pair: "",
 	ingredient: "aceclofenac"
@@ -2123,7 +2411,7 @@ exports.data = [{
 	ingredient: "aceclofenac"
 },
 {
-	name: "Acéclofénac Mylan 100 mg",
+	name: "AcÃ©clofÃ©nac Mylan 100 mg",
 	country: "Portugal",
 	pair: "",
 	ingredient: "aceclofenac"

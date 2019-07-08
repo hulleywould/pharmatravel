@@ -27,7 +27,7 @@ def createFile(filename, extention, string):
     if not os.path.exists('../output'):
         os.makedirs('../output')
     file = open(os.path.join('../output','%s.%s' % (filename, extention)), 'wb')
-    file.write(string)
+    file.write(string.encode('utf8'))
     file.close()
 
 
